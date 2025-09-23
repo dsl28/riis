@@ -4,4 +4,4 @@ Digital humanities project for Dr. Campbell's course at the University of Pittsb
 Documentation Officer- Sam Capasso
 HTML/UX Design- Dylan Leonard
 Jess Mateer- Team Coordinator/Subject Expert
-Abdul- TBD
+Abdul Waheed- TBD
