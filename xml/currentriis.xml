@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
+<?xml-model href="riis.rnc" type="application/relax-ng-compact-syntax"?>
+<riis>
+  
        HOW THE OTHER HALF LIVES
 
   [Illustration: GOTHAM COURT.]
@@ -462,7 +464,7 @@ greed of man?"</introduction>
 
                                CHAPTER I.
 
-                        GENESIS OF THE TENEMENT.
+                        <chapterTitle>GENESIS OF THE TENEMENT.</chapterTitle>
 
 
 <chapter subject= "housing">The first tenement New York knew bore the mark of Cain from its birth,
@@ -666,10 +668,10 @@ dwellings at $15 a year each; cost of the whole $600."]</chapter>
 
                               CHAPTER II.
 
-                             THE AWAKENING.
+                             <chapterTitle>THE AWAKENING.</chapterTitle>
 
 
-The dread of advancing cholera, with the guilty knowledge of the
+<chapter subject= "disease">The dread of advancing cholera, with the guilty knowledge of the
 harvest field that awaited the plague in New York's slums, pricked the
 conscience of the community into action soon after the close of the
 war. A citizens' movement resulted in the organization of a Board of
@@ -798,17 +800,17 @@ the mercy expected. The tenements to-day are New York, harboring
 three-fourths of its population. When another generation shall have
 doubled the census of our city, and to that vast army of workers, held
 captive by poverty, the very name of home shall be as a bitter mockery,
-what will the harvest be?
+what will the harvest be?</chapter>
 
 
 
 
                               CHAPTER III.
 
-                            THE MIXED CROWD.
+                            <chapterTitle>THE MIXED CROWD.</chapterTitle>
 
 
-When once I asked the agent of a notorious Fourth Ward alley how
+<chapter subject= "ethnicity">When once I asked the agent of a notorious Fourth Ward alley how
 many people might be living in it I was told: One hundred and forty
 families, one hundred Irish, thirty-eight Italian, and two that
 spoke the German tongue. Barring the agent herself, there was not a
@@ -1001,17 +1003,17 @@ saying, unhappily become a maxim of social truth, that pauperism and
 drunkenness naturally grow in the tenements. He makes the most of his
 tenement, and it should be added that whenever and as soon as he can
 save up money enough, he gets out and never crosses the threshold of
-one again.
+one again.</chapter>
 
 
 
 
                               CHAPTER IV.
 
-                       THE DOWN TOWN BACK-ALLEYS.
+                       <chapterTitle>THE DOWN TOWN BACK-ALLEYS.</chapterTitle>
 
 
-Down below Chatham Square, in the old Fourth Ward, where the cradle
+<chapter subject = "poverty">Down below Chatham Square, in the old Fourth Ward, where the cradle
 of the tenement stood, we shall find New York's Other Half at home,
 receiving such as care to call and are not afraid. Not all of it,
 to be sure, there is not room for that; but a fairly representative
@@ -1491,17 +1493,17 @@ He has never found time to explain how the fact fits into his general
 theory that life is not unbearable in the tenements. Unhappily for the
 philosophy of the slums, it is too apt to be of the kind that readily
 recognizes the saloon, always handy, as the refuge from every trouble,
-and shapes its practice according to the discovery.
+and shapes its practice according to the discovery.</chapter>
 
 
 
 
                                CHAPTER V.
 
-                        THE ITALIAN IN NEW YORK.
+                        <chapterTitle>THE ITALIAN IN NEW YORK.</chapterTitle>
 
 
-Certainly a picturesque, if not very tidy, element has been added to
+<chapter subject= "ethnicity">Certainly a picturesque, if not very tidy, element has been added to
 the population in the "assisted" Italian immigrant who claims so large
 a share of public attention, partly because he keeps coming at such a
 tremendous rate, but chiefly because he elects to stay in New York,
@@ -1639,16 +1641,16 @@ way, inoffensive as a child. His worst offence is that he keeps the
 stale-beer dives. Where his headquarters is, in the Mulberry Street
 Bend, these vile dens flourish and gather about them all the wrecks,
 the utterly wretched, the hopelessly lost, on the lowest slope of
-depraved humanity. And out of their misery he makes a profit.
+depraved humanity. And out of their misery he makes a profit.</chapter>
 
   [Illustration]
   
       CHAPTER VI.
 
-                               THE BEND.
+  <chapterTitle>THE BEND.</chapterTitle>
 
 
-Where Mulberry Street crooks like an elbow within hail of the old
+<chapter subject= "poverty">Where Mulberry Street crooks like an elbow within hail of the old
 depravity of the Five Points, is "the Bend," foul core of New York's
 slums. Long years ago the cows coming home from the pasture trod a
 path over this hill. Echoes of tinkling bells linger there still, but
@@ -1985,17 +1987,17 @@ two men, an old woman, and a young girl. The landlord opened the
 door with alacrity, and exhibited with a proud sweep of his hand the
 sacrifice he had made of his personal interests to satisfy the law. Our
 visit had been anticipated. The policeman's back was probably no sooner
-turned than the room was re-opened for business.
+turned than the room was re-opened for business.</chapter>
 
 
 
 
                               CHAPTER VII.
 
-                    A RAID ON THE STALE-BEER DIVES.
+                    <chapterTitle>A RAID ON THE STALE-BEER DIVES.</chapterTitle>
 
 
-Midnight roll-call was over in the Elizabeth Street police-station,
+<chapter subject= "crime">Midnight roll-call was over in the Elizabeth Street police-station,
 but the reserves were held under orders. A raid was on foot, but
 whether on the Chinese fan-tan games, on the opium joints of Mott and
 Pell Streets, or on dens of even worse character, was a matter of
@@ -2223,17 +2225,17 @@ the wheat, if there be any wheat there. A man goes from his first
 night's sleep on the hard slab of a police station lodging-room to a
 deck-hand's berth on an out-going steamer, to the recruiting office, to
 any work that is honest, or he goes "to the devil or the dives, same
-thing," says my friend, the Sergeant, who knows.
+thing," says my friend, the Sergeant, who knows.</chapter>
 
 
 
 
 CHAPTER VIII.
 
-THE CHEAP LODGING-HOUSES.
+<chapterTitle>THE CHEAP LODGING-HOUSES.</chapterTitle>
 
 
-When it comes to the question of numbers with this tramps' army,
+<chapter subject = "housing">When it comes to the question of numbers with this tramps' army,
 another factor of serious portent has to be taken into account: the
 cheap lodging-houses. In the caravanseries that line Chatham Street and
 the Bowery, harboring nightly a population as large as that of many a
@@ -2481,14 +2483,14 @@ number kept growing until one morning, at the end of two weeks, found
 by actual count 2,014 shivering creatures in line waiting their turn
 for a seat at his tables. The shop was closed that day. It was one of
 the rare instances of too great a rush of custom wrecking a promising
-business, and the great problem remained unsolved.
+business, and the great problem remained unsolved.</chapter>
 
 CHAPTER IX.
 
-CHINATOWN.
+<chapterTitle>CHINATOWN.</chapterTitle>
 
 
-Between the tabernacles of Jewry and the shrines of the Bend, Joss
+<chapter subject= "race">Between the tabernacles of Jewry and the shrines of the Bend, Joss
 has cheekily planted his pagan worship of idols, chief among which
 are the celestial worshipper's own gain and lusts. Whatever may be
 said about the Chinaman being a thousand years behind the age on his
@@ -2773,7 +2775,7 @@ the question. They might and they might not. The chance is the span
 between life and death. From any other form of dissipation than that
 for which Chinatown stands there is recovery: for the victims of any
 other vice, hope. For these there is neither hope nor recovery; nothing
-but death--moral, mental, and physical death.
+but death--moral, mental, and physical death.</chapter>
 
   [Illustration]
 
@@ -2782,10 +2784,10 @@ but death--moral, mental, and physical death.
 
                                CHAPTER X.
 
-                                JEWTOWN.
+                                <chapterTitle>JEWTOWN.</chapterTitle>
 
 
-The tenements grow taller, and the gaps in their ranks close up rapidly
+<chapter subject= "ethnicity">The tenements grow taller, and the gaps in their ranks close up rapidly
 as we cross the Bowery and, leaving Chinatown and the Italians behind,
 invade the Hebrew quarter. Baxter Street, with its interminable rows
 of old clothes shops and its brigades of pullers-in--nicknamed "the
@@ -3139,17 +3141,17 @@ line of despoiled hucksters shouting defiance from a safe distance.
 Their clamor dies away with the noise of the market. The endless
 panorama of the tenements, rows upon rows, between stony streets,
 stretches to the north, to the south, and to the west as far as the eye
-reaches.
+reaches.</chapter>
 
 
 
 
                               CHAPTER XI.
 
-                        THE SWEATERS OF JEWTOWN.
+  <chapterTitle>THE SWEATERS OF JEWTOWN.</chapterTitle>
 
 
-Anything like an exhaustive discussion of the economical problem
+<chapter subject= "labor">Anything like an exhaustive discussion of the economical problem
 presented by the Tenth Ward[13] is beset by difficulties that increase
 in precise proportion to the efforts put forth to remove them. I have
 too vivid a recollection of weary days and nights spent in those
@@ -3841,17 +3843,17 @@ education, all the more urgent because these people are poor, miserably
 poor almost to a man. "There is not," said one of them, who knew
 thoroughly what he was speaking of, "there is not one of them all, who,
 if he were to sell all he was worth to-morrow, would have money enough
-to buy a house and lot in the country."
+to buy a house and lot in the country."</chapter>
 
 
 
 
                              CHAPTER XIII.
 
-                      THE COLOR LINE IN NEW YORK.
+  <chapterTitle>THE COLOR LINE IN NEW YORK.</chapterTitle>
 
 
-The color line must be drawn through the tenements to give the picture
+<chapter subject= "race">The color line must be drawn through the tenements to give the picture
 its proper shading. The landlord does the drawing, does it with an
 absence of pretence, a frankness of despotism, that is nothing if not
 brutal. The Czar of all the Russias is not more absolute upon his own
@@ -4141,17 +4143,17 @@ kept him from rising under a burden of responsibility to which he could
 hardly be equal. And in this view he may be seen to have advanced much
 farther and faster than before suspected, and to promise, after all,
 with fair treatment, quite as well as the rest of us, his white-skinned
-fellow-citizens, had any right to expect.
+fellow-citizens, had any right to expect.</chapter>
 
 
 
 
                               CHAPTER XIV.
 
-                            THE COMMON HERD.
+  <chapterTitle>THE COMMON HERD.</chapterTitle>
 
 
-There is another line not always so readily drawn in the tenements,
+<chapter subject= "housing">There is another line not always so readily drawn in the tenements,
 yet the real boundary line of the Other Half: the one that defines the
 "flat." The law does not draw it at all, accounting all flats tenements
 without distinction. The health officer draws it from observation,
@@ -4638,7 +4640,7 @@ police pick up and the city adopts as its wards, are balanced by the
 even more forlorn lives that are ended in the river. I do not know how
 or why it happens, or that it is more than a mere coincidence. But
 there it is. Year by year the balance is struck--a few more, a few
-less--substantially the same when the record is closed.
+less--substantially the same when the record is closed.</chapter>
 
   [Illustration: THE TRENCH IN THE POTTER'S FIELD.]
 
@@ -4647,10 +4649,10 @@ less--substantially the same when the record is closed.
 
                               CHAPTER XV.
 
-                      THE PROBLEM OF THE CHILDREN.
+  <chapterTitle>THE PROBLEM OF THE CHILDREN.</chapterTitle>
 
 
-The problem of the children becomes, in these swarms, to the last
+<chapter subject= "society">The problem of the children becomes, in these swarms, to the last
 degree perplexing. Their very number make one stand aghast. I have
 already given instances of the packing of the child population in East
 Side tenements. They might be continued indefinitely until the array
@@ -4861,17 +4863,17 @@ prisons, its reformatories, and its workhouses are opened wide the year
 round. What the showing would be at this end of the line were it not
 for the barriers wise charity has thrown across the broad highway to
 ruin--is building day by day--may be measured by such results as those
-quoted above in the span of a single life.
+quoted above in the span of a single life.</chapter>
 
 
 
 
                               CHAPTER XVI.
 
-                       WAIFS OF THE CITY'S SLUMS.
+                       <chapterTitle>WAIFS OF THE CITY'S SLUMS.</chapterTitle>
 
 
-First among these barriers is the Foundling Asylum. It stands at the
+<chapter subject= "children">First among these barriers is the Foundling Asylum. It stands at the
 very outset of the waste of life that goes on in a population of nearly
 two millions of people; powerless to prevent it, though it gather
 in the outcasts by night and by day. In a score of years an army of
@@ -5419,7 +5421,7 @@ sending their sons to the trade schools to be taught,[19] one may
 perhaps be permitted to hope that an era of better sense is dawning
 that shall witness a rescue work upon lines which, when the leaven has
 fairly had time to work, will put an end to the existence of the New
-York Street Arab, of the native breed at least.
+York Street Arab, of the native breed at least.</chapter>
 
 [Footnote 19: Colonel Auchmuty's own statement.]
 
@@ -5428,10 +5430,10 @@ York Street Arab, of the native breed at least.
 
                              CHAPTER XVIII.
 
-                           THE REIGN OF RUM.
+                           <chapterTitle>THE REIGN OF RUM.</chapterTitle>
 
 
-Where God builds a church the devil builds next door--a saloon, is
+<chapter subject= "vice">Where God builds a church the devil builds next door--a saloon, is
 an old saying that has lost its point in New York. Either the devil
 was on the ground first, or he has been doing a good deal more in the
 way of building. I tried once to find out how the account stood, and
@@ -5576,17 +5578,17 @@ for the boy, once its blighting grip is upon him. Thenceforward the
 logic of the slums, that the world which gave him poverty and ignorance
 for his portion "owes him a living," is his creed, and the career of
 the "tough" lies open before him, a beaten track to be blindly followed
-to a bad end in the wake of the growler.
+to a bad end in the wake of the growler.</chapter>
 
 
 
 
                               CHAPTER XIX.
 
-                         THE HARVEST OF TARES.
+                         <chapterTitle>THE HARVEST OF TARES.</chapterTitle>
 
 
-The "growler" stood at the cradle of the tough. It bosses him through
+<chapter subject= "crime">The "growler" stood at the cradle of the tough. It bosses him through
 his boyhood apprenticeship in the "gang," and leaves him, for a time
 only, at the door of the jail that receives him to finish his training
 and turn him loose upon the world a thief, to collect by stealth or by
@@ -5995,17 +5997,17 @@ protest, even the tough has not lived in vain. This measure of credit
 at least should be accorded him, that, with or without his good-will,
 he has been a factor in urging on the battle against the slums that
 bred him. It is a fight in which eternal vigilance is truly the price
-of liberty and the preservation of society.
+of liberty and the preservation of society.</chapter>
 
 
 
 
                               CHAPTER XX.
 
-                     THE WORKING GIRLS OF NEW YORK.
+                     <chapterTitle>THE WORKING GIRLS OF NEW YORK.</chapterTitle>
 
 
-Of the harvest of tares, sown in iniquity and reaped in wrath, the
+<chapter subject= "vice">Of the harvest of tares, sown in iniquity and reaped in wrath, the
 police returns tell the story. The pen that wrote the "Song of the
 Shirt" is needed to tell of the sad and toil-worn lives of New York's
 working-women. The cry echoes by night and by day through its tenements:
@@ -6226,17 +6228,17 @@ The organization of working girls' clubs, unions, and societies with a
 community of interests, despite the obstacles to such a movement, bears
 testimony to it, as to the devotion of the unselfish women who have
 made their poorer sisters' cause their own, and will yet wring from an
-unfair world the justice too long denied her.
+unfair world the justice too long denied her.</chapter>
 
 
 
 
                               CHAPTER XXI.
 
-                      PAUPERISM IN THE TENEMENTS.
+                      <chaptertitle>PAUPERISM IN THE TENEMENTS.</chaptertitle>
 
 
-The reader who has followed with me the fate of the Other Half thus
+<chapter subject= "poverty">The reader who has followed with me the fate of the Other Half thus
 far, may not experience much of a shock at being told that in eight
 years 135,595 families in New York were registered as asking or
 receiving charity. Perhaps, however, the intelligence will rouse him
@@ -6517,17 +6519,17 @@ of pauperism in the city. We can never get rid of either the tenement
 or the pauper. The two will always exist together in New York. But by
 reforming the one, we can do more toward exterminating the other than
 can be done by all other means together that have yet been invented, or
-ever will be.
+ever will be.</chapter>
 
 
 
 
                              CHAPTER XXII.
 
-                       THE WRECKS AND THE WASTE.
+                       <chapterTitle>THE WRECKS AND THE WASTE.</chapterTitle>
 
 
-Pauperdom is to blame for the unjust yoking of poverty with punishment,
+<chapter subject= "corrections">Pauperdom is to blame for the unjust yoking of poverty with punishment,
 "charities" with "correction," in our municipal ministering to the
 needs of the Nether Half. The shadow of the workhouse points like a
 scornful finger toward its neighbor, the almshouse, when the sun sets
@@ -6731,17 +6733,17 @@ the care of all their wards the commissioners expended $2,343,372. The
 appropriation for the police force in 1889 was $4,409,550.94, and for
 the criminal courts and their machinery $403,190. Thus the first cost
 of maintaining our standing army of paupers, criminals, and sick poor,
-by direct taxation, was last year $7,156,112.94.
+by direct taxation, was last year $7,156,112.94.</chapter>
 
 
 
 
                              CHAPTER XXIII.
 
-                        THE MAN WITH THE KNIFE.
+                        <chapterTitle>THE MAN WITH THE KNIFE.</chapterTitle>
 
 
-A man stood at the corner of Fifth Avenue and Fourteenth Street the
+<chapter subject= "crime">A man stood at the corner of Fifth Avenue and Fourteenth Street the
 other day, looking gloomily at the carriages that rolled by, carrying
 the wealth and fashion of the avenues to and from the big stores down
 town. He was poor, and hungry, and ragged. This thought was in his
@@ -6858,14 +6860,14 @@ church last winter, "and forgetting the inner man?" I told him, "No!
 for you cannot expect to find an inner man to appeal to in the worst
 tenement-house surroundings. You must first put the man where he can
 respect himself. To reverse the argument of the apple: you cannot
-expect to find a sound core in a rotten fruit."
+expect to find a sound core in a rotten fruit."</chapter>
 
    CHAPTER XXIV.
 
-                          WHAT HAS BEEN DONE.
+                          <chapterTitle>WHAT HAS BEEN DONE.</chapterTitle>
 
 
-In twenty years what has been done in New York to solve the
+<chapter subject= "reform">In twenty years what has been done in New York to solve the
 tenement-house problem?
 
 The law has done what it could. That was not always a great deal,
@@ -7213,17 +7215,17 @@ upon for relief sad makeshifts, we can dimly discern behind it all that
 good is somehow working out of even this slough of despond the while
 it is deepening and widening in our sight, and in His own good season,
 if we labor on with courage and patience, will bear fruit sixty and a
-hundred fold.
+hundred fold. </chapter>
 
 
 
 
                               CHAPTER XXV.
 
-                          HOW THE CASE STANDS.
+                          <chapterTitle>HOW THE CASE STANDS.</chapterTitle>
 
 
-What, then, are the bald facts with which we have to deal in New York?
+<chapter subject= "reform">What, then, are the bald facts with which we have to deal in New York?
 
 I. That we have a tremendous, ever swelling crowd of wage-earners which
 it is our business to house decently.
@@ -7576,7 +7578,7 @@ such is the leavening influence of a good deed in that dreary desert
 of sin and suffering, that the erection of a single good tenement has
 the power to change, gradually but surely, the character of a whole bad
 block. It sets up a standard to which the neighborhood must rise, if it
-cannot succeed in dragging it down to its own low level.
+cannot succeed in dragging it down to its own low level.</chapter>
 
        *       *       *       *       *
 
@@ -7861,6 +7863,6 @@ p. 256  tantilizes                    _sic_
 
 
 
-</root>
+</riis>
   
   

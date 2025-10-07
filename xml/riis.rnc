@@ -1,0 +1,12 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = riis
+
+riis = element riis { introduction, chapterTitle, chapter, text }
+
+introduction = element introduction {text}
+chapterTitle = element chapterTitle {text}
+chapter = element chapter { subject, text }
+
+subject = attribute subject {text}
+
