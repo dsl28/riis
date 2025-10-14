@@ -5081,16 +5081,16 @@ happier little group one may seek long and far in vain.
 
 
 
-                             CHAPTER XVII.
+  <chapnum number= "17"> CHAPTER XVII.</chapnum>
 
-                            THE STREET ARAB.
+  <chaptitle name="THE STREET ARAB"> THE STREET ARAB.</chaptitle>
 
 
-Not all the barriers erected by society against its nether life, not
+<narrative subject= "homelessness">Not all the barriers erected by society against its nether life, not
 the labor of unnumbered societies for the rescue and relief of its
 outcast waifs, can dam the stream of homelessness that issues from a
-source where the very name of home is a mockery. The Street Arab is
-as much of an institution in New York as Newspaper Row, to which he
+source where the very name of home is a mockery.</narrative> <subject type= "vagabonding">The Street Arab is
+as much of an institution in New York as <location= "Newspaper Row">Newspaper Row,</location> to which he
 gravitates naturally, following his Bohemian instinct. Crowded out
 of the tenements to shift for himself, and quite ready to do it, he
 meets there the host of adventurous runaways from every State in the
@@ -5122,9 +5122,9 @@ lawyers all over the country, statesmen in some instances of national
 repute, bear evidence in their lives to the potency of such missionary
 efforts. There is scarcely a learned profession, or branch of honorable
 business, that has not in the last twenty years borrowed some of its
-brightest light from the poverty and gloom of New York's streets.
+brightest light from the poverty and gloom of New York's streets.</subject>
 
-Anyone, whom business or curiosity has taken through Park Row or across
+<subject type= "children">Anyone, whom business or curiosity has taken through Park Row or across
 Printing House Square in the midnight hour, when the air is filled with
 the roar of great presses spinning with printers' ink on endless rolls
 of white paper the history of the world in the twenty-four hours that
