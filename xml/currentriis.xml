@@ -5086,11 +5086,11 @@ happier little group one may seek long and far in vain.
   <chaptitle name="THE STREET ARAB"> THE STREET ARAB.</chaptitle>
 
 
-<narrative subject= "homelessness">Not all the barriers erected by society against its nether life, not
+<narrative>Not all the barriers erected by society against its nether life, not
 the labor of unnumbered societies for the rescue and relief of its
 outcast waifs, can dam the stream of homelessness that issues from a
-source where the very name of home is a mockery.</narrative> <subject type= "vagabonding">The Street Arab is
-as much of an institution in New York as <location= "Newspaper Row">Newspaper Row,</location> to which he
+source where the very name of home is a mockery. The Street Arab is
+as much of an institution in New York as <location name= "Newspaper Row">Newspaper Row,</location> to which he
 gravitates naturally, following his Bohemian instinct. Crowded out
 of the tenements to shift for himself, and quite ready to do it, he
 meets there the host of adventurous runaways from every State in the
@@ -5104,9 +5104,9 @@ are alone in the world. The unmerciful "guying" the good man would
 receive, who went to them with such a programme, would soon convince
 him that that sort of pity was wasted, and would very likely give him
 the idea that they were a set of hardened little scoundrels, quite
-beyond the reach of missionary effort.
+beyond the reach of missionary effort.</narrative>
 
-But that would only be his second mistake. The Street Arab has all the
+<narrative>But that would only be his second mistake. The Street Arab has all the
 faults and all the virtues of the lawless life he leads. Vagabond that
 he is, acknowledging no authority and owing no allegiance to anybody or
 anything, with his grimy fist raised against society whenever it tries
@@ -5122,21 +5122,21 @@ lawyers all over the country, statesmen in some instances of national
 repute, bear evidence in their lives to the potency of such missionary
 efforts. There is scarcely a learned profession, or branch of honorable
 business, that has not in the last twenty years borrowed some of its
-brightest light from the poverty and gloom of New York's streets.</subject>
+brightest light from the poverty and gloom of New York's streets.</narrative>
 
-<subject type= "children">Anyone, whom business or curiosity has taken through Park Row or across
-Printing House Square in the midnight hour, when the air is filled with
+Anyone, whom business or curiosity has taken through <location name= "Park Row"/>Park Row or across
+<location name= "Printing House Square"/><children>Printing House Square in the midnight hour, when the air is filled with
 the roar of great presses spinning with printers' ink on endless rolls
 of white paper the history of the world in the twenty-four hours that
-have just passed away, has seen little groups of these boys hanging
+have just passed away, has seen <conditions type= "living">little groups of these boys hanging
 about the newspaper offices; in winter, when snow is on the streets,
 fighting for warm spots around the grated vent-holes that let out
 the heat and steam from the underground press-rooms with their noise
 and clatter, and in summer playing craps and 7-11 on the curb for
 their hard-earned pennies, with all the absorbing concern of hardened
-gamblers. This is their beat. Here the agent of the Society for the
+gamblers.</conditions> This is their beat. Here the agent of the Society for the
 Prevention of Cruelty to Children finds those he thinks too young for
-"business," but does not always capture them. Like rabbits in their
+"business," but does not always capture them. <conditions type= "living">Like rabbits in their
 burrows, the little ragamuffins sleep with at least one eye open,
 and every sense alert to the approach of danger: of their enemy, the
 policeman, whose chief business in life is to move them on, and of the
@@ -5153,13 +5153,13 @@ raise the cover in the street, slide down in single file, and snuggle
 up to the warm boiler out of harm's way, as they thought. It proved a
 trap, however. The agent slid down himself one cold night--there was
 no other way of getting there--and, landing right in the midst of the
-sleeping colony, had it at his mercy. After repeated raids upon their
+sleeping colony, had it at his mercy.</conditions> After repeated raids upon their
 headquarters, the boys forsook it last summer, and were next found
 herding under the shore-end of one of the East River banana docks,
 where they had fitted up a regular club-room that was shared by thirty
-or forty homeless boys and about a million rats.
+or forty homeless boys and about a million rats.</children>
 
-Newspaper Row is merely their headquarters. They are to be found all
+<narrative>Newspaper Row is merely their headquarters. They are to be found all
 over the city, these Street Arabs, where the neighborhood offers a
 chance of picking up a living in the daytime and of "turning in"
 at night with a promise of security from surprise. In warm weather
@@ -5169,7 +5169,7 @@ nest once in the end of a big iron pipe up by the Harlem Bridge,
 and an old boiler at the East River served as an elegant flat for
 another couple, who kept house there with a thief the police had long
 sought, little suspecting that he was hiding under their very noses
-for months together. When the Children's Aid Society first opened
+for months together.</narrative> <children>When the Children's Aid Society first opened
 its lodging-houses, and with some difficulty persuaded the boys that
 their charity was no "pious dodge" to trap them into a treasonable
 "Sunday-school racket," its managers overheard a laughable discussion
@@ -5183,9 +5183,9 @@ voted a good way ahead of any previous experience, however. "My eyes,
 ain't it nice!" said one of the lads, tucked in under his blanket up
 to the chin, and the roomful of boys echoed the sentiment. The compact
 silently made that night between the Street Arabs and their hosts has
-never been broken. They have been fast friends ever since.
+never been broken. They have been fast friends ever since.</children>
 
-Whence this army of homeless boys? is a question often asked. The
+<children>Whence this army of homeless boys? is a question often asked. The
 answer is supplied by the procession of mothers that go out and in at
 Police Headquarters the year round, inquiring for missing boys, often
 not until they have been gone for weeks and months, and then sometimes
@@ -5206,22 +5206,22 @@ sister kept house for the father, who turned the boys out to beg, or
 steal, or starve. Grinding poverty and hard work beyond the years of
 the lad; blows and curses for breakfast, dinner, and supper; all these
 are recruiting agents for the homeless army. Sickness in the house, too
-many mouths to feed:
+many mouths to feed:</children>
 
-  [Illustration: "DIDN'T LIVE NOWHERE."]
+  <illustration title= "DIDN'T LIVE NOWHERE.">[Illustration: "DIDN'T LIVE NOWHERE."]</illustration>
 
 "We wuz six," said an urchin of twelve or thirteen I came across in the
 Newsboys' Lodging House, "and we ain't got no father. Some on us had
-to go." And so he went, to make a living by blacking boots. The going
-is easy enough. There is very little to hold the boy who has never
+to go." And so he went, to make a living by <work job= "blacking boots">blacking boots.</work> The going
+is easy enough. <children>There is very little to hold the boy who has never
 known anything but a home in a tenement. Very soon the wild life in
 the streets holds him fast, and thenceforward by his own effort there
 is no escape. Left alone to himself, he soon enough finds a place in
 the police books, and there would be no other answer to the second
 question: "what becomes of the boy?" than that given by the criminal
-courts every day in the week.
+courts every day in the week.</children>
 
-But he is not left alone. Society in our day has no such suicidal
+<children>But he is not left alone. Society in our day has no such suicidal
 intention. Right here, at the parting of the ways, it has thrown up
 the strongest of all its defences for itself and for the boy. What
 the Society for the Prevention of Cruelty to Children is to the
@@ -5237,11 +5237,11 @@ that the boy shall be really without a home; but upon this the managers
 wisely do not insist too obstinately, accepting without too close
 inquiry his account of himself where that seems advisable, well knowing
 that many a home that sends forth such lads far less deserves the name
-than the one they are able to give them.
+than the one they are able to give them.</children>
 
-  [Illustration: STREET ARABS IN SLEEPING QUARTERS.]
+  <illustration title= "STREET ARABS IN SLEEPING QUARTERS.">[Illustration: STREET ARABS IN SLEEPING QUARTERS.]</illustration>
 
-With these simple preliminaries the outcast boy may enter. Rags do
+<children>With these simple preliminaries the outcast boy may enter. Rags do
 not count; to ignorance the door is only opened wider. Dirt does not
 survive long, once within the walls of the lodging-house. It is the
 settled belief of the men who conduct them that soap and water are as
@@ -5270,9 +5270,9 @@ him. Quite on the contrary, around this sound core of self-help, thus
 encouraged, habits of thrift and ambitious industry are seen to grow up
 in a majority of instances. The boy is "growing" a character, and he
 goes out to the man's work in life with that which for him is better
-than if he had found a fortune.
+than if he had found a fortune.</children>
 
-Six cents for his bed, six for his breakfast of bread and coffee, and
+<children>Six cents for his bed, six for his breakfast of bread and coffee, and
 six for his supper of pork and beans, as much as he can eat, are the
 rates of the boys' "hotel" for those who bunk together in the great
 dormitories that sometimes hold more than a hundred berths, two tiers
@@ -5300,12 +5300,12 @@ supervision when recently the lads in the Duane Street Lodging House
 temporary eclipse until this new toy had been tested to the extent of
 several miniature black eyes upon which soap had no effect, and sundry
 little scores had been settled that evened things up, as it were, for a
-fresh start.
+fresh start.</children>
 
- [Illustration: GETTING READY FOR SUPPER IN THE NEWSBOYS' LODGING
-                 HOUSE.]
+  <illustration title= " GETTING READY FOR SUPPER IN THE NEWSBOYS' LODGING HOUSE.">
+    [Illustration: GETTING READY FOR SUPPER IN THE NEWSBOYS' LODGING HOUSE.]</illustration>
 
-I tried one night, not with the best of success I confess, to
+<narrative>I tried one night, not with the best of success I confess, to
 photograph the boys in their wash-room, while they were cleaning up
 for supper. They were quite turbulent, to the disgust of one of their
 number who assumed, unasked, the office of general manager of the show,
@@ -5316,13 +5316,13 @@ picture."
 "Yes," I said, "but it isn't in them, I suppose."
 
 "No, b'gosh!" said he, lapsing suddenly from grace under the
-provocation, "them kids ain't got no sense, nohow!"
+provocation, "them kids ain't got no sense, nohow!"</narrative>
 
-The Society maintains five of these boys' lodging houses, and one
-for girls, in the city. The Duane Street Lodging House alone has
+<conditions type= "living">The Society maintains five of these boys' lodging houses, and one
+for girls, in the city. The <location name= "Duane Street Lodging House">Duane Street Lodging House</location> alone has
 sheltered since its foundation in 1855 nearly a quarter of a million
 different boys, at a total expense of a good deal less than half a
-million dollars. Of this amount, up to the beginning of the present
+million dollars. <children>Of this amount, up to the beginning of the present
 year, the boys and the earnings of the house had contributed no less
 than $172,776.38. In all of the lodging-houses together, 12,153 boys
 and girls were sheltered and taught last year. The boys saved up no
@@ -5343,10 +5343,10 @@ at all of them was 4,105, while 11,331 children were registered and
 taught. When the fact that there were among these 1,132 children of
 drunken parents, and 416 that had been found begging in the street,
 is contrasted with the showing of $1,337.21 deposited in the school
-savings banks by 1,745 pupils, something like an adequate idea is
-gained of the scope of the Society's work in the city.
+savings banks by 1,745 pupils, </children>something like an adequate idea is
+gained of the scope of the Society's work in the city.</conditions>
 
-A large share of it, in a sense the largest, certainly that productive
+<immigrants group= "unknown">A large share of it, in a sense the largest, certainly that productive
 of the happiest results, lies outside of the city, however. From the
 lodging-houses and the schools are drawn the battalions of young
 emigrants that go every year to homes in the Far West, to grow up
@@ -5360,7 +5360,7 @@ one comes back, lured by homesickness even for the slums; but the
 briefest stay generally cures the disease for good. I helped once to
 see a party off for Michigan, the last sent out by that great friend of
 the homeless children, Mrs. Astor, before she died. In the party was
-a boy who had been an "Insider" at the Five Points House of Industry,
+a boy who had been an "Insider" at the <location name= "Five Points House of Industry">Five Points House of Industry,</location>
 and brought along as his only baggage a padlocked and iron-bound box
 that contained all his wealth, two little white mice of the friendliest
 disposition. They were going with him out to live on the fat of the
@@ -5372,9 +5372,9 @@ way, and was now pleading to be sent out once more. He had at last
 had enough of the city. His face fell when I asked him about the mice.
 It was a sad story, indeed. "They had so much corn to eat," he said,
 "and they couldn't stand it. They burned all up inside, and then they
-busted."
+busted."</immigrants>
 
-Mrs. Astor set an example during her noble and useful life in gathering
+<charity>Mrs. Astor set an example during her noble and useful life in gathering
 every year a company of homeless boys from the streets and sending them
 to good homes, with decent clothes on their backs--she had sent out no
 less than thirteen hundred when she died, and left funds to carry on
@@ -5392,13 +5392,13 @@ synonymous with millions, standing in front of the boys' lodging-house
 in Thirty-fifth Street. Its owner was at that moment busy with a
 surgeon making a census of the crippled lads in the brush-shop, the
 most miserable of all the Society's charges, as a preliminary to
-fitting them out with artificial limbs.
+fitting them out with artificial limbs.</charity>
 
 Farther uptown than any reared by the Children's Aid Society, in
 Sixty-seventh Street, stands a lodging-house intended for boys of a
 somewhat larger growth than most of those whom the Society shelters.
-Unlike the others, too, it was built by the actual labor of the young
-men it was designed to benefit. In the day when more of the boys
+<work job= "construction">Unlike the others, too, it was built by the actual labor of the young
+men it was designed to benefit.</work> In the day when more of the boys
 from our streets shall find their way to it and to the New York Trade
 Schools, of which it is a kind of home annex, we shall be in a fair
 way of solving in the most natural of all ways the question what to
@@ -5423,20 +5423,20 @@ that shall witness a rescue work upon lines which, when the leaven has
 fairly had time to work, will put an end to the existence of the New
 York Street Arab, of the native breed at least.</chapter>
 
-[Footnote 19: Colonel Auchmuty's own statement.]
+<footnote number= "19">[Footnote 19: Colonel Auchmuty's own statement.]</footnote>
 
 
 
 
-                             CHAPTER XVIII.
+                             <chapnum number= "19">CHAPTER XVIII.</chapnum>
 
-                           <chapterTitle>THE REIGN OF RUM.</chapterTitle>
+                           <chaptitle name= "THE REIGN OF RUM">THE REIGN OF RUM.</chaptitle>
 
 
-<chapter subject= "vice">Where God builds a church the devil builds next door--a saloon, is
+<narrative>Where God builds a church the devil builds next door--a saloon, is
 an old saying that has lost its point in New York. Either the devil
 was on the ground first, or he has been doing a good deal more in the
-way of building. I tried once to find out how the account stood, and
+way of building.</narrative> <vice type= "alcohol">I tried once to find out how the account stood, and
 counted to 111 Protestant churches, chapels, and places of worship of
 every kind below Fourteenth Street, 4,065 saloons. The worst half of
 the tenement population lives down there, and it has to this day the
@@ -5447,9 +5447,9 @@ attendance is steadier and the contributions more liberal the week
 round, Sunday included. Turn and twist it as we may, over against every
 bulwark for decency and morality which society erects, the saloon
 projects its colossal shadow, omen of evil wherever it falls into the
-lives of the poor.
+lives of the poor.</vice>
 
-Nowhere is its mark so broad or so black. To their misery it sticketh
+<vice type= "alcohol">Nowhere is its mark so broad or so black. To their misery it sticketh
 closer than a brother, persuading them that within its doors only is
 refuge, relief. It has the best of the argument, too, for it is true,
 worse pity, that in many a tenement-house block the saloon is the one
@@ -5474,9 +5474,9 @@ the political crank in New York. The natural yield is rum politics. Of
 what that means, successive Boards of Aldermen, composed in a measure,
 if not of a majority, of dive-keepers, have given New York a taste. The
 disgrace of the infamous "Boodle Board" will be remembered until some
-corruption even fouler crops out and throws it into the shade.
+corruption even fouler crops out and throws it into the shade.</vice>
 
-What relation the saloon bears to the crowds, let me illustrate by a
+<conditions type= "living">What relation the saloon bears to the crowds, let me illustrate by a
 comparison. Below Fourteenth Street were, when the Health Department
 took its first accurate census of the tenements a year and a half ago,
 13,220 of the 32,390 buildings classed as such in the whole city.
@@ -5498,15 +5498,15 @@ number of them, on the contrary, had brought their owners wealth and
 prominence. From their bars these eminent citizens stepped proudly into
 the councils of the city and the State. The very floor of one of the
 bar-rooms, in a neighborhood that lately resounded with the cry for
-bread of starving workmen, is paved with silver dollars!
+bread of starving workmen, is paved with silver dollars!</conditions>
 
-East Side poverty is not alone in thus rewarding the tyrants that
+<vice type= "alcohol">East Side poverty is not alone in thus rewarding the tyrants that
 sweeten its cup of bitterness with their treacherous poison. The Fourth
 Ward points with pride to the honorable record of the conductors of
 its "Tub of Blood," and a dozen bar-rooms with less startling titles;
 the West Side to the wealth and "social" standing of the owners of
 such resorts as the "Witches' Broth" and the "Plug Hat" in the region
-of Hell's Kitchen three-cent whiskey, names ominous of the concoctions
+of <location name= "Hell's Kitchen">Hell's Kitchen</location> three-cent whiskey, names ominous of the concoctions
 brewed there and of their fatally generous measure. Another ward,
 that boasts some of the best residences and the bluest blood on
 Manhattan Island, honors with political leadership in the ruling
@@ -5525,11 +5525,11 @@ it at a thousand, more or less. The police make occasional schedules
 of a few and report them to headquarters. Perhaps there is a farce in
 the police court, and there the matter ends. Rum and "influence" are
 synonymous terms. The interests of the one rarely suffer for the want
-of attention from the other.
+of attention from the other.</vice>
 
-  [Illustration: A DOWNTOWN "MORGUE."]
+  <illustration name= "A DOWNTOWN MORGUE.">[Illustration: A DOWNTOWN "MORGUE."]</illustration>
 
-With the exception of these free lances that treat the law openly
+<children>With the exception of these free lances that treat the law openly
 with contempt, the saloons all hang out a sign announcing in fat
 type that no beer or liquor is sold to children. In the down-town
 "morgues" that make the lowest degradation of tramp-humanity pan out a
@@ -5551,16 +5551,16 @@ which in fact I might have done with as good a right, for it was after
 and told me roughly to go away and mind my business, while he filled
 the pitcher. The law prohibiting the selling of beer to minors is about
 as much respected in the tenement-house districts as the ordinance
-against swearing. Newspaper readers will recall the story, told little
+against swearing.</children> <death cause= "rats">Newspaper readers will recall the story, told little
 more than a year ago, of a boy who after carrying beer a whole day
 for a shopful of men over on the East Side, where his father worked,
 crept into the cellar to sleep off the effects of his own share in the
 rioting. It was Saturday evening. Sunday his parents sought him high
 and low; but it was not until Monday morning, when the shop was opened,
 that he was found, killed and half-eaten by the rats that overran the
-place.
+place.</death>
 
-All the evil the saloon does in breeding poverty and in corrupting
+<narrative>All the evil the saloon does in breeding poverty and in corrupting
 politics; all the suffering it brings into the lives of its thousands
 of innocent victims, the wives and children of drunkards it sends forth
 to curse the community; its fostering of crime and its shielding of
@@ -5578,17 +5578,17 @@ for the boy, once its blighting grip is upon him. Thenceforward the
 logic of the slums, that the world which gave him poverty and ignorance
 for his portion "owes him a living," is his creed, and the career of
 the "tough" lies open before him, a beaten track to be blindly followed
-to a bad end in the wake of the growler.</chapter>
+to a bad end in the wake of the growler.</narrative></chapter>
 
 
 
 
-                              CHAPTER XIX.
+                              <chapnum number= "19">CHAPTER XIX.</chapnum>
 
-                         <chapterTitle>THE HARVEST OF TARES.</chapterTitle>
+                 <chaptitle name = "THE HARVEST OF TARES.">THE HARVEST OF TARES.</chaptitle>
 
-
-<chapter subject= "crime">The "growler" stood at the cradle of the tough. It bosses him through
+<chapter>
+<children>The "growler" stood at the cradle of the tough. It bosses him through
 his boyhood apprenticeship in the "gang," and leaves him, for a time
 only, at the door of the jail that receives him to finish his training
 and turn him loose upon the world a thief, to collect by stealth or by
@@ -5602,9 +5602,9 @@ takes kindly to the lad. Honest play is interdicted in the streets.
 The policeman arrests the ball-tossers, and there is no room in the
 back-yard. In one of these, between two enormous tenements that swarmed
 with children, I read this ominous notice: "_All boys caught in this
-yard will be delt with accorden to law._"
+yard will be delt with accorden to law._"</children>
 
-Along the water-fronts, in the holes of the dock-rats, and on the
+<crime type= "gangs">Along the water-fronts, in the holes of the dock-rats, and on the
 avenues, the young tough finds plenty of kindred spirits. Every corner
 has its gang, not always on the best of terms with the rivals in the
 next block, but all with a common programme: defiance of law and
@@ -5619,7 +5619,7 @@ share toward keeping up its evil traditions and inflaming the ambition
 of its members to be as bad as the worst. The gang is the ripe fruit
 of tenement-house growth. It was born there, endowed with a heritage
 of instinctive hostility to restraint by a generation that sacrificed
-home to freedom, or left its country for its country's good. The
+home to freedom, or left its country for its country's good.</crime> <narrative>The
 tenement received and nursed the seed. The intensity of the American
 temper stood sponsor to the murderer in what would have been the common
 "bruiser" of a more phlegmatic clime. New York's tough represents the
@@ -5630,22 +5630,22 @@ conditions of the tenements from which they sprang. Murder is as
 congenial to Cherry Street or to Battle Row, as quiet and order to
 Murray Hill. The "assimilation" of Europe's oppressed hordes, upon
 which our Fourth of July orators are fond of dwelling, is perfect. The
-product is our own.
+product is our own.</narrative>
 
-Such is the genesis of New York's gangs. Their history is not so easily
+<narrative>Such is the genesis of New York's gangs. Their history is not so easily
 written. It would embrace the largest share of our city's criminal
 history for two generations back, every page of it dyed red with blood.
 The guillotine Paris set up a century ago to avenge its wrongs was
 not more relentless, or less discriminating, than this Nemesis of New
 York. The difference is of intent. Murder with that was the serious
 purpose; with ours it is the careless incident, the wanton brutality of
-the moment. Bravado and robbery are the real purposes of the gangs; the
+the moment.</narrative> <crime type= "murder">Bravado and robbery are the real purposes of the gangs; the
 former prompts the attack upon the policeman, the latter that upon the
 citizen. Within a single week last spring, the newspapers recorded six
 murderous assaults on unoffending people, committed by young highwaymen
 in the public streets. How many more were suppressed by the police, who
 always do their utmost to hush up such outrages "in the interests of
-justice," I shall not say. There has been no lack of such occurrences
+justice," I shall not say.</crime> <crime type= "gangs">There has been no lack of such occurrences
 since, as the records of the criminal courts show. In fact, the past
 summer has seen, after a period of comparative quiescence of the gangs,
 a reawakening to renewed turbulence of the East Side tribes, and over
@@ -5667,9 +5667,9 @@ became too hot, has only to step across town and change his name, a
 matter usually much easier for him than to change his shirt, to find a
 sanctuary in which to plot fresh outrages. The more notorious he is,
 the warmer the welcome, and if he has "done" his man he is by common
-consent accorded the leadership in his new field.
+consent accorded the leadership in his new field.</crime>
 
-From all this it might be inferred that the New York tough is a
+<narrative>From all this it might be inferred that the New York tough is a
 very fierce individual, of indomitable courage and naturally as
 blood-thirsty as a tiger. On the contrary he is an arrant coward. His
 instincts of ferocity are those of the wolf rather than the tiger.
@@ -5695,7 +5695,7 @@ training and under different social conditions. Ready wit he has at all
 times, and there is less meanness in his make-up than in that of the
 bully of the London slums; but an intense love of show and applause,
 that carries him to any length of bravado, which his twin-brother
-across the sea entirely lacks. I have a very vivid recollection of
+across the sea entirely lacks.</narrative> <crime type= "murder">I have a very vivid recollection of
 seeing one of his tribe, a robber and murderer before he was nineteen,
 go to the gallows unmoved, all fear of the rope overcome, as it seemed,
 by the secret, exultant pride of being the centre of a first-class
@@ -5703,9 +5703,9 @@ show, shortly to be followed by that acme of tenement-life bliss, a
 big funeral. He had his reward. His name is to this day a talisman
 among West Side ruffians, and is proudly borne by the gang of which, up
 till the night when he "knocked out his man," he was an obscure though
-aspiring member.
+aspiring member.</crime>
 
-[Footnote 20: This very mother will implore the court with tears, the
+<footnote number= "20">[Footnote 20: This very mother will implore the court with tears, the
 next morning, to let her renegade son off. A poor woman, who claimed
 to be the widow of a soldier, applied to the Tenement-house Relief
 Committee of the King's Daughters last summer, to be sent to some home,
@@ -5713,11 +5713,11 @@ as she had neither kith nor kin to care for her. Upon investigation
 it was found that she had four big sons, all toughs, who beat her
 regularly and took from her all the money she could earn or beg; she
 was "a respectable woman, of good habits," the inquiry developed, and
-lied only to shield her rascally sons.]
+lied only to shield her rascally sons.]</footnote>
 
-  [Illustration: A GROWLER GANG IN SESSION.]
+  <illustration name= "A GROWLER GANG IN SESSION.">[Illustration: A GROWLER GANG IN SESSION.]</illustration>
 
-The crime that made McGloin famous was the cowardly murder of an
+<crime type= "murder">The crime that made McGloin famous was the cowardly murder of an
 unarmed saloonkeeper who came upon the gang while it was sacking his
 bar-room at the dead of night. McGloin might easily have fled, but
 disdained to "run for a Dutchman." His act was a fair measure of the
@@ -5725,11 +5725,11 @@ standard of heroism set up by his class in its conflicts with society.
 The finish is worthy of the start. The first long step in crime taken
 by the half-grown boy, fired with ambition to earn a standing in his
 gang, is usually to rob a "lush," _i.e._, a drunken man who has strayed
-his way, likely enough is lying asleep in a hallway. He has served
+his way, likely enough is lying asleep in a hallway.</crime> <work job= "boilermaker's apprentice">He has served
 an apprenticeship on copper-bottom wash-boilers and like articles
 found lying around loose, and capable of being converted into cash
 enough to give the growler a trip or two; but his first venture at
-robbery moves him up into full fellowship at once. He is no longer
+robbery moves him up into full fellowship at once.</work> <narrative>He is no longer
 a "kid," though his years may be few, but a tough with the rest. He
 may even in time--he is reasonably certain of it--get his name in the
 papers as a murderous scoundrel, and have his cup of glory filled
@@ -5759,7 +5759,7 @@ the band were so impressed with the importance of this exhibition
 that they insisted on crowding into the picture by climbing upon the
 shed, sitting on the roof with their feet dangling over the edge, and
 disposing themselves in every imaginable manner within view, as they
-thought. Lest any reader be led into the error of supposing them to
+thought.</narrative> <crime type= "robbery">Lest any reader be led into the error of supposing them to
 have been harmless young fellows enjoying themselves in peace, let me
 say that within half an hour after our meeting, when I called at the
 police station three blocks away, I found there two of my friends of
@@ -5767,11 +5767,11 @@ the "Montgomery Guards" under arrest for robbing a Jewish pedlar who
 had passed that way after I left them, and trying to saw his head off,
 as they put it, "just for fun. The sheeny cum along an' the saw was
 there, an' we socked it to him." The prisoners were described to me by
-the police as Dennis, "the Bum," and "Mud" Foley.
+the police as Dennis, "the Bum," and "Mud" Foley.</crime>
 
-It is not always that their little diversions end as harmlessly as did
-this, even from the standpoint of the Jew, who was pretty badly hurt.
-Not far from the preserves of the Montgomery Guards, in Poverty Gap,
+<narrative>It is not always that their little diversions end as harmlessly as did
+this, even from the standpoint of the Jew, who was pretty badly hurt.</narrative>
+<crime type= "murder">Not far from the preserves of the Montgomery Guards, in <location name= "Poverty Gap">Poverty Gap,</location>
 directly opposite the scene of the murder to which I have referred in
 a note explaining the picture of the Cunningham family (p. 169), a
 young lad, who was the only support of his aged parents, was beaten to
@@ -5789,9 +5789,9 @@ his eye in time and held my peace. The man was simply trying to protect
 his own home, while giving such aid as he safely could toward bringing
 the murderous ruffians to justice. The incident shows to what extent a
 neighborhood may be terrorized by a determined gang of these reckless
-toughs.
+toughs.</crime>
 
-In Poverty Gap there were still a few decent people left. When it
+<crime type= "gangs">In Poverty Gap there were still a few decent people left. When it
 comes to Hell's Kitchen, or to its compeers at the other end of
 Thirty-ninth Street over by the East River, and further down First
 Avenue in "the Village," the Rag Gang and its allies have no need of
@@ -5818,7 +5818,7 @@ for he knows that the political backing that has saved him in the past
 can do it again. It is a commodity that is only exchangeable "for
 value received," and it is not hard to imagine what sort of value is
 in demand. The saloon, in ninety-nine cases out of a hundred, stands
-behind the bargain.
+behind the bargain.</crime>
 
 For these reasons, as well as because he knows from frequent experience
 his own way to be the best, the policeman lets the gangs alone except
