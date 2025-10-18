@@ -5820,7 +5820,7 @@ value received," and it is not hard to imagine what sort of value is
 in demand. The saloon, in ninety-nine cases out of a hundred, stands
 behind the bargain.</crime>
 
-For these reasons, as well as because he knows from frequent experience
+<crime type= "gangs">For these reasons, as well as because he knows from frequent experience
 his own way to be the best, the policeman lets the gangs alone except
 when they come within reach of his long night-stick. They have their
 "club-rooms" where they meet, generally in a tenement, sometimes under
@@ -5831,15 +5831,15 @@ flagrant outrage, the police have a task on hand that is not of the
 easiest. The gangs, like foxes, have more than one hole to their
 dens. In some localities, where the interior of a block is filled
 with rear tenements, often set at all sorts of odd angles, surprise
-alone is practicable. Pursuit through the winding ways and passages is
+alone is practicable.</crime> <crime type= "evading arrest">Pursuit through the winding ways and passages is
 impossible. The young thieves know them all by heart. They have their
 runways over roofs and fences which no one else could find. Their lair
 is generally selected with special reference to its possibilities
 of escape. Once pitched upon, its occupation by the gang, with its
 ear-mark of nightly symposiums, "can-rackets" in the slang of the
 street, is the signal for a rapid deterioration of the tenement, if
-that is possible. Relief is only to be had by ousting the intruders.
-An instance came under my notice in which valuable property had been
+that is possible. Relief is only to be had by ousting the intruders.</crime>
+<conditions type= "living">An instance came under my notice in which valuable property had been
 well-nigh ruined by being made the thoroughfare of thieves by night
 and by day. They had chosen it because of a passage that led through
 the block by way of several connecting halls and yards. The place
@@ -5850,13 +5850,13 @@ the owner that he build a brick-wall in a place where it would shut
 off communication between the streets, and he took the advice. Within
 the brief space of a few months the house changed character entirely,
 and became as decent as it had been before the convenient runway was
-discovered.
+discovered.</conditions>
 
-  [Illustration: TYPICAL TOUGHS (FROM THE ROGUES' GALLERY).]
+  <illustration name= "TYPICAL TOUGHS (FROM THE ROGUES' GALLERY).">[Illustration: TYPICAL TOUGHS (FROM THE ROGUES' GALLERY).]</illustration>
 
 This was in the Sixth Ward, where the infamous Whyo Gang until a few
-years ago absorbed the worst depravity of the Bend and what is left of
-the Five Points. The gang was finally broken up when its leader was
+years ago absorbed the worst depravity of <location name= "the Bend">the Bend</location> and what is left of
+the Five Points. <crime type= "gangs">The gang was finally broken up when its leader was
 hanged for murder after a life of uninterrupted and unavenged crimes,
 the recital of which made his father confessor turn pale, listening
 in the shadow of the scaffold, though many years of labor as chaplain
@@ -5866,7 +5866,7 @@ or faction that happened to stand in need of his services and was
 willing to pay for them in money or in kind. Other gangs have sprung
 up since with as high ambition and a fair prospect of outdoing their
 predecessor. The conditions that bred it still exist, practically
-unchanged. Inspector Byrnes is authority for the statement that
+unchanged.</crime> <policing>Inspector Byrnes is authority for the statement that
 throughout the city the young tough has more "ability" and "nerve" than
 the thief whose example he successfully emulates. He begins earlier,
 too. Speaking of the increase of the native element among criminal
@@ -5877,28 +5877,28 @@ he might have emphasized that remark and found an explanation of the
 discovery that "the ratio of prisoners in cities is two and one-quarter
 times as great as in the country at large," a computation that takes
 no account of the reformatories for juvenile delinquents, or the
-exhibit would have been still more striking. Of the 82,200 persons
+exhibit would have been still more striking.</policing> <children>Of the 82,200 persons
 arrested by the police in 1889, 10,505 were under twenty years old.
 The last report of the Society for the Prevention of Cruelty to
 Children enumerates, as "a few typical cases," eighteen "professional
 cracksmen," between nine and fifteen years old, who had been caught
 with burglars' tools, or in the act of robbery. Four of them, hardly
 yet in long trousers, had "held up" a wayfarer in the public street and
-robbed him of $73. One, aged sixteen, "was the leader of a noted gang
+robbed him of $73. <crime type= "murder">One, aged sixteen, "was the leader of a noted gang
 of young robbers in Forty-ninth Street. He committed murder, for which
-he is now serving a term of nineteen years in State's Prison." Four of
+he is now serving a term of nineteen years in State's Prison."</crime> Four of
 the eighteen were girls and quite as bad as the worst. In a few years
 they would have been living with the toughs of their choice without the
 ceremony of a marriage, egging them on by their pride in their lawless
 achievements, and fighting side by side with them in their encounters
-with the "cops."
+with the "cops."</children>
 
-[Footnote 21: "The percentage of foreign-born prisoners in 1850, as
+<footnote number= "21">[Footnote 21: "The percentage of foreign-born prisoners in 1850, as
 compared with that of natives, was more than five times that of native
 prisoners, now (1880) it is less than double."--American Prisons in the
-Tenth Census.]
+Tenth Census.]</footnote>
 
-The exploits of the Paradise Park Gang in the way of highway robbery
+<crime type="gangs">The exploits of the Paradise Park Gang in the way of highway robbery
 showed last summer that the embers of the scattered Whyo Gang, upon
 the wreck of which it grew, were smouldering still. The hanging of
 Driscoll broke up the Whyos because they were a comparatively small
@@ -5916,7 +5916,7 @@ loaf in the corner-groggeries on their beat, at night they plunder the
 stores along the avenues, or lie in wait at the river for unsteady feet
 straying their way. The man who is sober and minds his own business
 they seldom molest, unless he be a stranger inquiring his way, or a
-policeman and the gang twenty against the one. The tipsy wayfarer is
+policeman and the gang twenty against the one.</crime> <crime type="murder">The tipsy wayfarer is
 their chosen victim, and they seldom have to look for him long. One
 has not far to go to the river from any point in New York. The man who
 does not know where he is going is sure to reach it sooner or later.
@@ -5930,16 +5930,16 @@ an easy way of escaping and at the same time destroying the evidence
 against them; they simply upset the boat. They swim, one and all, like
 real rats; the lost plunder can be recovered at leisure the next day by
 diving or grappling. The loss of the boat counts for little. Another is
-stolen, and the gang is ready for business again.
+stolen, and the gang is ready for business again.</crime>
 
-  [Illustration: HUNTING RIVER THIEVES.]
+  <illustration name= "HUNTING RIVER THIEVES.">[Illustration: HUNTING RIVER THIEVES.]</illustration>
 
-The fiction of a social "club," which most of the gangs keep up, helps
+<crime type= "gangs">The fiction of a social "club," which most of the gangs keep up, helps
 them to a pretext for blackmailing the politicians and the storekeepers
 in their bailiwick at the annual seasons of their picnic, or ball.
 The "thieves' ball" is as well known and recognized an institution
 on the East Side as the Charity Ball in a different social stratum,
-although it does not go by that name, in print at least. Indeed,
+although it does not go by that name, in print at least.</crime> <crime type= "theft">Indeed,
 the last thing a New York tough will admit is that he is a thief.
 He dignifies his calling with the pretence of gambling. He does
 not steal: he "wins" your money or your watch, and on the police
@@ -5947,7 +5947,7 @@ returns he is a "speculator." If, when he passes around the hat for
 "voluntary" contributions, any storekeeper should have the temerity
 to refuse to chip in, he may look for a visit from the gang on the
 first dark night, and account himself lucky if his place escapes
-being altogether wrecked. The Hell's Kitchen Gang and the Rag Gang
+being altogether wrecked.</crime> <narrative>The Hell's Kitchen Gang and the Rag Gang
 have both distinguished themselves within recent times by blowing up
 objectionable stores with stolen gunpowder. But if no such episode mar
 the celebration, the excursion comes off and is the occasion for a
@@ -5964,9 +5964,9 @@ the peace was not broken on the Hudson that day, at least not ashore.
 It is good cause for congratulation that the worst of all forms of
 recreation popular among the city's toughs, the moonlight picnic, has
 been effectually discouraged. Its opportunities for disgraceful revelry
-and immorality were unrivalled anywhere.
+and immorality were unrivalled anywhere.</narrative>
 
-In spite of influence and protection, the tough reaches eventually
+<narrative>In spite of influence and protection, the tough reaches eventually
 the end of his rope. Occasionally--not too often--there is a noose on
 it. If not, the world that owes him a living, according to his creed,
 will insist on his earning it on the safe side of a prison wall. A
@@ -5997,32 +5997,32 @@ protest, even the tough has not lived in vain. This measure of credit
 at least should be accorded him, that, with or without his good-will,
 he has been a factor in urging on the battle against the slums that
 bred him. It is a fight in which eternal vigilance is truly the price
-of liberty and the preservation of society.</chapter>
+of liberty and the preservation of society.</narrative></chapter>
 
 
 
 
-                              CHAPTER XX.
+                              <chapnum number= "20">CHAPTER XX.</chapnum>
 
-                     <chapterTitle>THE WORKING GIRLS OF NEW YORK.</chapterTitle>
+  <chaptitle name= "THE WORKING GIRLS OF NEW YORK.">THE WORKING GIRLS OF NEW YORK.</chaptitle>
 
 
-<chapter subject= "vice">Of the harvest of tares, sown in iniquity and reaped in wrath, the
+<narrative>Of the harvest of tares, sown in iniquity and reaped in wrath, the
 police returns tell the story. The pen that wrote the "Song of the
 Shirt" is needed to tell of the sad and toil-worn lives of New York's
 working-women. The cry echoes by night and by day through its tenements:
 
       Oh, God! that bread should be so dear,
-      And flesh and blood so cheap!
+      And flesh and blood so cheap!</narrative>
 
-Six months have not passed since at a great public meeting in this
+<conditions type= "working">Six months have not passed since at a great public meeting in this
 city, the Working Women's Society reported: "It is a known fact that
 men's wages cannot fall below a limit upon which they can exist, but
 woman's wages have no limit, since the paths of shame are always
 open to her. It is simply impossible for any woman to live without
 assistance on the low salary a saleswoman earns, without depriving
 herself of real necessities.... It is inevitable that they must in
-many instances resort to evil." It was only a few brief weeks before
+many instances resort to evil." <death cause= "suicide">It was only a few brief weeks before
 that verdict was uttered, that the community was shocked by the story
 of a gentle and refined woman who, left in direst poverty to earn her
 own living alone among strangers, threw herself from her attic window,
@@ -6033,14 +6033,14 @@ her weary errand, and the only living wages that were offered her were
 the wages of sin. The ink was not dry upon her letter before a woman in
 an East Side tenement wrote down her reason for self-murder: "Weakness,
 sleeplessness, and yet obliged to work. My strength fails me. Sing
-at my coffin: 'Where does the soul find a home and rest?'" Her story
+at my coffin: 'Where does the soul find a home and rest?'"</death> <narrative>Her story
 may be found as one of two typical "cases of despair" in one little
 church community, in the _City Mission Society's Monthly_ for last
 February. It is a story that has many parallels in the experience of
 every missionary, every police reporter and every family doctor whose
-practice is among the poor.
+practice is among the poor.</narrative></conditions>
 
-It is estimated that at least one hundred and fifty thousand women
+<conditions type= "working">It is estimated that at least one hundred and fifty thousand women
 and girls earn their own living in New York; but there is reason to
 believe that this estimate falls far short of the truth when sufficient
 account is taken of the large number who are not wholly dependent upon
@@ -6051,7 +6051,7 @@ not starve on their wages condemns the rest to that fate. The pay they
 are willing to accept all have to take. What the "everlasting law of
 supply and demand," that serves as such a convenient gag for public
 indignation, has to do with it, one learns from observation all along
-the road of inquiry into these real woman's wrongs. To take the case
+the road of inquiry into these real woman's wrongs.</conditions> <work job= "sales">To take the case
 of the saleswomen for illustration: The investigation of the Working
 Women's Society disclosed the fact that wages averaging from $2 to
 $4.50 a week were reduced by excessive fines, the employers placing a
@@ -6067,9 +6067,9 @@ charge the time-keeper with not being strict enough in his duties."
 One of the causes for fine in a certain large store was sitting down.
 The law requiring seats for saleswomen, generally ignored, was obeyed
 faithfully in this establishment. The seats were there, but the girls
-were fined when found using them.
+were fined when found using them.</work>
 
-Cash-girls receiving $1.75 a week for work that at certain seasons
+<work job= "cash handling">Cash-girls receiving $1.75 a week for work that at certain seasons
 lengthened their day to sixteen hours were sometimes required to pay
 for their aprons. A common cause for discharge from stores in which, on
 account of the oppressive heat and lack of ventilation, "girls fainted
@@ -6077,9 +6077,9 @@ day after day and came out looking like corpses," was too long service.
 No other fault was found with the discharged saleswomen than that they
 had been long enough in the employ of the firm to justly expect an
 increase of salary. The reason was even given with brutal frankness, in
-some instances.
+some instances.</work>
 
-These facts give a slight idea of the hardships and the poor pay of
+<children>These facts give a slight idea of the hardships and the poor pay of
 a business that notoriously absorbs child-labor. The girls are sent
 to the store before they have fairly entered their teens, because the
 money they can earn there is needed for the support of the family.
@@ -6100,9 +6100,9 @@ means of enforcing its mandate, so efficient, that the very number of
 factories in New York is _guessed_ at as in the neighborhood of twelve
 thousand. Up till this summer, a single inspector was charged with the
 duty of keeping the run of them all, and of seeing to it that the law
-was respected by the owners.
+was respected by the owners.</children>
 
-  [Illustration: SEWING AND STARVING IN AN ELIZABETH STREET ATTIC.]
+  <illustration name= "SEWING AND STARVING IN AN ELIZABETH STREET ATTIC.">[Illustration: SEWING AND STARVING IN AN ELIZABETH STREET ATTIC.]</illustration>
 
 Sixty cents is put as the average day's earnings of the 150,000, but
 into this computation enters the stylish "cashier's" two dollars a day,
