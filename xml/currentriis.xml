@@ -2,21 +2,21 @@
 <?xml-model href="riis.rnc" type="application/relax-ng-compact-syntax"?>
 <riis>
   
-       HOW THE OTHER HALF LIVES
+       <booktitle>HOW THE OTHER HALF LIVES</booktitle>
 
-  [Illustration: GOTHAM COURT.]
-
-
+  <illustration title="GOTHAM COURT">[Illustration: GOTHAM COURT.]</illustration>
 
 
+
+<titlepage>
                         HOW THE OTHER HALF LIVES
 
                       _STUDIES AMONG THE TENEMENTS
                               OF NEW YORK_
 
 
-                                   BY
-                             JACOB A. RIIS
+                                   <author>BY
+                             JACOB A. RIIS</author>
 
 
               _WITH ILLUSTRATIONS CHIEFLY FROM PHOTOGRAPHS
@@ -25,22 +25,22 @@
 
                                 NEW YORK
                         CHARLES SCRIBNER'S SONS
-                                  1890
+                                  1890</titlepage>
 
 
 
 
-                          COPYRIGHT, 1890, BY
+                         <copyrightpage> COPYRIGHT, 1890, BY
                         CHARLES SCRIBNER'S SONS
 
                                  TROW'S
                    PRINTING AND BOOKBINDING COMPANY,
-                               NEW YORK.
+                               NEW YORK.</copyrightpage>
 
 
 
 
-                                PREFACE.
+                                <preface>PREFACE.
 
 
 The belief that every man's experience ought to be worth something to
@@ -60,12 +60,12 @@ know. Most of all, I owe in this, as in all things else, to the womanly
 sympathy and the loving companionship of my dear wife, ever my chief
 helper, my wisest counsellor, and my gentlest critic.
 
-                                                                J. A. R.
+                                                                J. A. R.</preface>
 
 
 
 
-CONTENTS.
+<tableofcontents>CONTENTS.
 
 
                                                         PAGE
@@ -196,11 +196,11 @@ CONTENTS.
                               CHAPTER XXV.
 
     HOW THE CASE STANDS,                                 282
+</tableofcontents>
 
 
 
-
-LIST OF ILLUSTRATIONS.
+<listofillustrations>LIST OF ILLUSTRATIONS.
 
 
     GOTHAM COURT,      _Frontispiece_
@@ -301,12 +301,12 @@ LIST OF ILLUSTRATIONS.
         (A. T. WHITE'S) IN BROOKLYN,                     292
 
     FLOOR PLAN OF ONE DIVISION IN THE RIVERSIDE
-        BUILDINGS, SHOWING SIX "APARTMENTS,"             293
+        BUILDINGS, SHOWING SIX "APARTMENTS,"             293</listofillustrations>
 
 
 
 
-          "With gates of silver and bars of gold
+          <quote>"With gates of silver and bars of gold
           Ye have fenced my sheep from their father's fold;
           I have heard the dropping of their tears
           In heaven these eighteen hundred years."
@@ -326,20 +326,20 @@ LIST OF ILLUSTRATIONS.
           For fear of defilement, "Lo, here," said he,
           "The _images_ ye have made of me!"
 
-                                        --JAMES RUSSELL LOWELL.
+                                        --JAMES RUSSELL LOWELL.</quote>
 
 
 
 
-                       HOW THE OTHER HALF LIVES.
+                       <booktitle>HOW THE OTHER HALF LIVES.</booktitle>
 
 
 
 
-                          _INTRODUCTION._
+                          <introduction>_INTRODUCTION._
 
 
-<introduction>Long ago it was said that "one half of the world does not know how the
+<narrative>Long ago it was said that "one half of the world does not know how the
 other half lives." That was true then. It did not know because it did
 not care. The half that was on top cared little for the struggles,
 and less for the fate of those who were underneath, so long as it was
@@ -440,11 +440,11 @@ masses by those who employ their labor; but tenements must cease to be
 "good property" in the old, heartless sense. "Philanthropy and five per
 cent." is the penance exacted.
 
-[Footnote 1: Tweed was born and bred in a Fourth Ward tenement.]
+<footnote number="1">[Footnote 1: Tweed was born and bred in a Fourth Ward tenement.]</footnote>
 
-[Footnote 2: Forty per cent. was declared by witnesses before a Senate
+<footnote number="2">[Footnote 2: Forty per cent. was declared by witnesses before a Senate
 Committee to be a fair average interest on tenement property. Instances
-were given of its being one hundred per cent. and over.]
+were given of its being one hundred per cent. and over.]</footnote>
 
 If this is true from a purely economic point of view, what then of the
 outlook from the Christian standpoint? Not long ago a great meeting was
@@ -455,26 +455,26 @@ Might not the conference have found in the warning of one Brooklyn
 builder, who has invested his capital on this plan and made it pay more
 than a money interest, a hint worth heeding: "How shall the love of
 God be understood by those who have been nurtured in sight only of the
-greed of man?"</introduction>
+greed of man?"</narrative></introduction>
 
-[Illustration: HELL'S KITCHEN AND SEBASTOPOL.]
-
-
+<illustration title="HELL'S KITCHEN AND SEBASTOPOL">[Illustration: HELL'S KITCHEN AND SEBASTOPOL.]</illustration>
 
 
-                               CHAPTER I.
-
-                        <chapterTitle>GENESIS OF THE TENEMENT.</chapterTitle>
 
 
-<chapter subject= "housing">The first tenement New York knew bore the mark of Cain from its birth,
+                               <chapnum number="1">CHAPTER I.</chapnum>
+
+                        <chaptitle name="GENESIS OF THE TENEMENT">GENESIS OF THE TENEMENT.</chaptitle>
+
+
+<chapter><narrative>The first tenement <location name="New York">New York</location> knew bore the mark of Cain from its birth,
 though a generation passed before the writing was deciphered. It was
 the "rear house," infamous ever after in our city's history. There had
 been tenant-houses before, but they were not built for the purpose.
 Nothing would probably have shocked their original owners more than the
 idea of their harboring a promiscuous crowd; for they were the decorous
-homes of the old Knickerbockers, the proud aristocracy of Manhattan in
-the early days.
+homes of the old Knickerbockers, the proud aristocracy of <location name="Manhattan">Manhattan</location> in
+the early days.</narrative>
 
 It was the stir and bustle of trade, together with the tremendous
 immigration that followed upon the war of 1812 that dislodged them.
@@ -578,9 +578,9 @@ with only two beds, without partition, screen, chair, or table." The
 rate of rent has been successfully maintained to the present day,
 though the hog at least has been eliminated.
 
-[Footnote 3: It was not until the winter of 1867 that owners of swine
+<footnote number="3">[Footnote 3: It was not until the winter of 1867 that owners of swine
 were prohibited by ordinance from letting them run at large in the
-built-up portions of the city.]
+built-up portions of the city.]</footnote>
 
 Lest anybody flatter himself with the notion that these were evils of
 a day that is happily past and may safely be forgotten, let me mention
@@ -608,10 +608,10 @@ on the top-story, so small that I was unable to get a photograph of it
 even by placing the camera outside the open door. Three short steps
 across either way would have measured its full extent.
 
-  [Illustration: TENEMENT OF 1863, FOR TWELVE FAMILIES ON EACH FLAT.[4]
-                 D, dark. L, light. H, halls.]
+  <illustration title="TENEMENT OF 1863, FOR TWELVE FAMILIES ON EACH FLAT">[Illustration: TENEMENT OF 1863, FOR TWELVE FAMILIES ON EACH FLAT.[4]
+                 D, dark. L, light. H, halls.]</illustration>
 
-[Footnote 4: This "unventilated and fever-breeding structure" the year
+<footnote number="4">[Footnote 4: This "unventilated and fever-breeding structure" the year
 after it was built was picked out by the Council of Hygiene, then just
 organized, and presented to the Citizens' Association of New York as a
 specimen "multiple domicile" in a desirable street, with the following
@@ -619,7 +619,7 @@ comment: "Here are twelve living-rooms and twenty-one bedrooms, and
 only six of the latter have any provision or possibility for the
 admission of light and air, excepting through the family sitting-
 and living-room; being utterly dark, close, and unventilated. The
-living-rooms are but 10 × 12 feet; the bedrooms 6½ × 7 feet."]
+living-rooms are but 10 × 12 feet; the bedrooms 6½ × 7 feet."]</footnote>
 
 There was just one excuse for the early tenement-house builders, and
 their successors may plead it with nearly as good right for what it
@@ -658,20 +658,20 @@ organizations were yet unborn, but in the city directory was to be
 found the address of the "American Society for the Promotion of
 Education in Africa."
 
-[Footnote 5: "A lot 50 × 60, contained twenty stables, rented for
-dwellings at $15 a year each; cost of the whole $600."]</chapter>
+<footnote number="5">[Footnote 5: "A lot 50 × 60, contained twenty stables, rented for
+dwellings at $15 a year each; cost of the whole $600."]</footnote></chapter>
 
   [Illustration]
 
 
 
 
-                              CHAPTER II.
+                              <chapnum number="2">CHAPTER II.</chapnum>
 
-                             <chapterTitle>THE AWAKENING.</chapterTitle>
+                             <chaptitle name="THE AWAKENING">THE AWAKENING.</chaptitle>
 
 
-<chapter subject= "disease">The dread of advancing cholera, with the guilty knowledge of the
+<chapter>The dread of advancing cholera, with the guilty knowledge of the
 harvest field that awaited the plague in New York's slums, pricked the
 conscience of the community into action soon after the close of the
 war. A citizens' movement resulted in the organization of a Board of
@@ -744,9 +744,9 @@ efforts to abate it result only in temporary relief. As long as they
 exist it will exist with them. And the tenements will exist in New York
 forever.
 
-  [Illustration: TENEMENT OF THE OLD STYLE.]
+  <illustration name="TENEMENT OF THE OLD STYLE">[Illustration: TENEMENT OF THE OLD STYLE.]</illustration>
 
-  [Illustration: BIRTH OF THE AIR-SHAFT.]
+  <illustration name="BIRTH OF THE AIR-SHAFT">[Illustration: BIRTH OF THE AIR-SHAFT.]</illustration>
 
 To-day, what is a tenement? The law defines it as a house "occupied by
 three or more families, living independently and doing their cooking
@@ -805,12 +805,12 @@ what will the harvest be?</chapter>
 
 
 
-                              CHAPTER III.
+                              <chapnum number="3">CHAPTER III.</chapnum>
 
-                            <chapterTitle>THE MIXED CROWD.</chapterTitle>
+                            <chaptitle name="THE MIXED CROWD">THE MIXED CROWD.</chaptitle>
 
 
-<chapter subject= "ethnicity">When once I asked the agent of a notorious Fourth Ward alley how
+<chapter>When once I asked the agent of a notorious Fourth Ward alley how
 many people might be living in it I was told: One hundred and forty
 families, one hundred Irish, thirty-eight Italian, and two that
 spoke the German tongue. Barring the agent herself, there was not a
@@ -893,11 +893,11 @@ German rag-picker of thirty years ago, quite as low in the scale as
 his Italian successor, is the thrifty tradesman or prosperous farmer of
 to-day.[6]
 
-[Footnote 6: The Sheriff Street Colony of rag-pickers, long since gone,
+<footnote number="6">[Footnote 6: The Sheriff Street Colony of rag-pickers, long since gone,
 is an instance in point. The thrifty Germans saved up money during
 years of hard work in squalor and apparently wretched poverty to buy a
 township in a Western State, and the whole colony moved out there in a
-body. There need be no doubt about their thriving there.]
+body. There need be no doubt about their thriving there.]</footnote>
 
 The Italian scavenger of our time is fast graduating into exclusive
 control of the corner fruit-stands, while his black-eyed boy
@@ -1008,12 +1008,12 @@ one again.</chapter>
 
 
 
-                              CHAPTER IV.
+                              <chapnum number="4">CHAPTER IV.</chapnum>
 
-                       <chapterTitle>THE DOWN TOWN BACK-ALLEYS.</chapterTitle>
+                       <chaptitle name="THE DOWN TOWN BACK-ALLEYS">THE DOWN TOWN BACK-ALLEYS.</chaptitle>
 
 
-<chapter subject = "poverty">Down below Chatham Square, in the old Fourth Ward, where the cradle
+<chapter>Down below Chatham Square, in the old Fourth Ward, where the cradle
 of the tenement stood, we shall find New York's Other Half at home,
 receiving such as care to call and are not afraid. Not all of it,
 to be sure, there is not room for that; but a fairly representative
@@ -1070,8 +1070,8 @@ generation of the slums; this their home. From the great highway
 overhead, along which throbs the life-tide of two great cities, one
 might drop a pebble into half a dozen such alleys.
 
-  [Illustration: AT THE CRADLE OF THE TENEMENT.--DOORWAY OF AN
-                 OLD-FASHIONED DWELLING ON CHERRY HILL.]
+  <illustration name="AT THE CRADLE OF THE TENEMENT.--DOORWAY OF AN OLD-FASHIONED DWELLING ON CHERRY HILL">[Illustration: AT THE CRADLE OF THE TENEMENT.--DOORWAY OF AN
+                 OLD-FASHIONED DWELLING ON CHERRY HILL.]</illustration>
 
 One yawns just across the street; not very broadly, but it is not
 to blame. The builder of the old gateway had no thought of its ever
@@ -1156,7 +1156,7 @@ fiddles in the dark rooms, and cracked old voices sing long-forgotten
 songs. Even the blind landlord rejoices, for much of the money goes
 into his coffers.
 
-  [Illustration: UPSTAIRS IN BLINDMAN'S ALLEY.]
+  <illustration name="UPSTAIRS IN BLINDMAN'S ALLEY">[Illustration: UPSTAIRS IN BLINDMAN'S ALLEY.]</illustration>
 
 From their perch up among the rafters Mrs. Gallagher's blind boarders
 might hear, did they listen, the tramp of the policeman always on
@@ -1418,7 +1418,7 @@ smoking a clay pipe, with the little life ebbing out in his sight,
 bitter as his words sound: "Hush, Mary! If we cannot keep the baby,
 need we complain--such as we?"
 
-  [Illustration: AN OLD REAR-TENEMENT IN ROOSEVELT STREET.]
+  <illustration name="AN OLD REAR-TENEMENT IN ROOSEVELT STREET">[Illustration: AN OLD REAR-TENEMENT IN ROOSEVELT STREET.]</illustration>
 
 Such as we! What if the words ring in your ears as we grope our way
 up the stairs and down from floor to floor, listening to the sounds
@@ -1498,12 +1498,12 @@ and shapes its practice according to the discovery.</chapter>
 
 
 
-                               CHAPTER V.
+                               <chapnum number="5">CHAPTER V.</chapnum>
 
-                        <chapterTitle>THE ITALIAN IN NEW YORK.</chapterTitle>
+                        <chaptitle name="THE ITALIAN IN NEW YORK">THE ITALIAN IN NEW YORK.</chaptitle>
 
 
-<chapter subject= "ethnicity">Certainly a picturesque, if not very tidy, element has been added to
+<chapter>Certainly a picturesque, if not very tidy, element has been added to
 the population in the "assisted" Italian immigrant who claims so large
 a share of public attention, partly because he keeps coming at such a
 tremendous rate, but chiefly because he elects to stay in New York,
@@ -1526,9 +1526,9 @@ in with other hospitality upon his coming than that which brought him
 here for its own profit, and has no idea of letting go its grip upon
 him as long as there is a cent to be made out of him.
 
-[Footnote 7: The process can be observed in the Italian tenements in
+<footnote number="7">[Footnote 7: The process can be observed in the Italian tenements in
 Harlem (Little Italy), which, since their occupation by these people,
-have been gradually sinking to the slum level.]
+have been gradually sinking to the slum level.]</footnote>
 
 Recent Congressional inquiries have shown the nature of the
 "assistance" he receives from greedy steamship agents and "bankers,"
@@ -1564,7 +1564,7 @@ turn the very dirt of the streets into a hoard of gold, with which he
 either returns to his Southern home, or brings over his family to join
 in his work and in his fortunes the next season.
 
-  [Illustration: IN THE HOME OF AN ITALIAN RAG-PICKER, JERSEY STREET.]
+  <illustration name="IN THE HOME OF AN ITALIAN RAG-PICKER, JERSEY STREET">[Illustration: IN THE HOME OF AN ITALIAN RAG-PICKER, JERSEY STREET.]</illustration>
 
 The discovery was made by earlier explorers that there is money in New
 York's ash-barrel, but it was left to the genius of the padrone to
@@ -1645,12 +1645,12 @@ depraved humanity. And out of their misery he makes a profit.</chapter>
 
   [Illustration]
   
-      CHAPTER VI.
+      <chapnum number="6">CHAPTER VI.</chapnum>
 
-  <chapterTitle>THE BEND.</chapterTitle>
+  <chaptitle name="THE BEND">THE BEND.</chaptitle>
 
 
-<chapter subject= "poverty">Where Mulberry Street crooks like an elbow within hail of the old
+<chapter>Where Mulberry Street crooks like an elbow within hail of the old
 depravity of the Five Points, is "the Bend," foul core of New York's
 slums. Long years ago the cows coming home from the pasture trod a
 path over this hill. Echoes of tinkling bells linger there still, but
@@ -1734,7 +1734,7 @@ Pell Street it was mysteriously missing by the time the offal-cart came
 to take it away. It turned out that an Italian had carried it off in
 his sack to a wake or feast of some sort in one of the back alleys.
 
-  [Illustration: THE BEND.]
+  <illustration name="THE BEND">[Illustration: THE BEND.]</illustration>
 
 On either side of the narrow entrance to Bandit's Roost, one of the
 most notorious of these, is a shop that is a fair sample of the sort
@@ -1852,7 +1852,7 @@ repair with the claim that they are the worst of a bad lot. Both are
 right, from their different stand-points. It is the stand-point that
 makes the difference--and the tenant.
 
-[Illustration: BANDITS' ROOST.]
+<illustration name="BANDITS' ROOST">[Illustration: BANDITS' ROOST.]</illustration>
 
 What if I were to tell you that this alley, and more tenement property
 in "the Bend," all of it notorious for years as the vilest and worst
@@ -1903,9 +1903,9 @@ charities! Did not the manager of the Fresh Air Fund write to the
 pastor of an Italian Church only last year[9] that "no one asked for
 Italian children," and hence he could not send any to the country?
 
-[Footnote 9: See City Mission Report, February, 1890, page 77.]
+<footnote number="9">[Footnote 9: See City Mission Report, February, 1890, page 77.]</footnote>
 
-[Illustration: BOTTLE ALLEY.]
+<illustration name="BOTTLE ALLEY">[Illustration: BOTTLE ALLEY.]</illustration>
 
 Half a dozen blocks up Mulberry Street there is a rag-picker's
 settlement, a sort of overflow from "the Bend," that exists to-day
@@ -1978,8 +1978,8 @@ three in two adjoining buildings we had found, within half an hour,
 similarly crowded. Most of the men were lodgers, who slept there for
 five cents a spot.
 
-[Illustration: LODGERS IN A CROWDED BAYARD STREET TENEMENT--"FIVE CENTS
-A SPOT."]
+<illustration name="LODGERS IN A CROWDED BAYARD STREET TENEMENT--'FIVE CENTS A SPOT">[Illustration: LODGERS IN A CROWDED BAYARD STREET TENEMENT--"FIVE CENTS
+A SPOT."]</illustration>
 
 Another room on the top floor, that had been examined a few nights
 before, was comparatively empty. There were only four persons in it,
@@ -1992,12 +1992,12 @@ turned than the room was re-opened for business.</chapter>
 
 
 
-                              CHAPTER VII.
+                              <chapnum number="7">CHAPTER VII.</chapnum>
 
                     <chapterTitle>A RAID ON THE STALE-BEER DIVES.</chapterTitle>
 
 
-<chapter subject= "crime">Midnight roll-call was over in the Elizabeth Street police-station,
+<chapter>Midnight roll-call was over in the Elizabeth Street police-station,
 but the reserves were held under orders. A raid was on foot, but
 whether on the Chinese fan-tan games, on the opium joints of Mott and
 Pell Streets, or on dens of even worse character, was a matter of
@@ -2100,7 +2100,7 @@ most natural thing in the world, that he had more than once seen the
 same tramp sent to Blackwell's Island twice in twenty-four hours for
 six months at a time.
 
-[Illustration: AN ALL-NIGHT TWO-CENT RESTAURANT, IN "THE BEND."]
+<illustration title="AN ALL-NIGHT TWO-CENT RESTAURANT, IN THE 'BEND.'">[Illustration: AN ALL-NIGHT TWO-CENT RESTAURANT, IN "THE BEND."]</illustration>
 
 As a thief never owns to his calling, however devoid of moral scruples,
 preferring to style himself a speculator, so this real home-product
@@ -2190,7 +2190,7 @@ man, scarce ten seconds employed at honest labor, even at sitting down,
 at which he was an undoubted expert, had gone on strike. He knew his
 rights and the value of "work," and was not to be cheated out of either.
 
-[Illustration: THE TRAMP.]
+<illustration title="THE TRAMP">[Illustration: THE TRAMP.]</illustration>
 
 Whence these tramps, and why the tramping? are questions oftener asked
 than answered. Ill-applied charity and idleness answer the first
@@ -2225,8 +2225,8 @@ the wheat, if there be any wheat there. A man goes from his first
 night's sleep on the hard slab of a police station lodging-room to a
 deck-hand's berth on an out-going steamer, to the recruiting office, to
 any work that is honest, or he goes "to the devil or the dives, same
-thing," says my friend, the Sergeant, who knows.</chapter>
-
+thing," says my friend, the Sergeant, who knows.
+</chapter>
 
 
 
