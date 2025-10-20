@@ -6104,7 +6104,7 @@ was respected by the owners.</children>
 
   <illustration name= "SEWING AND STARVING IN AN ELIZABETH STREET ATTIC.">[Illustration: SEWING AND STARVING IN AN ELIZABETH STREET ATTIC.]</illustration>
 
-Sixty cents is put as the average day's earnings of the 150,000, but
+<conditions type= "working">Sixty cents is put as the average day's earnings of the 150,000, but
 into this computation enters the stylish "cashier's" two dollars a day,
 as well as the thirty cents of the poor little girl who pulls threads
 in an East Side factory, and, if anything, the average is probably too
@@ -6124,9 +6124,9 @@ of the Girls' Homes. Two young sewing-girls came in seeking domestic
 service, so that they might get enough to eat. They had been only
 half-fed for some time, and starvation had driven them to the one door
 at which the pride of the American-born girl will not permit her to
-knock, though poverty be the price of her independence.
+knock, though poverty be the price of her independence.</conditions>
 
-The tenement and the competition of public institutions and farmers'
+<conditions type= "working">The tenement and the competition of public institutions and farmers'
 wives and daughters, have done the tyrant shirt to death, but they
 have not bettered the lot of the needle-women. The sweater of the East
 Side has appropriated the flannel shirt. He turns them out to-day at
@@ -6151,15 +6151,15 @@ for thousands of poor sewing-girls in New York. The average earnings of
 the worker on underwear to-day do not exceed the three dollars which
 her competitor among the Eastern hills is willing to accept as the
 price of her play. The shirtmaker's pay is better only because the very
-finest custom work is all there is left for her to do.
+finest custom work is all there is left for her to do.</conditions>
 
-Calico wrappers at a dollar and a half a dozen--the very expert sewers
+<conditions type= "working">Calico wrappers at a dollar and a half a dozen--the very expert sewers
 able to make from eight to ten, the common run five or six--neckties
 at from 25 to 75 cents a dozen, with a dozen as a good day's work, are
 specimens of women's wages. And yet people persist in wondering at the
-poor quality of work done in the tenements! Italian cheap labor has
+poor quality of work done in the tenements! <immigrants nationality= "Italian">Italian cheap labor has
 come of late also to possess this poor field, with the sweater in its
-train. There is scarce a branch of woman's work outside of the home
+train.</immigrants> There is scarce a branch of woman's work outside of the home
 in which wages, long since at low-water mark, have not fallen to the
 point of actual starvation. A case was brought to my notice recently
 by a woman doctor, whose heart as well as her life-work is with the
@@ -6171,9 +6171,9 @@ swift and handle the paste-brush very deftly to bring her earnings up
 to twenty-five and thirty cents a day. She paid four dollars a month
 for her room. The rest went to buy food for herself and the children.
 The physician's purse, rather than her skill, had healing for their
-complaint.
+complaint.</conditions>
 
-I have aimed to set down a few dry facts merely. They carry their own
+<conditions type= "working">I have aimed to set down a few dry facts merely. They carry their own
 comment. Back of the shop with its weary, grinding toil--the home in
 the tenement, of which it was said in a report of the State Labor
 Bureau: "Decency and womanly reserve cannot be maintained there--what
@@ -6183,9 +6183,9 @@ West Side tenements. An old woman had just fallen on the doorstep,
 stricken with paralysis. The doctor said she would never again move her
 right hand or foot. The whole side was dead. By her bedside, in their
 cheerless room, sat the patient's aged sister, a hopeless cripple, in
-dumb despair. Forty years ago the sisters had come, five in number
+dumb despair. <immigrants nationality= "Irish">Forty years ago the sisters had come, five in number
 then, with their mother, from the North of Ireland to make their home
-and earn a living among strangers. They were lace embroiderers and
+and earn a living among strangers.</immigrants> They were lace embroiderers and
 found work easily at good wages. All the rest had died as the years
 went by. The two remained and, firmly resolved to lead an honest life,
 worked on though wages fell and fell as age and toil stiffened their
@@ -6195,9 +6195,9 @@ resting neither by night nor by day, that the sister might not want.
 Now that she too had been stricken, as she was going to the store for
 the work that was to keep them through the holidays, the battle was
 over at last. There was before them starvation, or the poor-house. And
-the proud spirits of the sisters, helpless now, quailed at the outlook.
+the proud spirits of the sisters, helpless now, quailed at the outlook.</conditions>
 
-These were old, with life behind them. For them nothing was left but to
+<narrative>These were old, with life behind them. For them nothing was left but to
 sit in the shadow and wait. But of the thousands, who are travelling
 the road they trod to the end, with the hot blood of youth in their
 veins, with the love of life and of the beautiful world to which not
@@ -6207,9 +6207,9 @@ paths that have effaced the saving "limit," and to which it is declared
 to be "inevitable that they must in many instances resort." Let the
 moralist answer. Let the wise economist apply his rule of supply
 and demand, and let the answer be heard in this city of a thousand
-charities where justice goes begging.
+charities where justice goes begging.</narrative>
 
-To the everlasting credit of New York's working-girl let it be said
+<narrative>To the everlasting credit of New York's working-girl let it be said
 that, rough though her road be, all but hopeless her battle with life,
 only in the rarest instances does she go astray. As a class she is
 brave, virtuous, and true. New York's army of profligate women is not,
@@ -6228,17 +6228,17 @@ The organization of working girls' clubs, unions, and societies with a
 community of interests, despite the obstacles to such a movement, bears
 testimony to it, as to the devotion of the unselfish women who have
 made their poorer sisters' cause their own, and will yet wring from an
-unfair world the justice too long denied her.</chapter>
+unfair world the justice too long denied her.</narrative></chapter>
 
 
 
 
-                              CHAPTER XXI.
+                              <chapnum number= "21">CHAPTER XXI.</chapnum>
 
-                      <chaptertitle>PAUPERISM IN THE TENEMENTS.</chaptertitle>
+  <chaptitle name="PAUPERISM IN THE TENEMENTS.">PAUPERISM IN THE TENEMENTS.</chaptitle>
 
 
-<chapter subject= "poverty">The reader who has followed with me the fate of the Other Half thus
+<charity>The reader who has followed with me the fate of the Other Half thus
 far, may not experience much of a shock at being told that in eight
 years 135,595 families in New York were registered as asking or
 receiving charity. Perhaps, however, the intelligence will rouse him
@@ -6263,9 +6263,9 @@ is shown by a classification of 5,169 cases that were investigated by
 the Society in one year. This was the way it turned out: 327 worthy of
 continuous relief, or 6.4 per cent.; 1,269 worthy of temporary relief,
 or 24.4 per cent.; 2,698 in need of work, rather than relief, or 52.2
-per cent.; 875 unworthy of relief, or 17 per cent.
+per cent.; 875 unworthy of relief, or 17 per cent.</charity>
 
-That is, nearly six and a half per cent, of all were utterly
+<charity>That is, nearly six and a half per cent, of all were utterly
 helpless--orphans, cripples, or the very aged; nearly one-fourth needed
 just a lift to start them on the road of independence, or of permanent
 pauperism, according to the wisdom with which the lever was applied.
@@ -6288,12 +6288,13 @@ their lot in life, is the hope of a decent burial. But for the five
 years ending with 1888 the average of burials in the Potter's Field
 has been 10.03 per cent. of all. In 1889 it was 9.64. In that year
 the proportion to the total mortality of those who died in hospitals,
-institutions, and in the Almshouse was as 1 in 5.
+institutions, and in the Almshouse was as 1 in 5.</charity>
 
-  [Illustration: A FLAT IN THE PAUPER BARRACKS, WEST THIRTY-EIGHTH
-                 STREET, WITH ALL ITS FURNITURE.]
+  <illustration name= "A FLAT IN THE PAUPER BARRACKS, WEST THIRTY-EIGHTH
+    STREET, WITH ALL ITS FURNITURE.">[Illustration: A FLAT IN THE PAUPER BARRACKS, WEST THIRTY-EIGHTH
+                 STREET, WITH ALL ITS FURNITURE.]</illustration>
 
-The 135,595 families inhabited no fewer than 31,000 different
+<conditions type= "living">The 135,595 families inhabited no fewer than 31,000 different
 tenements. I say tenements advisedly, though the society calls them
 buildings, because at least ninety-nine per cent. were found in the big
 barracks, the rest in shanties scattered here and there, and now and
@@ -6307,9 +6308,9 @@ more contagious than the alms-seeker's complaint. There are houses that
 have been corrupted through and through by this pestilence, until their
 very atmosphere breathes beggary. More than a hundred and twenty pauper
 families have been reported from time to time as living in one such
-tenement.
+tenement.</conditions>
 
-The truth is that pauperism grows in the tenements as naturally as
+<narrative>The truth is that pauperism grows in the tenements as naturally as
 weeds in a garden lot. A moral distemper, like crime, it finds there
 its most fertile soil. All the surroundings of tenement-house life
 favor its growth, and where once it has taken root it is harder to
@@ -6327,9 +6328,9 @@ tenement, the destroyer of individuality and character everywhere.
 "In nine years," said a wise and charitable physician, sadly, to me,
 "I have known of but a single case of permanent improvement in a poor
 tenement family." I have known of some, whose experience, extending
-over an even longer stretch, was little better.
+over an even longer stretch, was little better.</narrative>
 
-The beggar follows the "tough's" rule of life that the world owes him
+<narrative>The beggar follows the "tough's" rule of life that the world owes him
 a living, but his scheme of collecting it stops short of violence. He
 has not the pluck to rob even a drunken man. His highest flights take
 in at most an unguarded clothes-line, or a little child sent to buy
@@ -6363,7 +6364,7 @@ regular pauper capitalists, able to draw their check for three thousand
 dollars, had they been so disposed. The woman was fined $250, a worse
 punishment undoubtedly than to have sent her to prison for the rest of
 her natural life. Her class has, unhappily, representatives in New York
-that have not yet been brought to grief.
+that have not yet been brought to grief.</narrative>
 
 Nothing short of making street begging a crime has availed to clear
 our city of this pest to an appreciable extent. By how much of an
