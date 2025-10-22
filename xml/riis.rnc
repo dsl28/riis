@@ -31,7 +31,7 @@ chapnum = element chapnum {number, text}
 chaptitle = element chaptitle {name, text}
 name = attribute name {text}
 
-chapter = element chapter {text|immigrants|conditions|death|vice|disease|crime|footnote|illustration|work|policing}
+chapter = element chapter {text|immigrants|conditions|death|vice|disease|crime|footnote|illustration|work|policing|table}
 
 immigrants = element immigrants {nationality, text}
 nationality = attribute nationality {text}
@@ -52,6 +52,8 @@ work = element work {job, text}
 job = attribute job {text}
 
 policing = element policing {text}
+
+table = element table {text|xsd:integer}
 
 
 
