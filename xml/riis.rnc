@@ -2,11 +2,56 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = riis
 
-riis = element riis { introduction, chapterTitle, chapter, text }
+riis = element riis {booktitle|illustration|titlepage|copyright|preface|tableofcontents|listofillustrations|quote|introduction|chapnum|chaptitle|chapter}
 
-introduction = element introduction {text}
-chapterTitle = element chapterTitle {text}
-chapter = element chapter { subject, text }
+booktitle = element booktitle {text}
 
-subject = attribute subject {text}
+illustration = element illustration {title, text}
+title = attribute title {text}
+
+titlepage = element titlepage {author, text}
+author = attribute author {text}
+
+copyright = element copyright {text}
+
+preface = element preface {text}
+
+tableofcontents = element tableofcontents {text}
+
+listofillustrations = element listofillustrations {text}
+
+quote = element quote {text}
+
+introduction = element introduction {footnote|illustration}
+footnote = element foornote {number, text}
+number = attribute number {xsd:integer}
+
+chapnum = element chapnum {number, text}
+
+chaptitle = element chaptitle {name, text}
+name = attribute name {text}
+
+chapter = element chapter {text|immigrants|conditions|death|vice|disease|crime|footnote|illustration|work|policing}
+
+immigrants = element immigrants {nationality, text}
+nationality = attribute nationality {text}
+
+conditions = element conditions {type, text}
+type = attribute type {text}
+
+death = element death {cause, text}
+cause = attribute cause {text}
+
+vice = element vice {type, text}
+
+disease = element disease {type, text}
+
+crime = element crime {type, text}
+
+work = element work {job, text}
+job = attribute job {text}
+
+policing = element policing {text}
+
+
 

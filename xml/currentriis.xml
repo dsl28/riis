@@ -339,7 +339,7 @@ helper, my wisest counsellor, and my gentlest critic.
                           <introduction>_INTRODUCTION._
 
 
-<narrative>Long ago it was said that "one half of the world does not know how the
+Long ago it was said that "one half of the world does not know how the
 other half lives." That was true then. It did not know because it did
 not care. The half that was on top cared little for the struggles,
 and less for the fate of those who were underneath, so long as it was
@@ -455,7 +455,7 @@ Might not the conference have found in the warning of one Brooklyn
 builder, who has invested his capital on this plan and made it pay more
 than a money interest, a hint worth heeding: "How shall the love of
 God be understood by those who have been nurtured in sight only of the
-greed of man?"</narrative></introduction>
+greed of man?"</introduction>
 
 <illustration title="HELL'S KITCHEN AND SEBASTOPOL">[Illustration: HELL'S KITCHEN AND SEBASTOPOL.]</illustration>
 
@@ -467,14 +467,14 @@ greed of man?"</narrative></introduction>
                         <chaptitle name="GENESIS OF THE TENEMENT">GENESIS OF THE TENEMENT.</chaptitle>
 
 
-<chapter><narrative>The first tenement <location name="New York">New York</location> knew bore the mark of Cain from its birth,
+<chapter>The first tenement <location name="New York">New York</location> knew bore the mark of Cain from its birth,
 though a generation passed before the writing was deciphered. It was
 the "rear house," infamous ever after in our city's history. There had
 been tenant-houses before, but they were not built for the purpose.
 Nothing would probably have shocked their original owners more than the
 idea of their harboring a promiscuous crowd; for they were the decorous
 homes of the old Knickerbockers, the proud aristocracy of <location name="Manhattan">Manhattan</location> in
-the early days.</narrative>
+the early days.
 
 It was the stir and bustle of trade, together with the tremendous
 immigration that followed upon the war of 1812 that dislodged them.
@@ -661,7 +661,7 @@ Education in Africa."
 <footnote number="5">[Footnote 5: "A lot 50 × 60, contained twenty stables, rented for
 dwellings at $15 a year each; cost of the whole $600."]</footnote></chapter>
 
-  [Illustration]
+  <illustration name="NONE">[Illustration]</illustration>
 
 
 
@@ -1643,7 +1643,7 @@ Bend, these vile dens flourish and gather about them all the wrecks,
 the utterly wretched, the hopelessly lost, on the lowest slope of
 depraved humanity. And out of their misery he makes a profit.</chapter>
 
-  [Illustration]
+  <illustration name="NONE">[Illustration]</illustration>
   
       <chapnum number="6">CHAPTER VI.</chapnum>
 
@@ -1819,7 +1819,7 @@ the alley itself, No. 59, nine dead were carried in 1888, five in
 baby coffins. Here is the record of the year for the whole block, as
 furnished by the Registrar of Vital Statistics, Dr. Roger S. Tracy:
 
- _Deaths and Death-rates in 1888 in Baxter and Mulberry Streets,
+ <table>_Deaths and Death-rates in 1888 in Baxter and Mulberry Streets,
                    between Park and Bayard Streets._
 
  Key
@@ -1837,7 +1837,7 @@ furnished by the Registrar of Vital Statistics, Dr. Roger S. Tracy:
  Mulberry Street | 2,788| 629| 3,417| 44| 86| 130| 15.78| 136.70| 38.05
                  +------+----+------+---+---+----+------+-------+------
      Total       | 4,706| 944| 5,650| 70|132| 202| 14.87| 139.83| 35.75
- ----------------+------+----+------+---+---+----+------+-------+------
+ ----------------+------+----+------+---+---+----+------+-------+------</table>
 
 The general death-rate for the whole city that year was 26.27.
 
