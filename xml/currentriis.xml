@@ -6367,7 +6367,7 @@ punishment undoubtedly than to have sent her to prison for the rest of
 her natural life. Her class has, unhappily, representatives in New York
 that have not yet been brought to grief.</narrative>
 
-Nothing short of making street begging a crime has availed to clear
+<policing>Nothing short of making street begging a crime has availed to clear
 our city of this pest to an appreciable extent. By how much of an
 effort this result has been accomplished may be gleaned from the fact
 that the Charity Organization Society alone, in five years, caused the
@@ -6376,13 +6376,13 @@ taking up of 2,594 street beggars, and the arrest and conviction of
 mendicants. The police report only 19 arrests for begging during the
 year 1889, but the real facts of the case are found under the heading
 "vagrancy." In all, 2,633 persons were charged with this offence, 947
-of them women. A goodly proportion of these latter came from the low
+of them women.</policing> <work job= "scrub">A goodly proportion of these latter came from the low
 groggeries of the Tenth Ward, where a peculiar variety of the female
 tramp-beggar is at home, the "scrub." The scrub is one degree perhaps
 above the average pauper in this, that she is willing to work at least
 one day in the week, generally the Jewish Sabbath. The orthodox Jew can
 do no work of any sort from Friday evening till sunset on Saturday,
-and this interim the scrub fills out in Ludlow Street. The pittance
+and this interim the scrub fills out in Ludlow Street.</work> <vice type= "alcohol">The pittance
 she receives for this vicarious sacrifice of herself upon the altar
 of the ancient faith buys her rum for at least two days of the week
 at one of the neighborhood "morgues." She lives through the other
@@ -6390,9 +6390,9 @@ four by begging. There are distilleries in Jewtown, or just across its
 borders, that depend almost wholly on her custom. Recently, when one
 in Hester Street was raided because the neighbors had complained of
 the boisterous hilarity of the hags over their beer, thirty two aged
-"scrubs" were marched off to the station-house.
+"scrubs" were marched off to the station-house.</vice>
 
-It is curious to find preconceived notions quite upset in a review of
+<immigrants nationality= "various"> It is curious to find preconceived notions quite upset in a review of
 the nationalities that go to make up this squad of street beggars. The
 Irish head the list with fifteen per cent., and the native American
 is only a little way behind with twelve per cent., while the Italian,
@@ -6400,18 +6400,18 @@ who in his own country turns beggary into a fine art, has less than
 two per cent. Eight per cent. were Germans. The relative prevalence of
 the races in our population does not account for this showing. Various
 causes operate, no doubt, to produce it. Chief among them is, I think,
-the tenement itself. It has no power to corrupt the Italian, who comes
+the tenement itself.</immigrants> <immigrants nationality= "Italian">It has no power to corrupt the Italian, who comes
 here in almost every instance to work--no beggar would ever emigrate
 from anywhere unless forced to do so. He is distinctly on its lowest
-level from the start. With the Irishman the case is different. The
+level from the start.</immigrants> <immigrants nationality= "Irish">With the Irishman the case is different. The
 tenement, especially its lowest type, appears to possess a peculiar
 affinity for the worse nature of the Celt, to whose best and strongest
 instincts it does violence, and soonest and most thoroughly corrupts
-him. The "native" twelve per cent. represent the result of this
+him.</immigrants> The "native" twelve per cent. represent the result of this
 process, the hereditary beggar of the second or third generation in the
 slums.
 
-The blind beggar alone is winked at in New York's streets, because the
+<reform>The blind beggar alone is winked at in New York's streets, because the
 authorities do not know what else to do with him. There is no provision
 for him anywhere after he is old enough to strike out for himself.
 The annual pittance of thirty or forty dollars which he receives
@@ -6437,16 +6437,16 @@ memento of his rascality. There was another of his tribe, a woman, who
 begged for years with a deformed child in her arms, which she was found
 to have hired at an almshouse in Genoa for fifteen francs a month. It
 was a good investment, for she proved to be possessed of a comfortable
-fortune. Some time before that, the Society for the Prevention of
+fortune.</reform> <children>Some time before that, the Society for the Prevention of
 Cruelty to Children, that found her out, had broken up the dreadful
 padrone system, a real slave trade in Italian children, who were
 bought of poor parents across the sea and made to beg their way on
 foot through France to the port whence they were shipped to this city,
 to be beaten and starved here by their cruel masters and sent out to
 beg, often after merciless mutilation to make them "take" better with a
-pitying public.
+pitying public.</children>
 
-But, after all, the tenement offers a better chance of fraud on
+<conditions type= "housing">But, after all, the tenement offers a better chance of fraud on
 impulsive but thoughtless charity, than all the wretchedness of the
 street, and with fewer risks. To the tender-hearted and unwary it
 is, in itself, the strongest plea for help. When such a cry goes up
@@ -6460,17 +6460,17 @@ Society, justly dreaded only by the frauds, discovers the "sickness"
 to stand for laziness, and the destitution to be the family's stock in
 trade; and the community receives a shock that for once is downright
 wholesome, if it imposes a check on an undiscriminating charity that is
-worse than none at all.
+worse than none at all.</conditions>
 
-The case referred to furnished an apt illustration of how thoroughly
+<conditions type= "housing">The case referred to furnished an apt illustration of how thoroughly
 corrupting pauperism is in such a setting. The tenement woke up early
 to the gold mine that was being worked under its roof, and before the
 day was three hours old the stream of callers who responded to the
 newspaper appeal found the alley blocked by a couple of "toughs," who
 exacted toll of a silver quarter from each tearful sympathizer with the
-misery in the attic.
+misery in the attic.</conditions>
 
-A volume might be written about the tricks of the professional beggar,
+<crime type= "fraud">A volume might be written about the tricks of the professional beggar,
 and the uses to which he turns the tenement in his trade. The Boston
 "widow" whose husband turned up alive and well after she had buried
 him seventeen times with tears and lamentation, and made the public
@@ -6483,11 +6483,11 @@ merely transferred the scene of his operations from the tenement to the
 church as the proper setting for his specialty. There is enough of real
 suffering in the homes of the poor to make one wish that there were
 some effective way of enforcing Paul's plan of starving the drones into
-the paths of self-support: no work, nothing to eat.
+the paths of self-support: no work, nothing to eat.</crime>
 
-  [Illustration: COFFEE AT ONE CENT.]
+  <illustration name= "COFFEE AT ONE CENT.">[Illustration: COFFEE AT ONE CENT.]</illustration>
 
-The message came from one of the Health Department's summer doctors,
+<death cause= "starvation">The message came from one of the Health Department's summer doctors,
 last July, to the King's Daughters' Tenement-house Committee, that
 a family with a sick child was absolutely famishing in an uptown
 tenement. The address was not given. The doctor had forgotten to
@@ -6498,7 +6498,7 @@ little corpse in an orange-box partly filled with straw, that he might
 take it to the Morgue for pauper burial. There was absolutely not a
 crust to eat in the house, and the other children were crying for
 food. The great immediate need in that case, as in more than half of
-all according to the record, was work and living wages. Alms do not
+all according to the record, was work and living wages.</death> <charity>Alms do not
 meet the emergency at all. They frequently aggravate it, degrading
 and pauperizing where true help should aim at raising the sufferer
 to self-respect and self-dependence. The experience of the Charity
@@ -6513,7 +6513,7 @@ in a great labor bureau, that would bring the seeker of work and the
 one with work to give together under auspices offering some degree of
 mutual security, would certainly repay the amount of the investment in
 the saving of much capital now worse than wasted, and would be prolific
-of the best results. The ultimate and greatest need, however, the
+of the best results.</charity> <conditions type= "housing">The ultimate and greatest need, however, the
 real remedy, is to remove the cause--the tenement that was built for
 "a class of whom nothing was expected," and which has come fully up to
 the expectation. Tenement-house reform holds the key to the problem
@@ -6521,17 +6521,17 @@ of pauperism in the city. We can never get rid of either the tenement
 or the pauper. The two will always exist together in New York. But by
 reforming the one, we can do more toward exterminating the other than
 can be done by all other means together that have yet been invented, or
-ever will be.</chapter>
+ever will be.</conditions></chapter>
 
 
 
 
-                             CHAPTER XXII.
+                             <chapnum number= "22">CHAPTER XXII.</chapnum>
 
-                       <chapterTitle>THE WRECKS AND THE WASTE.</chapterTitle>
+  <chaptitle name= "THE WRECKS AND THE WASTE.">THE WRECKS AND THE WASTE.</chaptitle>
 
 
-<chapter subject= "corrections">Pauperdom is to blame for the unjust yoking of poverty with punishment,
+<policing>Pauperdom is to blame for the unjust yoking of poverty with punishment,
 "charities" with "correction," in our municipal ministering to the
 needs of the Nether Half. The shadow of the workhouse points like a
 scornful finger toward its neighbor, the almshouse, when the sun sets
@@ -6540,9 +6540,9 @@ speak, it would say before night drops its black curtain between them:
 "You and I are brothers. I am not more bankrupt in moral purpose than
 you. A common parent begat us. Twin breasts, the tenement and the
 saloon, nourished us. Vice and unthrift go hand in hand. Pauper, behold
-thy brother!" And the almshouse owns the bitter relationship in silence.
+thy brother!" And the almshouse owns the bitter relationship in silence.</policing>
 
-Over on the islands that lie strung along the river and far up the
+<policing>Over on the islands that lie strung along the river and far up the
 Sound the Nether Half hides its deformity, except on show-days, when
 distinguished visitors have to be entertained and the sore is uncovered
 by the authorities with due municipal pride in the exhibit. I shall
@@ -6567,9 +6567,9 @@ in the swift currents to reach the goal that tantilizes him with the
 promise of "just one more drunk." The chances are at least even of his
 being run down by some passing steamer and drowned, even if he is not
 overtaken by the armed guards who patrol the shore in boats, or his
-strength does not give out.
+strength does not give out.</policing>
 
-This workhouse comes next, with the broken-down hordes from the dives,
+<policing>This workhouse comes next, with the broken-down hordes from the dives,
 the lodging-houses, and the tramps' nests, the "hell-box"[22] rather
 than the repair-shop of the city. In 1889 the registry at the workhouse
 footed up 22,477, of whom some had been there as many as twenty times
@@ -6584,12 +6584,12 @@ the snail's pace that shall do justice to the snail. Nature and man's
 art have made these islands beautiful; but weeds grow luxuriantly in
 their gardens, and spiders spin their cobwebs unmolested in the borders
 of sweet-smelling box. The work which two score of hired men could do
-well is too much for these thousands.
+well is too much for these thousands.</policing>
 
-[Footnote 22: In printing-offices the broken, worn-out, and useless
-type is thrown into the "hell-box," to be recast at the foundry.]
+<footnote number= "22">[Footnote 22: In printing-offices the broken, worn-out, and useless
+type is thrown into the "hell-box," to be recast at the foundry.]</footnote>
 
-Rows of old women, some smoking stumpy, black clay-pipes, others
+<conditions= "living">Rows of old women, some smoking stumpy, black clay-pipes, others
 knitting or idling, all grumbling, sit or stand under the trees that
 hedge in the almshouse, or limp about in the sunshine, leaning on
 crutches or bean-pole staffs. They are a "growler-gang" of another
@@ -6604,12 +6604,12 @@ warden, who was in charge of the almshouse for many years, had become
 so snappish and profane by constant association with a thousand cross
 old women that I approached him with some misgivings, to request his
 permission to "take" a group of a hundred or so who were within shot of
-my camera. He misunderstood me.
+my camera. He misunderstood me.</conditions>
 
-"Take them?" he yelled. "Take the thousand of them and be welcome. They
+<policing>"Take them?" he yelled. "Take the thousand of them and be welcome. They
 will never be still, by ----, till they are sent up on Hart's Island in
 a box, and I'll be blamed if I don't think they will growl then at the
-style of the funeral."
+style of the funeral."</policing>
 
 And he threw his arms around me in an outburst of enthusiasm over the
 wondrous good luck that had sent a friend indeed to his door. I felt it
@@ -6618,7 +6618,7 @@ wanted the old women's picture, he turned away in speechless disgust,
 and to his dying day, I have no doubt, remembered my call as the day of
 the champion fool's visit to the island.
 
-When it is known that many of these old people have been sent to the
+<conditions type= "living">When it is known that many of these old people have been sent to the
 almshouse to die by their heartless children, for whom they had worked
 faithfully as long as they were able, their growling and discontent is
 not hard to understand. Bitter poverty threw them all "on the county,"
@@ -6634,16 +6634,16 @@ afford to lose it. It costs too much to bury it.' And when the little
 one did die there was no time for the mother's grief. The question
 crowded on at once, 'where shall the money come from?' Natural feelings
 and affections are smothered in the tenements." The doctor's experience
-furnished a sadly appropriate text for the priest's sermon.
+furnished a sadly appropriate text for the priest's sermon.</conditions>
 
-Pitiful as these are, sights and sounds infinitely more saddening
+<reform>Pitiful as these are, sights and sounds infinitely more saddening
 await us beyond the gate that shuts this world of woe off from one
 whence the light of hope and reason have gone out together. The
 shuffling of many feet on the macadamized roads heralds the approach
 of a host of women, hundreds upon hundreds--beyond the turn in the
 road they still keep coming, marching with the faltering step, the
 unseeing look and the incessant, senseless chatter that betrays the
-darkened mind. The lunatic women of the Blackwell's Island Asylum are
+darkened mind.</reform> <disease type= "mental illness">The lunatic women of the Blackwell's Island Asylum are
 taking their afternoon walk. Beyond, on the wide lawn, moves another
 still stranger procession, a file of women in the asylum dress of dull
 gray, hitched to a queer little wagon that, with its gaudy adornments,
@@ -6673,9 +6673,9 @@ past for the missing key: "Oh! how my heart grows weary, far from----"
 
 "Who is she, doctor?"
 
-"Hopeless case. She will never see home again."
+"Hopeless case. She will never see home again."</disease>
 
-An average of seventeen hundred women this asylum harbors; the asylum
+<policing>An average of seventeen hundred women this asylum harbors; the asylum
 for men up on Ward's Island even more. Altogether 1,419 patients
 were admitted to the city asylums for the insane in 1889, and at the
 end of the year 4,913 remained in them. There is a constant ominous
@@ -6706,18 +6706,18 @@ The flotsam and jetsam are mere shreds and fragments of wasted lives.
 Such a ministry must begin at the sources--is necessarily prophylactic,
 nutritive, educational. On these islands there are no flexible twigs,
 only gnarled, blasted, blighted trunks, insensible to moral or social
-influences."
+influences."</policing>
 
-[Footnote 23: Dr. Louis L. Seaman, late chief of staff of the
+<footnote number= "23">[Footnote 23: Dr. Louis L. Seaman, late chief of staff of the
 Blackwell's Island hospitals: "Social Waste of a Great City," read
-before the American Association for the Advancement of Science, 1886.]
+before the American Association for the Advancement of Science, 1886.]</footnote>
 
-Sad words, but true. The commonest keeper soon learns to pick out
+<policing>Sad words, but true. The commonest keeper soon learns to pick out
 almost at sight the "cases" that will leave the penitentiary, the
 workhouse, the almshouse, only to return again and again, each time
-more hopeless, to spend their wasted lives in the bondage of the island.
+more hopeless, to spend their wasted lives in the bondage of the island.</policing>
 
-The alcoholic cells in Bellevue Hospital are a way-station for a goodly
+<policing>The alcoholic cells in Bellevue Hospital are a way-station for a goodly
 share of them on their journeys back and forth across the East River.
 Last year they held altogether 3,694 prisoners, considerably more
 than one-fourth of the whole number of 13,813 patients that went in
@@ -6735,17 +6735,17 @@ the care of all their wards the commissioners expended $2,343,372. The
 appropriation for the police force in 1889 was $4,409,550.94, and for
 the criminal courts and their machinery $403,190. Thus the first cost
 of maintaining our standing army of paupers, criminals, and sick poor,
-by direct taxation, was last year $7,156,112.94.</chapter>
+by direct taxation, was last year $7,156,112.94.</policing></chapter>
 
 
 
 
-                             CHAPTER XXIII.
+                             <chapnum number= "23">CHAPTER XXIII.</chapnum>
 
-                        <chapterTitle>THE MAN WITH THE KNIFE.</chapterTitle>
+  <chaptitle name= "THE MAN WITH THE KNIFE.">THE MAN WITH THE KNIFE.</chaptitle>
 
 
-<chapter subject= "crime">A man stood at the corner of Fifth Avenue and Fourteenth Street the
+<crime type= "murder">A man stood at the corner of Fifth Avenue and Fourteenth Street the
 other day, looking gloomily at the carriages that rolled by, carrying
 the wealth and fashion of the avenues to and from the big stores down
 town. He was poor, and hungry, and ragged. This thought was in his
@@ -6755,14 +6755,14 @@ shopping what would keep me and my little ones from want a whole year."
 There rose up before him the picture of those little ones crying for
 bread around the cold and cheerless hearth--then he sprang into the
 throng and slashed about him with a knife, blindly seeking to kill, to
-revenge.
+revenge.</crime>
 
-The man was arrested, of course, and locked up. To-day he is probably
+<policing>The man was arrested, of course, and locked up. To-day he is probably
 in a mad-house, forgotten. And the carriages roll by to and from the
 big stores with their gay throng of shoppers. The world forgets easily,
-too easily, what it does not like to remember.
+too easily, what it does not like to remember.</policing>
 
-Nevertheless the man and his knife had a mission. They spoke in their
+<policing>Nevertheless the man and his knife had a mission. They spoke in their
 ignorant, impatient way the warning one of the most conservative,
 dispassionate of public bodies had sounded only a little while
 before: "Our only fear is that reform may come in a burst of public
@@ -6771,12 +6771,12 @@ represented, one solution of the problem of ignorant poverty _versus_
 ignorant wealth that has come down to us unsolved, the danger-cry
 of which we have lately heard in the shout that never should have
 been raised on American soil--the shout of "the masses against the
-classes"--the solution of violence.
+classes"--the solution of violence.</policing>
 
-[Footnote 24: Forty-fourth Annual Report of the Association for
-Improving the Condition of the Poor. 1887.]
+<footnote number= "24">[Footnote 24: Forty-fourth Annual Report of the Association for
+Improving the Condition of the Poor. 1887.]</footnote>
 
-There is another solution, that of justice. The choice is between the
+<policing>There is another solution, that of justice. The choice is between the
 two. Which shall it be?
 
 "Well!" say some well-meaning people; "we don't see the need of putting
@@ -6785,9 +6785,9 @@ over. There are a good many people there; they are not comfortable,
 perhaps. What would you have? They are poor. And their houses are not
 such hovels as we have seen and read of in the slums of the Old World.
 They are decent in comparison. Why, some of them have brown-stone
-fronts. You will own at least that they make a decent show."
+fronts. You will own at least that they make a decent show."</policing>
 
-Yes! that is true. The worst tenements in New York do not, as a rule,
+<conditions type= "housing">Yes! that is true. The worst tenements in New York do not, as a rule,
 _look bad_. Neither Hell's Kitchen, nor Murderers' Row bears its true
 character stamped on the front. They are not quite old enough, perhaps.
 The same is true of their tenants. The New York tough may be ready to
@@ -6813,15 +6813,15 @@ us, physically and morally. But is the knowledge reassuring? In the
 light of what we have seen, does not the question arise: what sort of
 creature, then, this of the tenement? I tried to draw his likeness from
 observation in telling the story of the "tough." Has it nothing to
-suggest the man with the knife?
+suggest the man with the knife?</conditions>
 
-I will go further. I am not willing even to admit it to be an
+<conditions type= "living">I will go further. I am not willing even to admit it to be an
 unqualified advantage that our New York tenements have less of the slum
 look than those of older cities. It helps to delay the recognition of
 their true character on the part of the well-meaning, but uninstructed,
-who are always in the majority.
+who are always in the majority.</conditions>
 
-The "dangerous classes" of New York long ago compelled recognition.
+<policing>The "dangerous classes" of New York long ago compelled recognition.
 They are dangerous less because of their own crimes than because of
 the criminal ignorance of those who are not of their kind. The danger
 to society comes not from the poverty of the tenements, but from the
@@ -6832,14 +6832,14 @@ corresponds to the groundwork. That this is well understood on the
 "unsafe" side of the line that separates the rich from the poor, much
 better than by those who have all the advantages of discriminating
 education, is good cause for disquietude. In it a keen foresight may
-again dimly discern the shadow of the man with the knife.
+again dimly discern the shadow of the man with the knife.</policing>
 
-Two years ago a great meeting was held at Chickering Hall--I have
+<policing>Two years ago a great meeting was held at Chickering Hall--I have
 spoken of it before--a meeting that discussed for days and nights
 the question how to banish this spectre; how to lay hold with good
 influences of this enormous mass of more than a million people, who
 were drifting away faster and faster from the safe moorings of the
-old faith. Clergymen and laymen from all the Protestant denominations
+old faith.</policing> <charity>Clergymen and laymen from all the Protestant denominations
 took part in the discussion; nor was a good word forgotten for the
 brethren of the other great Christian fold who labor among the poor.
 Much was said that was good and true, and ways were found of reaching
@@ -6854,22 +6854,22 @@ building that show, though they are yet few and scattered, what may in
 time be accomplished even with such poor, opportunities as New York
 offers to-day of undoing the old wrong. This is the gospel of justice,
 the solution that must be sought as the one alternative to the man
-with the knife.
+with the knife.</charity>
 
-"Are you not looking too much to the material condition of these
+<policing>"Are you not looking too much to the material condition of these
 people," said a good minister to me after a lecture in a Harlem
 church last winter, "and forgetting the inner man?" I told him, "No!
 for you cannot expect to find an inner man to appeal to in the worst
 tenement-house surroundings. You must first put the man where he can
 respect himself. To reverse the argument of the apple: you cannot
-expect to find a sound core in a rotten fruit."</chapter>
+expect to find a sound core in a rotten fruit."</policing></chapter>
 
-   CHAPTER XXIV.
+                                           <chapnum number= "24">CHAPTER XXIV.</chapnum>
 
-                          <chapterTitle>WHAT HAS BEEN DONE.</chapterTitle>
+  <chaptitle name= "WHAT HAS BEEN DONE.">WHAT HAS BEEN DONE.</chaptitle>
 
 
-<chapter subject= "reform">In twenty years what has been done in New York to solve the
+<policing>In twenty years what has been done in New York to solve the
 tenement-house problem?
 
 The law has done what it could. That was not always a great deal,
@@ -6897,15 +6897,15 @@ past. The dark, unventilated bedroom is going with them, and the open
 sewer. The day is at hand when the greatest of all evils that now curse
 life in the tenements--the dearth of water in the hot summer days--will
 also have been remedied, and a long step taken toward the moral and
-physical redemption of their tenants.
+physical redemption of their tenants.</policing>
 
-  [Illustration: EVOLUTION OF THE TENEMENT IN TWENTY YEARS.
+  <illustration title= "EVOLUTION OF THE TENEMENT IN TWENTY YEARS.">[Illustration: EVOLUTION OF THE TENEMENT IN TWENTY YEARS.</illustration>
 
                  Old Style Tenement.
 
                  Single Lot Tenement of To-day.]
 
-Public sentiment has done something also, but very far from enough.
+<conditions type= "living">Public sentiment has done something also, but very far from enough.
 As a rule, it has slumbered peacefully until some flagrant outrage
 on decency and the health of the community aroused it to noisy but
 ephemeral indignation, or until a dreaded epidemic knocked at our door.
@@ -6928,9 +6928,9 @@ obscures his mental sight. The man who will fight an order to repair
 the plumbing in his house through every court he can reach, would
 suffer tortures rather than shed the blood of a fellow-man by actual
 violence. Clearly, it is a matter of education on the part of the
-landlord no less than the tenant.
+landlord no less than the tenant.</conditions>
 
-In spite of this, the landlord has done his share; chiefly perhaps by
+<charity>In spite of this, the landlord has done his share; chiefly perhaps by
 yielding--not always gracefully--when it was no longer of any use to
 fight. There have been exceptions, however: men and women who have
 mended and built with an eye to the real welfare of their tenants as
@@ -6954,9 +6954,9 @@ management, with the best intentions, gives up the task, discouraged,
 as a flat failure. Some of the best-conceived enterprises, backed
 by abundant capital and good-will, have been wrecked on this rock.
 Sentiment, having prompted the effort, forgot to stand aside and let
-business make it.
+business make it.</charity>
 
-Business, in a wider sense, has done more than all other agencies
+<conditions type= "living">Business, in a wider sense, has done more than all other agencies
 together to wipe out the worst tenements. It has been New York's real
 Napoleon III., from whose decree there was no appeal. In ten years I
 have seen plague-spots disappear before its onward march, with which
@@ -6978,9 +6978,9 @@ I marvelled much at my own stupidity until, by examining the number of
 the house, I found out that I had gone right. It was the "flat" that
 had disappeared. In its place towered a six-story carriage factory with
 business going on on every floor, as if it had been there for years and
-years.
+years.</conditions> 
 
-This same "Big Flat" furnished a good illustration of why some
+<conditions type= "living">This same "Big Flat" furnished a good illustration of why some
 well-meant efforts in tenement building have failed. Like Gotham Court,
 it was originally built as a model tenement, but speedily came to
 rival the Court in foulness. It became a regular hot-bed of thieves
@@ -6992,16 +6992,16 @@ been supposed by the builders to be a real advantage as a means of
 ventilation, and their occupancy drove honest folk away. Murderers'
 Alley, of which I have spoken elsewhere, and the sanitary inspector's
 experiment with building a brick wall athwart it to shut off travel
-through the block, is a parallel case.
+through the block, is a parallel case.</conditions>
 
-The causes that operate to obstruct efforts to better the lot of
+<policing>The causes that operate to obstruct efforts to better the lot of
 the tenement population are, in our day, largely found among the
 tenants themselves. This is true particularly of the poorest. They
 are shiftless, destructive, and stupid; in a word, they are what the
 tenements have made them. It is a dreary old truth that those who would
 fight for the poor must fight the poor to do it. It must be confessed
 that there is little enough in their past experience to inspire
-confidence in the sincerity of the effort to help them. I recall the
+confidence in the sincerity of the effort to help them.</policing> <charity>I recall the
 discomfiture of a certain well-known philanthropist, since deceased,
 whose heart beat responsive to other suffering than that of human
 kind. He was a large owner of tenement property, and once undertook
@@ -7028,17 +7028,17 @@ redemption under proper management, when a contractor ran up a row of
 and gewgaws. The result was to tempt a lot of the well-housed tenants
 away. It was a very astonishing instance of perversity to the planners
 of the benevolent scheme; but, after all, there was nothing strange in
-it. It is all a matter of education, as I said about the landlord.
+it. It is all a matter of education, as I said about the landlord.</charity>
 
-That the education comes slowly need excite no surprise. The forces
+<policing>That the education comes slowly need excite no surprise. The forces
 on the other side are ever active. The faculty of the tenement for
 appropriating to itself every foul thing that comes within its reach,
 and piling up and intensifying its corruption until out of all
-proportion to the beginning, is something marvellous. Drop a case of
+proportion to the beginning, is something marvellous.</policing> <disease type= "various">Drop a case of
 scarlet fever, of measles, or of diphtheria into one of these barracks,
 and, unless it is caught at the very start and stamped out, the
 contagion of the one case will sweep block after block, and half people
-a graveyard. Let the police break up a vile dive, goaded by the angry
+a graveyard.</disease> <policing>Let the police break up a vile dive, goaded by the angry
 protests of the neighborhood--forthwith the outcasts set in circulation
 by the raid betake themselves to the tenements, where in their hired
 rooms, safe from interference, they set up as many independent centres
@@ -7046,9 +7046,9 @@ of contagion, infinitely more destructive, each and every one, than was
 the known dive before. I am not willing to affirm that this is the
 police reason for letting so many of the dives alone; but it might well
 be. They are perfectly familiar with the process, and entirely helpless
-to prevent it.
+to prevent it.</policing>
 
-This faculty, as inherent in the problem itself--the prodigious
+<conditions type= "housing">This faculty, as inherent in the problem itself--the prodigious
 increase of the tenement-house population that goes on without
 cessation, and its consequent greater crowding--is the chief obstacle
 to its solution. In 1869 there were 14,872 tenements in New York, with
@@ -7072,9 +7072,9 @@ probability show it to be one in four. Against such tendencies, in
 the absence of suburban outlets for the crowding masses, all remedial
 measures must prove more or less ineffective. The "confident belief"
 expressed by the Board of Health in 1874, that rapid transit would
-solve the problem, is now known to have been a vain hope.
+solve the problem, is now known to have been a vain hope.</conditions>
 
-Workingmen, in New York at all events, will live near their work, no
+<conditions type= "living">Workingmen, in New York at all events, will live near their work, no
 matter at what sacrifice of comfort--one might almost say at whatever
 cost, and the city will never be less crowded than it is. To distribute
 the crowds as evenly as possible is the effort of the authorities,
@@ -7083,9 +7083,9 @@ present year 1,068 persons were turned out of not quite two hundred
 tenements below Houston Street by the sanitary police on their midnight
 inspections, and this covered only a very small part of that field. The
 uptown tenements were practically left to take care of themselves in
-this respect.
+this respect.</conditions>
 
-The quick change of economic conditions in the city that often
+<conditions type= "living">The quick change of economic conditions in the city that often
 out-paces all plans of relief, rendering useless to-day what met the
 demands of the situation well enough yesterday, is another cause of
 perplexity. A common obstacle also--I am inclined to think quite as
@@ -7119,9 +7119,9 @@ had inherited city property, when he saw the condition of his slum
 tenements. The man was shocked beyond expression, all the more because
 he did not know whom to blame except himself for the state of things
 that had aroused his wrath, and yet, conscious of the integrity of his
-intentions, felt that he should not justly be held responsible.
+intentions, felt that he should not justly be held responsible.</conditions>
 
-The experience of this landlord points directly to the remedy which the
+<policing>The experience of this landlord points directly to the remedy which the
 law failed to supply to the early reformers. It has since been fully
 demonstrated that a competent agent on the premises, a man of the best
 and the highest stamp, who knows how to instruct and guide with a firm
@@ -7134,26 +7134,26 @@ The difficulty of procuring such assistance without having to pay a
 ruinous price, is one of the obstructions that have vexed in this city
 efforts to solve the problem of housing the poor properly, because it
 presupposes that the effort must be made on a larger scale than has
-often been attempted.
+often been attempted.</policing>
 
-The readiness with which the tenants respond to intelligent efforts
+<conditions type= "living">The readiness with which the tenants respond to intelligent efforts
 in their behalf, when made under fair conditions, is as surprising as
 it is gratifying, and fully proves the claim that tenants are only
 satisfied in filthy and unwholesome surroundings because nothing better
 is offered. The moral effect is as great as the improvement of their
 physical health. It is clearly discernible in the better class of
-tenement dwellers to-day. The change in the character of the colored
+tenement dwellers to-day.</conditions> <immigrants nationality="African-American">The change in the character of the colored
 population in the few years since it began to move out of the wicked
 rookeries of the old "Africa" to the decent tenements in Yorkville,
 furnishes a notable illustration, and a still better one is found in
 the contrast between the model tenement in the Mulberry Street Bend and
 the barracks across the way, of which I spoke in the chapter devoted to
-the Italian. The Italian himself is the strongest argument of all. With
+the Italian.</immigrants> <immigrants nationality= "Italian">The Italian himself is the strongest argument of all. With
 his fatal contentment in the filthiest surroundings, he gives undoubted
 evidence of having in him the instinct of cleanliness that, properly
 cultivated, would work his rescue in a very little while. It is a queer
 contradiction, but the fact is patent to anyone who has observed the
-man in his home-life. And he is not alone in this. I came across an
+man in his home-life. And he is not alone in this.</immigrants> <conditions type= "living">I came across an
 instance, this past summer, of how a refined, benevolent personality
 works like a leaven in even the roughest tenement-house crowd. This
 was no model tenement; far from it. It was a towering barrack in the
@@ -7174,9 +7174,9 @@ respect for her orders. The worst elements had been banished from the
 house in short order under her management, and for the rest a new era
 of self-respect had dawned. They were, as a body, as vastly superior to
 the general run of their class as they had before seemed below it. And
-this had been effected in the short space of a single year.
+this had been effected in the short space of a single year.</conditions>
 
-My observations on this point are more than confirmed by those of
+<policing>My observations on this point are more than confirmed by those of
 nearly all the practical tenement reformers I have known, who have
 patiently held to the course they had laid down. One of these, whose
 experience exceeds that of all of the rest together, and whose
@@ -7197,9 +7197,9 @@ the East River. For those who think it does, it may be well to remember
 that only five years ago the Tenement House Commission summed up the
 situation in this city in the declaration that, "the condition of the
 tenants is in advance of the houses which they occupy," quite the
-severest arraignment of the tenement that had yet been uttered.
+severest arraignment of the tenement that had yet been uttered.</policing>
 
-The many philanthropic efforts that have been made in the last few
+<charity>The many philanthropic efforts that have been made in the last few
 years to render less intolerable the lot of the tenants in the homes
 where many of them must continue to live, have undoubtedly had their
 effect in creating a disposition to accept better things, that will
@@ -7217,17 +7217,17 @@ upon for relief sad makeshifts, we can dimly discern behind it all that
 good is somehow working out of even this slough of despond the while
 it is deepening and widening in our sight, and in His own good season,
 if we labor on with courage and patience, will bear fruit sixty and a
-hundred fold. </chapter>
+hundred fold.</charity> </chapter>
 
 
 
 
-                              CHAPTER XXV.
+                              <chapnum number= "25">CHAPTER XXV.</chapnum>
 
-                          <chapterTitle>HOW THE CASE STANDS.</chapterTitle>
+  <chaptitle name= "HOW THE CASE STANDS.">HOW THE CASE STANDS.</chaptitle>
 
 
-<chapter subject= "reform">What, then, are the bald facts with which we have to deal in New York?
+What, then, are the bald facts with which we have to deal in New York?
 
 I. That we have a tremendous, ever swelling crowd of wage-earners which
 it is our business to house decently.
