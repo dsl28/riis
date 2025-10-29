@@ -4,7 +4,7 @@
   
        <booktitle>HOW THE OTHER HALF LIVES</booktitle>
 
-  <illustration title="GOTHAM COURT">[Illustration: GOTHAM COURT.]</illustration>
+  <illustration name="GOTHAM COURT">[Illustration: GOTHAM COURT.]</illustration>
 
 
 
@@ -457,7 +457,7 @@ than a money interest, a hint worth heeding: "How shall the love of
 God be understood by those who have been nurtured in sight only of the
 greed of man?"</introduction>
 
-<illustration title="HELL'S KITCHEN AND SEBASTOPOL">[Illustration: HELL'S KITCHEN AND SEBASTOPOL.]</illustration>
+<illustration name="HELL'S KITCHEN AND SEBASTOPOL">[Illustration: HELL'S KITCHEN AND SEBASTOPOL.]</illustration>
 
 
 
@@ -467,13 +467,13 @@ greed of man?"</introduction>
                         <chaptitle name="GENESIS OF THE TENEMENT">GENESIS OF THE TENEMENT.</chaptitle>
 
 
-<chapter>The first tenement <location name="New York">New York</location> knew bore the mark of Cain from its birth,
+<chapter>The first tenement New York knew bore the mark of Cain from its birth,
 though a generation passed before the writing was deciphered. It was
 the "rear house," infamous ever after in our city's history. There had
 been tenant-houses before, but they were not built for the purpose.
 Nothing would probably have shocked their original owners more than the
 idea of their harboring a promiscuous crowd; for they were the decorous
-homes of the old Knickerbockers, the proud aristocracy of <location name="Manhattan">Manhattan</location> in
+homes of the old Knickerbockers, the proud aristocracy of Manhattan in
 the early days.
 
 It was the stir and bustle of trade, together with the tremendous
@@ -608,7 +608,7 @@ on the top-story, so small that I was unable to get a photograph of it
 even by placing the camera outside the open door. Three short steps
 across either way would have measured its full extent.
 
-  <illustration title="TENEMENT OF 1863, FOR TWELVE FAMILIES ON EACH FLAT">[Illustration: TENEMENT OF 1863, FOR TWELVE FAMILIES ON EACH FLAT.[4]
+  <illustration name="TENEMENT OF 1863, FOR TWELVE FAMILIES ON EACH FLAT">[Illustration: TENEMENT OF 1863, FOR TWELVE FAMILIES ON EACH FLAT.[4]
                  D, dark. L, light. H, halls.]</illustration>
 
 <footnote number="4">[Footnote 4: This "unventilated and fever-breeding structure" the year
@@ -1994,7 +1994,7 @@ turned than the room was re-opened for business.</chapter>
 
                               <chapnum number="7">CHAPTER VII.</chapnum>
 
-                    <chapterTitle>A RAID ON THE STALE-BEER DIVES.</chapterTitle>
+                    <chaptitle name="A RAID ON THE STALE-BEER DIVES">A RAID ON THE STALE-BEER DIVES.</chaptitle>
 
 
 <chapter>Midnight roll-call was over in the Elizabeth Street police-station,
@@ -2100,7 +2100,7 @@ most natural thing in the world, that he had more than once seen the
 same tramp sent to Blackwell's Island twice in twenty-four hours for
 six months at a time.
 
-<illustration title="AN ALL-NIGHT TWO-CENT RESTAURANT, IN THE 'BEND.'">[Illustration: AN ALL-NIGHT TWO-CENT RESTAURANT, IN "THE BEND."]</illustration>
+<illustration name="AN ALL-NIGHT TWO-CENT RESTAURANT, IN THE 'BEND.'">[Illustration: AN ALL-NIGHT TWO-CENT RESTAURANT, IN "THE BEND."]</illustration>
 
 As a thief never owns to his calling, however devoid of moral scruples,
 preferring to style himself a speculator, so this real home-product
@@ -2190,7 +2190,7 @@ man, scarce ten seconds employed at honest labor, even at sitting down,
 at which he was an undoubted expert, had gone on strike. He knew his
 rights and the value of "work," and was not to be cheated out of either.
 
-<illustration title="THE TRAMP">[Illustration: THE TRAMP.]</illustration>
+<illustration name="THE TRAMP">[Illustration: THE TRAMP.]</illustration>
 
 Whence these tramps, and why the tramping? are questions oftener asked
 than answered. Ill-applied charity and idleness answer the first
@@ -2232,7 +2232,7 @@ thing," says my friend, the Sergeant, who knows.
 
 <chapnum number="8">CHAPTER VIII.</chapnum>
 
-<chapterTitle>THE CHEAP LODGING-HOUSES.</chapterTitle>
+<chaptitle name="THE CHEAP LODGING-HOUSES">THE CHEAP LODGING-HOUSES.</chaptitle>
 
 
 <chapter subject = "housing"><conditions type="living">When it comes to the question of numbers with this tramps' army,
@@ -2487,7 +2487,7 @@ business, and the great problem remained unsolved.</narrative></chapter>
 
 <chapnum number="9">CHAPTER IX.</chapnum>
 
-<chapterTitle>CHINATOWN.</chapterTitle>
+<chaptitle name="CHINATOWN">CHINATOWN.</chaptitle>
 
 
 <chapter subject= "race"><immigrants nationality="chinese">Between the tabernacles of Jewry and the shrines of the Bend, Joss

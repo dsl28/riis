@@ -2,17 +2,17 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = riis
 
-riis = element riis {booktitle|illustration|titlepage|copyright|preface|tableofcontents|listofillustrations|quote|introduction|chapnum|chaptitle|chapter}
+riis = element riis {(booktitle|illustration|titlepage|copyrightpage|preface|tableofcontents|listofillustrations|quote|introduction|chapnum|chaptitle|chapter)+}
 
 booktitle = element booktitle {text}
 
-illustration = element illustration {title, text}
-title = attribute title {text}
+illustration = element illustration {name, text}
+name = attribute name {text}
 
-titlepage = element titlepage {author, text}
-author = attribute author {text}
+titlepage = element titlepage {(author|text)+}
+author = element author {text}
 
-copyright = element copyright {text}
+copyrightpage = element copyrightpage {text}
 
 preface = element preface {text}
 
@@ -22,16 +22,15 @@ listofillustrations = element listofillustrations {text}
 
 quote = element quote {text}
 
-introduction = element introduction {footnote|illustration}
-footnote = element foornote {number, text}
+introduction = element introduction {(footnote|illustration|text)+}
+footnote = element footnote {number, text}
 number = attribute number {xsd:integer}
 
 chapnum = element chapnum {number, text}
 
 chaptitle = element chaptitle {name, text}
-name = attribute name {text}
 
-chapter = element chapter {text|immigrants|conditions|death|vice|disease|crime|footnote|illustration|work|policing|table}
+chapter = element chapter {(text|immigrants|conditions|death|vice|disease|crime|footnote|illustration|work|policing|table)+}
 
 immigrants = element immigrants {nationality, text}
 nationality = attribute nationality {text}
