@@ -2232,10 +2232,10 @@ thing," says my friend, the Sergeant, who knows.
 
 <chapnum number="8">CHAPTER VIII.</chapnum>
 
-<chaptitle name="THE CHEAP LODGING-HOUSES">THE CHEAP LODGING-HOUSES.</chaptitle>
+<chaptitle name="THE_CHEAP_LODGING-HOUSES">THE CHEAP LODGING-HOUSES.</chaptitle>
 
 
-<chapter subject = "housing"><conditions type="living">When it comes to the question of numbers with this tramps' army,
+<chapter>When it comes to the question of numbers with this tramps' army,
 another factor of serious portent has to be taken into account: the
 cheap lodging-houses. In the caravanseries that line Chatham Street and
 the Bowery, harboring nightly a population as large as that of many a
@@ -2254,7 +2254,7 @@ than any other agency I know of." A very slight acquaintance with the
 subject is sufficient to convince the observer that neither authority
 overstates the fact. The two officials had reference, however, to two
 different grades of lodging-houses. The cost of a night's lodging makes
-the difference. There is a wider gap between the "hotel"--they are all
+the difference. <conditions type="housing">There is a wider gap between the "hotel"--they are all
 hotels--that charges a quarter and the one that furnishes a bed for a
 dime than between the bridal suite and the every-day hall bedroom of
 the ordinary hostelry.</conditions>
@@ -2262,7 +2262,7 @@ the ordinary hostelry.</conditions>
 <footnote number="10">[Footnote 10: Inspector Byrnes on Lodging-houses, in the North American
 Review, September, 1889.]</footnote>
 
-<Narrative>The metropolis is to lots of people like a lighted candle to the moth.
+The metropolis is to lots of people like a lighted candle to the moth.
 It attracts them in swarms that come year after year with the vague
 idea that they can get along here if anywhere; that something is bound
 to turn up among so many. Nearly all are young men, unsettled in life,
@@ -2270,7 +2270,7 @@ many--most of them, perhaps--fresh from good homes, beyond a doubt
 with honest hopes of getting a start in the city and making a way for
 themselves. Few of them have much money to waste while looking around,
 and the cheapness of the lodging offered is an object. Fewer still know
-anything about the city and its pitfalls. They have come in search
+anything about the city and its pitfalls. <conditions type="living">They have come in search
 of crowds, of "life," and they gravitate naturally to the Bowery,
 the great democratic highway of the city, where the twenty-five-cent
 lodging-houses take them in. In the alleged reading-rooms of these
@@ -2287,30 +2287,30 @@ from home, and by the time his money is gone, with no work yet in
 sight, and he goes down a step, a long step, to the fifteen-cent
 lodging-house, he is ready for the tempter whom he finds waiting for
 him there, reinforced by the contingent of ex-convicts returning from
-the prisons after having served out their sentences for robbery or
+the prisons after having served out their</conditions> <crime type="theft">sentences for robbery or
 theft. Then it is that the something he has been waiting for turns
 up. The police returns have the record of it. "In nine cases out of
-ten," says Inspector Byrnes, "he turns out a thief, or a burglar, if,
+ten," says Inspector Byrnes, "he turns out a thief, or a burglar</crime>, <crime type="murder">if,
 indeed, he does not sooner or later become a murderer." As a matter
 of fact, some of the most atrocious of recent murders have been the
-result of schemes of robbery hatched in these houses, and so frequent
-and bold have become the depredations of the lodging-house thieves,
-that the authorities have been compelled to make a public demand for
+result of schemes of robbery hatched in these houses,</crime> <crime type="theft">and so frequent
+and bold have become the depredations of the lodging-house thieves,</crime>
+<conditions type="living">that the authorities have been compelled to make a public demand for
 more effective laws that shall make them subject at all times to police
-regulation.</Narrative>
+regulation.</conditions>
 
-<crime type="theft">Inspector Byrnes observes that in the last two or three years at
+>Inspector Byrnes observes that in the last two or three years at
 least four hundred young men have been arrested for petty crimes that
 originated in the lodging-houses, and that in many cases it was their
 first step in crime. He adds his testimony to the notorious fact that
 three-fourths of the young men called on to plead to generally petty
 offences in the courts are under twenty years of age, poorly clad, and
-without means. The bearing of the remark is obvious. One of the, to the
+without means. The bearing of the remark is obvious. <crime type="theft">One of the, to the
 police, well-known thieves who lived, when out of jail, at the Windsor,
 a well-known lodging-house in the Bowery, went to Johnstown after the
 flood and was shot and killed there while robbing the dead.</crime>
 
-<narrative>An idea of just how this particular scheme of corruption works, with
+An idea of just how this particular scheme of corruption works, with
 an extra touch of infamy thrown in, may be gathered from the story
 of David Smith, the "New York Fagin," who was convicted and sent to
 prison last year through the instrumentality of the Society for
@@ -2323,7 +2323,7 @@ York. He may have been a trifle wild. He met Smith on the Bowery and
 recognized him as an acquaintance. When Smith offered him a supper
 and bed he was only too glad to accept. Smith led the boy to a vile
 lodging-house on the Bowery, where he introduced him to his 'pals' and
-swore he would make a man of him before he was a week older. Next day
+swore he would make a man of him before he was a week older. <crime type="theft">Next day
 he took the unsuspecting Edward all over the Bowery and Grand Street,
 showed him the sights and drew his attention to the careless way the
 ladies carried their bags and purses and the easy thing it was to get
@@ -2331,27 +2331,27 @@ them. He induced Edward to try his hand. Edward tried and won. He was
 richer by three dollars! It did seem easy. 'Of course it is,' said his
 companion. From that time Smith took the boy on a number of thieving
 raids, but he never seemed to become adept enough to be trusted out
-of range of the 'Fagin's' watchful eye. When he went out alone he
+of range of the 'Fagin's' watchful eye.</crime> When he went out alone he
 generally returned empty-handed. This did not suit Smith. It was then
 he conceived the idea of turning this little inferior thief into a
-superior beggar. He took the boy into his room and burned his arms
+superior beggar. <crime type="assault">He took the boy into his room and burned his arms
 with a hot iron. The boy screamed and entreated in vain. The merciless
 wretch pressed the iron deep into the tender flesh, and afterward
-applied acid to the raw wound.
+applied acid to the raw wound.</crime>
 
-"Thus prepared, with his arm inflamed, swollen, and painful, Edward was
+<work job="indebted beggar">"Thus prepared, with his arm inflamed, swollen, and painful, Edward was
 sent out every day by this fiend, who never let him out of his sight,
 and threatened to burn his arm off if he did not beg money enough. He
 was instructed to tell people the wound had been caused by acid falling
 upon his arm at the works. Edward was now too much under the man's
 influence to resist or disobey him. He begged hard and handed Smith the
-pennies faithfully. He received in return bad food and worse treatment."
+pennies faithfully. He received in return bad food and worse treatment."</work>
 
 The reckoning came when the wretch encountered the boy's father, in
 search of his child, in the Bowery, and fell under suspicion of knowing
 more than he pretended of the lad's whereabouts. He was found in his
 den with a half dozen of his chums revelling on the proceeds of the
-boy's begging for the day.</narrative>
+boy's begging for the day.
 
 <conditions type="living">The twenty-five cent lodging-house keeps up the pretence of a bedroom,
 though the head-high partition enclosing a space just large enough to
@@ -2410,7 +2410,7 @@ penny a night. In the morning the boss woke them up by simply untying
 the line at one end and letting it go with its load; a labor-saving
 device certainly, and highly successful in attaining the desired end.</conditions>
 
-<narrative>According to the police figures, 4,974,025 separate lodgings were
+According to the police figures, 4,974,025 separate lodgings were
 furnished last year by these dormitories, between two and three
 hundred in number, and, adding the 147,634 lodgings furnished by the
 station-houses, the total of the homeless army was 5,121,659, an
@@ -2433,7 +2433,7 @@ The City Missionary finds them there far less frequently than the thief
 in need of helpers. Appropriately enough, nearly one-fifth of all the
 pawn-shops in the city and one-sixth of all the saloons are located
 here, while twenty-seven per cent. of all the arrests on the police
-books have been credited to the district for the last two years.</narrative>
+books have been credited to the district for the last two years.
 
 <footnote number="11">[Footnote 11: Deduct 69,111 women lodgers in the police stations.]</footnote>
 
@@ -2472,7 +2472,7 @@ hotly contested issue, that real ballot reform will do more to knock
 out cheap lodging-houses than all the regulations of police and health
 officers together.</crime>
 
-<narrative>The experiment made by a well-known stove manufacturer a winter or two
+The experiment made by a well-known stove manufacturer a winter or two
 ago in the way of charity, might have thrown much desired light on
 the question of the number of tramps in the city, could it have been
 carried to a successful end. He opened a sort of breakfast shop for
@@ -2483,14 +2483,14 @@ number kept growing until one morning, at the end of two weeks, found
 by actual count 2,014 shivering creatures in line waiting their turn
 for a seat at his tables. The shop was closed that day. It was one of
 the rare instances of too great a rush of custom wrecking a promising
-business, and the great problem remained unsolved.</narrative></chapter>
+business, and the great problem remained unsolved.</chapter>
 
 <chapnum number="9">CHAPTER IX.</chapnum>
 
 <chaptitle name="CHINATOWN">CHINATOWN.</chaptitle>
 
 
-<chapter subject= "race"><immigrants nationality="chinese">Between the tabernacles of Jewry and the shrines of the Bend, Joss
+<chapter><immigrants nationality="chinese">Between the tabernacles of Jewry and the shrines of the Bend, Joss
 has cheekily planted his pagan worship of idols, chief among which
 are the celestial worshipper's own gain and lusts. Whatever may be
 said about the Chinaman being a thousand years behind the age on his
@@ -2555,16 +2555,16 @@ stranger who enters through the crooked approach is received with
 sudden silence, a sullen stare, and an angry "Vat you vant?" that
 breathes annoyance and distrust.</immigrants>
 
-<vice type="opium" type="gambling">Trust not him who trusts no one, is as safe a rule in Chinatown as out
+Trust not him who trusts no one, is as safe a rule in Chinatown as out
 of it. Were not Mott Street overawed in its isolation, it would not be
 safe to descend this open cellar-way, through which come the pungent
 odor of burning opium and the clink of copper coins on the table. As
 it is, though safe, it is not profitable to intrude. At the first
-foot-fall of leather soles on the steps the hum of talk ceases, and the
-group of celestials, crouching over their game of fan tan, stop playing
+foot-fall of leather soles on the steps the hum of talk ceases, <immigrants nationality="chinese">and the
+group of celestials</immigrants>, <vice type="gambling">crouching over their game of fan tan, stop playing
 and watch the comer with ugly looks. Fan tan is their ruling passion.
 The average Chinaman, the police will tell you, would rather gamble
-than eat any day, and they have ample experience to back them. Only
+than eat any day, and they have ample experience to back them.</vice> <vice type="opium">Only
 the fellow in the bunk smokes away, indifferent to all else but his
 pipe and his own enjoyment. It is a mistake to assume that Chinatown is
 honeycombed with opium "joints." There are a good many more outside
@@ -2575,10 +2575,10 @@ police interference. The Chinaman smokes opium as Caucasians smoke
 tobacco, and apparently with little worse effect upon himself. But woe
 unto the white victim upon which his pitiless drug gets its grip!</vice>
 
-<immigrants nationality="chinese">The bloused pedlars who, with arms buried half to the elbow in their
+<work job="peddlar">The bloused pedlars who, with arms buried half to the elbow in their
 trousers' pockets, lounge behind their stock of watermelon seed and
 sugar-cane, cut in lengths to suit the purse of the buyer, disdain to
-offer the barbarian their wares. Chinatown, that does most things by
+offer the barbarian their wares.</work> Chinatown, that does most things by
 contraries, rules it holiday style to carry its hands in its pockets,
 and its denizens follow the fashion, whether in blue blouse, in gray,
 or in brown, with shining and braided pig-tail dangling below the
@@ -2587,7 +2587,7 @@ cut. All kinds of men are met, but no women--none at least with almond
 eyes. The reason is simple: there are none. A few, a very few, Chinese
 merchants have wives of their own color, but they are seldom or never
 seen in the street. The "wives" of Chinatown are of a different stock
-that comes closer home.</immigrants>
+that comes closer home.
 
 <vice type="opium">From the teeming tenements to the right and left of it come the white
 slaves of its dens of vice and their infernal drug, that have infused
@@ -2623,7 +2623,7 @@ him about the incidents of their acquaintance, how many times he had
 no shade of regret in their voices, nothing but utter indifference and
 surrender.</vice>
 
-<vice type="opium">One thing about them was conspicuous: their scrupulous neatness. It
+One thing about them was conspicuous: their scrupulous neatness. It
 is the distinguishing mark of Chinatown, outwardly and physically. It
 is not altogether by chance the Chinaman has chosen the laundry as
 his distinctive field. He is by nature as clean as the cat, which he
@@ -2632,7 +2632,7 @@ On this point of cleanliness he insists in his domestic circle,
 yielding in others with crafty submissiveness to the caprice of the
 girls, who "boss" him in a very independent manner, fretting vengefully
 under the yoke they loathe, but which they know right well they can
-never shake off, once they have put the pipe to their lips and given
+never shake off, <vice type="opium">once they have put the pipe to their lips and given
 Mott Street a mortgage upon their souls for all time. To the priest,
 whom they call in when the poison racks the body, they pretend that
 they are yet their own masters; but he knows that it is an idle boast,
@@ -2642,14 +2642,14 @@ told over and over again, of father, mother, home, and friends given
 up for the accursed pipe, and stands hopeless and helpless before the
 colossal evil for which he knows no remedy.</vice>
 
-<narrative>The frequent assertions of the authorities that at least no girls under
+The frequent assertions of the authorities that at least no girls under
 age are wrecked on this Chinese shoal, are disproved by the observation
 of those who go frequently among these dens, though the smallest girl
 will invariably, and usually without being asked, insist that she is
 sixteen, and so of age to choose the company she keeps. Such assertions
 are not to be taken seriously. Even while I am writing, the morning
-returns from one of the precincts that pass through my hands report the
-arrest of a Chinaman for "inveigling little girls into his laundry,"
+returns from one of the precincts that pass through my hands <crime type="kidnapping">report the
+arrest of a Chinaman for "inveigling little girls into his laundry,"</crime>
 one of the hundred outposts of Chinatown that are scattered all over
 the city, as the outer threads of the spider's web that holds its prey
 fast. Reference to case No. 39,499 in this year's report of the Society
@@ -2660,14 +2660,14 @@ had been discharged from an Eighth Avenue store, where she was employed
 as cash girl, and, being afraid to tell her mother, floated about until
 she landed in a Chinese laundry. The judge heeded her tearful prayer,
 and sent her home with her mother, but she was back again in a little
-while despite all promises of reform.</narrative>
+while despite all promises of reform.
 
-  <illustraion name="IN A CHINESE JOINT">[Illustration: IN A CHINESE JOINT.]</illustraion>
+  <illustration name="IN A CHINESE JOINT">[Illustration: IN A CHINESE JOINT.]</illustration>
 
-<narrative>Her tyrant knows well that she will come, and patiently bides his time.
+Her tyrant knows well that she will come, and patiently bides his time.
 When her struggles in the web have ceased at last, he rules no longer
 with gloved hand. A specimen of celestial logic from the home circle at
-this period came home to me with a personal application, one evening
+this period came home to me with a personal application, <crime type="domestic violence">one evening
 when I attempted, with a policeman, to stop a Chinaman whom we found
 beating his white "wife" with a broom-handle in a Mott Street cellar.
 He was angry at our interference, and declared vehemently that she was
@@ -2679,9 +2679,9 @@ assurance that I did not, that such a thing could not occur to me,
 struck him dumb with amazement. He eyed me a while in stupid silence,
 poked the linen in his tub, stole another look, and made up his mind. A
 gleam of intelligence shone in his eye, and pity and contempt struggled
-in his voice. "Then, I guess, she lickee you," he said.</narrative>
+in his voice. "Then, I guess, she lickee you," he said.</crime>
 
-<narrative>No small commotion was caused in Chinatown once upon the occasion of an
+No small commotion was caused in Chinatown once upon the occasion of an
 expedition I undertook, accompanied by a couple of police detectives,
 to photograph Joss. Some conscienceless wag spread the report, after
 we were gone, that his picture was wanted for the Rogues' Gallery
@@ -2702,7 +2702,7 @@ copied bodily from the trade dollar, was the sentiment: "In God we
 trust." The priest pointed to it with undisguised pride and attempted
 an explanation, from which I gathered that the inscription was intended
 as a diplomatic courtesy, a delicate international compliment to the
-"Melican Joss," the almighty dollar.</narrative>
+"Melican Joss," the almighty dollar.
 
   <illustration name="THE OFFICIAL ORGAN OF CHINATOWN.">[Illustration: "THE OFFICIAL ORGAN OF CHINATOWN."]</illustration>
 
@@ -2784,10 +2784,10 @@ but death--moral, mental, and physical death.</immigrants></chapter>
 
                                <chapnum number="10">CHAPTER X.</chapnum>
 
-                                <chapterTitle>JEWTOWN.</chapterTitle>
+                                <chaptitle name="JEWTOWN">JEWTOWN.</chaptitle>
 
 
-<chapter subject= "ethnicity"><narrative>The tenements grow taller, and the gaps in their ranks close up rapidly
+<chapter><conditions type="local">The tenements grow taller, and the gaps in their ranks close up rapidly
 as we cross the Bowery and, leaving Chinatown and the Italians behind,
 invade the Hebrew quarter. Baxter Street, with its interminable rows
 of old clothes shops and its brigades of pullers-in--nicknamed "the
@@ -2807,7 +2807,7 @@ come around every year, the public schools in the district have
 practically to close up. Of their thousands of pupils scarce a handful
 come to school. Nor is there any suspicion that the rest are playing
 hookey. They stay honestly home to celebrate. There is no mistaking
-it: we are in Jewtown.</narrative>
+it: we are in Jewtown.</conditions>
 
 <conditions type="living">It is said that nowhere in the world are so many people crowded
 together on a square mile as here. The average five-story tenement adds
@@ -2815,9 +2815,9 @@ a story or two to its stature in Ludlow Street and an extra building
 on the rear lot, and yet the sign "To Let" is the rarest of all there.
 Here is one seven stories high. The sanitary policeman whose beat
 this is will tell you that it contains thirty-six families, but the
-term has a widely different meaning here and on the avenues. In this
+term has a widely different meaning here and on the avenues.</conditions> <disease type="smallpox">In this
 house, where a case of small-pox was reported, there were fifty-eight
-babies and thirty-eight children that were over five years of age. In
+babies and thirty-eight children that were over five years of age.</disease><conditions type="living"> In
 Essex Street two small rooms in a six-story tenement were made to hold
 a "family" of father and mother, twelve children, and six boarders.
 The boarder plays as important a part in the domestic economy of
@@ -2828,7 +2828,7 @@ densest crowding of Old London, I pointed out before, never got beyond
 a hundred and seventy-five thousand. Even the alley is crowded out.
 Through dark hallways and filthy cellars, crowded, as is every foot
 of the street, with dirty children, the settlements in the rear are
-reached. Thieves know how to find them when pursued by the police,
+reached.</conditions><crime type="theft"> Thieves know how to find them when pursued by the police,</crime>
 and the tramps that sneak in on chilly nights to fight for the warm
 spot in the yard over some baker's oven. They are out of place in this
 hive of busy industry, and they know it. It has nothing in common with
@@ -2846,11 +2846,11 @@ on the stone pavement at intervals, and thus warming one side at a
 time, and with an empty box to put the feet in, it is possible to keep
 reasonably comfortable there even on a rainy night. In summer the yard
 is the only one in the neighborhood that does not do duty as a public
-dormitory.</conditions>
+dormitory.
 
   <illustration name="A TRAMP'S NEST IN LUDLOW STREET.">[Illustration: A TRAMP'S NEST IN LUDLOW STREET.]</illustration>
 
-<narrative>Thrift is the watchword of Jewtown, as of its people the world over. It
+Thrift is the watchword of Jewtown, as of its people the world over. It
 is at once its strength and its fatal weakness, its cardinal virtue and
 its foul disgrace. Become an over-mastering passion with these people
 who come here in droves from Eastern Europe to escape persecution,
@@ -2879,13 +2879,13 @@ those who have had too much of it; who have worked and hoarded and
 lived, crowded together like pigs, on the scantiest fare and the worst
 to be got, bound to save whatever their earnings, until, worn out, they
 could work no longer. Then their hoards were soon exhausted. That is
-their story." And I knew that what he said was true.</narrative>
+their story." And I knew that what he said was true.
 
 Penury and poverty are wedded everywhere to dirt and disease, and
 Jewtown is no exception. It could not well be otherwise in such crowds,
 considering especially their low intellectual status. The managers of
 the Eastern Dispensary, which is in the very heart of their district,
-told the whole story when they said: "The diseases these people suffer
+told the whole story when they said: <conditions type="living">"The diseases these people suffer
 from are not due to intemperance or immorality, but to ignorance, want
 of suitable food, and the foul air in which they live and work."[12]
 The homes of the Hebrew quarter are its workshops also. Reference
@@ -2898,7 +2898,7 @@ till mind and muscle give out together. Every member of the family,
 from the youngest to the oldest, bears a hand, shut in the qualmy
 rooms, where meals are cooked and clothing washed and dried besides,
 the live-long day. It is not unusual to find a dozen persons--men,
-women, and children--at work in a single small room. The fact accounts
+women, and children--at work in a single small room.</conditions> The fact accounts
 for the contrast that strikes with wonder the observer who comes across
 from the Bend. Over there the entire population seems possessed of
 an uncontrollable impulse to get out into the street; here all its
@@ -2908,33 +2908,33 @@ to make a crowd anywhere. The children alone would do it. Not old
 enough to work and no room for play, that is their story. In the home
 the child's place is usurped by the lodger, who performs the service
 of the Irishman's pig--pays the rent. In the street the army of
-hucksters crowd him out. <disease type="tuphus fever" type="small pox">Typhus fever and small-pox are bred here, and
+hucksters crowd him out. <disease type="typhus_fever small-pox">Typhus fever and small-pox are bred here, and
 help solve the question what to do with him. Filth diseases both, they
 sprout naturally among the hordes that bring the germs with them from
 across the sea, and whose first instinct is to hide their sick lest the
 authorities carry them off to the hospital to be slaughtered, as they
-firmly believe. The health officers are on constant and sharp lookout
+firmly believe.</disease> The health officers are on constant and sharp lookout
 for hidden fever-nests. Considering that half of the ready-made clothes
 that are sold in the big stores, if not a good deal more than half, are
-made in these tenement rooms, this is not excessive caution. It has
+made in these tenement rooms, this is not excessive caution. <disease type="small-pox">It has
 happened more than once that a child recovering from small-pox, and in
 the most contagious stage of the disease, has been found crawling among
 heaps of half-finished clothing that the next day would be offered for
-sale on the counter of a Broadway store; or that a typhus fever patient
+sale on the counter of a Broadway store</disease>; <disease type="typhus_fever">or that a typhus fever patient
 has been discovered in a room whence perhaps a hundred coats had been
 sent home that week, each one with the wearer's death-warrant, unseen
 and unsuspected, basted in the lining.</disease>
 
 <footnote number="12">[Footnote 12: Report of Eastern Dispensary for 1889.]</footnote>
 
-<narrative>The health officers call the Tenth the typhus ward; in the office where
+<disease type="typhus_fever">The health officers call the Tenth the typhus ward; in the office where
 deaths are registered it passes as the "suicide ward," for reasons
-not hard to understand; and among the police as the "crooked ward,"
+not hard to understand</disease>; <crime type="theft">and among the police as the "crooked ward,"
 on account of the number of "crooks," petty thieves and their allies,
 the "fences," receivers of stolen goods, who find the dense crowds
 congenial. The nearness of the Bowery, the great "thieves' highway,"
 helps to keep up the supply of these, but Jewtown does not support
-its dives. Its troubles with the police are the characteristic crop
+its dives.</crime> Its troubles with the police are the characteristic crop
 of its intense business rivalries. Oppression, persecution, have not
 shorn the Jew of his native combativeness one whit. He is as ready
 to fight for his rights, or what he considers his rights, in a
@@ -2951,9 +2951,9 @@ a story to tell as his accuser, and as hot a charge to make. The day
 closes on a wild conflict of rival interests. Another dawns with the
 prisoner in court, but no complainant. Over night the case has been
 settled on a business basis, and the police dismiss their prisoner in
-deep disgust.</narrative>
+deep disgust.
 
-<narrative>These quarrels have sometimes a comic aspect. Thus, with the numerous
+These quarrels have sometimes a comic aspect. Thus, with the numerous
 dancing-schools that are scattered among the synagogues, often keeping
 them company in the same tenement. They are generally kept by some
 man who works in the daytime at tailoring, cigarmaking, or something
@@ -2964,11 +2964,11 @@ preferences, and it happens that a school adjourns in a body to make
 a general raid on the rival establishment across the street, without
 the ceremony of paying the admission fee. Then the dance breaks up in
 a general fight, in which, likely enough, someone is badly hurt. The
-police come in, as usual, and ring down the curtain.</narrative>
+police come in, as usual, and ring down the curtain.
 
   <illustration name="A MARKET SCENE IN THE JEWISH QUARTER.">[Illustration: A MARKET SCENE IN THE JEWISH QUARTER.]</illustration>
 
-<narrative>Bitter as are his private feuds, it is not until his religious life
+Bitter as are his private feuds, it is not until his religious life
 is invaded that a real inside view is obtained of this Jew, whom the
 history of Christian civilization has taught nothing but fear and
 hatred. There are two or three missions in the district conducting a
@@ -2991,17 +2991,17 @@ a Jewish house of mourning is like bridging the gap of two thousand
 years. The inexpressibly sad and sorrowful wail for the dead, as it
 swells and rises in the hush of all sounds of life, comes back from
 the ages like a mournful echo of the voice of Rachel "weeping for her
-children and refusing to be comforted, because they are not."</narrative>
+children and refusing to be comforted, because they are not."
 
-<narrative>Attached to many of the synagogues, which among the poorest Jews
+Attached to many of the synagogues, which among the poorest Jews
 frequently consist of a scantily furnished room in a rear tenement,
 with a few wooden stools or benches for the congregation, are Talmudic
 schools that absorb a share of the growing youth. The school-master
 is not rarely a man of some attainments who has been stranded there,
 his native instinct for money-making having been smothered in the
-process that has made of him a learned man. It was of such a school
+process that has made of him a learned man. <crime type="murder">It was of such a school
 in Eldridge Street that the wicked Isaac Iacob, who killed his enemy,
-his wife, and himself in one day, was janitor. But the majority of the
+his wife, and himself in one day, was janitor.</crime> But the majority of the
 children seek the public schools, where they are received sometimes
 with some misgivings on the part of the teachers, who find it necessary
 to inculcate lessons of cleanliness in the worst cases by practical
@@ -3029,7 +3029,7 @@ the children of the most ignorant Polish Jew keep fairly abreast of
 their more favored playmates, until it comes to mental arithmetic, when
 they leave them behind with a bound. It is surprising to see how strong
 the instinct of dollars and cents is in them. They can count, and
-correctly, almost before they can talk.</narrative>
+correctly, almost before they can talk.
 
 <crime type="arson">Within a few years the police captured on the East Side a band of
 firebugs who made a business of setting fire to tenements for the
@@ -3042,7 +3042,7 @@ stairs and fire-escapes, the frantic mothers and crying children, the
 wild struggle to save the little that is their all, is a horror that
 has few parallels in human experience.</crime>
 
-<narrative>I cannot think without a shudder of one such scene in a First Avenue
+<death cause="fire">I cannot think without a shudder of one such scene in a First Avenue
 tenement. It was in the middle of the night. The fire had swept up
 with sudden fury from a restaurant on the street floor, cutting off
 escape. Men and women threw themselves from the windows, or were
@@ -3054,7 +3054,7 @@ among the dead and dying with a stunned, vacant look, singing in a low,
 scared voice to the child. One of the doctors took her arm to lead her
 out, and patted the cheek of the baby soothingly. It was cold. The
 baby had been smothered with its father and mother; but the girl, her
-sister, did not know it. Her reason had fled.</narrative>
+sister, did not know it. Her reason had fled.</death>
 
 <work job="market">Thursday night and Friday morning are bargain days in the "Pig-market."
 Then is the time to study the ways of this peculiar people to the best
@@ -3123,7 +3123,7 @@ of cash. I cannot tell. I only know that more suspenders are hawked
 about the Pig-market every day than would supply the whole of New York
 for a year, were they all bought and turned to use.</work>
 
-<narrative>The crowds that jostle each other at the wagons and about the sidewalk
+The crowds that jostle each other at the wagons and about the sidewalk
 shops, where a gutter plank on two ash-barrels does duty for a counter!
 Pushing, struggling, babbling, and shouting in foreign tongues, a
 veritable Babel of confusion. An English word falls upon the ear
@@ -3141,17 +3141,17 @@ line of despoiled hucksters shouting defiance from a safe distance.
 Their clamor dies away with the noise of the market. The endless
 panorama of the tenements, rows upon rows, between stony streets,
 stretches to the north, to the south, and to the west as far as the eye
-reaches.</narrative></chapter>
+reaches.</chapter>
 
 
 
 
                               <chapnum number="11">CHAPTER XI.</chapnum>
 
-  <chapterTitle>THE SWEATERS OF JEWTOWN.</chapterTitle>
+  <chaptitle name="THE_SWEATERS_OF_JEWTOWN">THE SWEATERS OF JEWTOWN.</chaptitle>
 
 
-<chapter subject= "labor"><narrative>Anything like an exhaustive discussion of the economical problem
+<chapter>Anything like an exhaustive discussion of the economical problem
 presented by the Tenth Ward[13] is beset by difficulties that increase
 in precise proportion to the efforts put forth to remove them. I have
 too vivid a recollection of weary days and nights spent in those
@@ -3165,14 +3165,14 @@ it, I should be like the blind leading the blind; between the real and
 apparent poverty, the hidden hoards and the unhesitating mendacity of
 these people, where they conceive their interests to be concerned in
 one way or another, the reader and I would fall together into the ditch
-of doubt and conjecture in which I have found company before.</narrative>
+of doubt and conjecture in which I have found company before.
 
 <footnote number="13">[Footnote 13: I refer to the Tenth Ward always as typical. The district
 embraced in the discussion really includes the Thirteenth Ward, and in
 a growing sense large portions of the Seventh and contiguous wards as
 well.]</footnote>
 
-<narrative>The facts that lie on the surface indicate the causes as clearly as
+The facts that lie on the surface indicate the causes as clearly as
 the nature of the trouble. In effect both have been already stated. A
 friend of mine who manufactures cloth once boasted to me that nowadays,
 on cheap clothing, New York "beats the world." "To what," I asked, "do
@@ -3189,7 +3189,7 @@ is not what he can get, but the lowest he can live for and underbid his
 neighbor. Just what that means we shall see. The manufacturer knows it,
 and is not slow to take advantage of his knowledge. He makes him hungry
 for work by keeping it from him as long as possible; then drives the
-closest bargain he can with the sweater.</narrative>
+closest bargain he can with the sweater.
 
 <footnote number="14">[Footnote 14: An invention that cuts many garments at once, where the
 scissors could cut only a few.]</footnote>
@@ -3220,7 +3220,7 @@ first opportunity turns sweater himself, and takes his revenge by
 driving an even closer bargain than his rival tyrant, thus reducing his
 profits.</work>
 
-<narrative>The sweater knows well that the isolation of the workman in his
+The sweater knows well that the isolation of the workman in his
 helpless ignorance is his sure foundation, and he has done what he
 could--with merciless severity where he could--to smother every symptom
 of awakening intelligence in his slaves. In this effort to perpetuate
@@ -3241,7 +3241,7 @@ confound economical problems, and recruit the sweater's phalanx. The
 curse of bigotry and ignorance reaches halfway across the world, to sow
 its bitter seed in fertile soil in the East Side tenements. If the Jew
 himself was to blame for the resentment he aroused over there, he is
-amply punished. He gathers the first-fruits of the harvest here.</narrative>
+amply punished. He gathers the first-fruits of the harvest here.
 
 <conditions type="work">The bulk of the sweater's work is done in the tenements, which the
 law that regulates factory labor does not reach. To the factories
@@ -3267,13 +3267,13 @@ tongue, though the people be both willing and anxious to learn. "When
 shall we find time to learn?" asked one of them of me once. I owe him
 the answer yet.</conditions>
 
-<narrative>Take the Second Avenue Elevated Railroad at Chatham Square and ride up
-half a mile through the sweaters' district. Every open window of the
+Take the Second Avenue Elevated Railroad at Chatham Square and ride up
+half a mile through the sweaters' district. <conditions type="work">Every open window of the
 big tenements, that stand like a continuous brick wall on both sides of
 the way, gives you a glimpse of one of these shops as the train speeds
 by. Men and women bending over their machines, or ironing clothes at
 the window, half-naked. Proprieties do not count on the East Side;
-nothing counts that cannot be converted into hard cash. The road is
+nothing counts that cannot be converted into hard cash.</conditions> The road is
 like a big gangway through an endless work-room where vast multitudes
 are forever laboring. Morning, noon, or night, it makes no difference;
 the scene is always the same. At Rivington Street let us get off and
@@ -3289,7 +3289,7 @@ burdens of unsewn garments, or enormous black bags stuffed full of
 finished coats and trousers. Let us follow one to his home and see how
 Sunday passes in a Ludlow Street tenement.
 
-Up two flights of dark stairs, three, four, with new smells of cabbage,
+<conditions type="work">Up two flights of dark stairs, three, four, with new smells of cabbage,
 of onions, of frying fish, on every landing, whirring sewing machines
 behind closed doors betraying what goes on within, to the door that
 opens to admit the bundle and the man. A sweater, this, in a small way.
@@ -3305,9 +3305,9 @@ on which they are working. The boy and the woman alone look up at our
 entrance. The girls shoot sidelong glances, but at a warning look from
 the man with the bundle they tread their machines more energetically
 than ever. The men do not appear to be aware even of the presence of a
-stranger.
+stranger.</conditions>
 
-They are "learners," all of them, says the woman, who proves to be the
+<conditions type="work">They are "learners," all of them, says the woman, who proves to be the
 wife of the boss, and have "come over" only a few weeks ago. She is
 disinclined to talk at first, but a few words in her own tongue from
 our guide[15] set her fears, whatever they are, at rest, and she grows
@@ -3337,7 +3337,7 @@ a month, and in a few years will own a tenement somewhere and profit
 by the example set by their landlord in rent-collecting. It is the way
 the savings of Jewtown are universally invested, and with the natural
 talent of its people for commercial speculation the investment is
-enormously profitable.</narrative>
+enormously profitable.</conditions>
 
 <footnote number="15">[Footnote 15: I was always accompanied on these tours of inquiry by
 one of their own people who knew of and sympathized with my mission.
@@ -3460,7 +3460,7 @@ up the _dot_ for his daughter, without which she stands no chance of
 marrying in Jewtown, even with her face that would be pretty had it a
 healthier tinge.</conditions>
 
-<narrative>Up under the roof three men are making boys' jackets at twenty cents a
+<conditions type="living">Up under the roof three men are making boys' jackets at twenty cents a
 piece, of which the sewer takes eight, the ironer three, the finisher
 five cents, and the button-hole-maker two and a quarter, leaving a
 cent and three-quarters to pay for the drumming up, the fetching and
@@ -3489,7 +3489,7 @@ as he says himself, for twenty-five cents a day, including the price of
 his bed, that ranges all the way from thirty to forty and fifty cents a
 week, and save money, no matter what his earnings. He does it, too, so
 long as work is to be had at any price, and by the standard he sets up
-Jewtown must abide.</narrative>
+Jewtown must abide.</conditions>
 
 <conditions type="living">It has thousands upon thousands of lodgers who help to pay its
 extortionate rents. At night there is scarce a room in all the district
@@ -3504,7 +3504,7 @@ the direst apparent poverty in Jewtown, unless dependent on absolute
 lack of work, would, were the truth known, in nine cases out of ten
 have a silver lining in the shape of a margin in bank.</conditions>
 
-<narrative>These are the economical conditions that enable my manufacturing friend
+These are the economical conditions that enable my manufacturing friend
 to boast that New York can "beat the world" on cheap clothing. In
 support of his claim he told me that a single Bowery firm last year
 sold fifteen thousand suits at $1.95 that averaged in cost $1.12½.
@@ -3536,9 +3536,9 @@ Its keynote evidently is the ignorance of the immigrants. They must
 be taught the language of the country they have chosen as their home,
 as the first and most necessary step. Whatever may follow, that is
 essential, absolutely vital. That done, it may well be that the case in
-its new aspect will not be nearly so hard to deal with.</narrative>
+its new aspect will not be nearly so hard to deal with.
 
-<narrative>Evening has worn into night as we take up our homeward journey through
+<conditions type="local">Evening has worn into night as we take up our homeward journey through
 the streets, now no longer silent. The thousands of lighted windows in
 the tenements glow like dull red eyes in a huge stone wall. From every
 door multitudes of tired men and women pour forth for a half-hour's
@@ -3549,14 +3549,14 @@ of a tenement to watch one of these groups, a dirty baby in a single
 brief garment--yet a sweet, human little baby despite its dirt and
 tatters--tumbles off the lowest step, rolls over once, clutches my leg
 with unconscious grip, and goes to sleep on the flagstones, its curly
-head pillowed on my boot.</narrative>
+head pillowed on my boot.</conditions></chapter>
 
   <chapnum number="12">CHAPTER XII.</chapnum>
 
-               THE BOHEMIANS--TENEMENT-HOUSE CIGARMAKING.
+               <chaptitle name="THE_BOHEMIANS--TENEMENT-HOUSE_CIGARMAKING">THE BOHEMIANS--TENEMENT-HOUSE CIGARMAKING.</chaptitle>
 
 
-Evil as the part is which the tenement plays in Jewtown as the pretext
+<chapter>Evil as the part is which the tenement plays in Jewtown as the pretext
 for circumventing the law that was made to benefit and relieve the
 tenant, we have not far to go to find it in even a worse rôle. If
 the tenement is here continually dragged into the eye of public
@@ -3572,10 +3572,10 @@ of his own making. It does not help the case that this landlord
 employer, almost always a Jew, is frequently of the thrifty Polish race
 just described.
 
-Perhaps the Bohemian quarter is hardly the proper name to give to the
+<immigrants nationality="czech">Perhaps the Bohemian quarter</immigrants> is hardly the proper name to give to the
 colony, for though it has distinct boundaries it is scattered over a
 wide area on the East Side, in wedge-like streaks that relieve the
-monotony of the solid German population by their strong contrasts.
+monotony of the solid <immigrants nationality="german">German</immigrants> population by their strong contrasts.
 The two races mingle no more on this side of the Atlantic than on the
 rugged slopes of the Bohemian mountains; the echoes of the thirty
 years' war ring in New York, after two centuries and a half, with
@@ -3589,9 +3589,9 @@ a disturber of the public peace and an enemy of organized labor. I
 greatly mistrust that the Bohemian on our shores is a much-abused man.
 To his traducer, who casts up anarchism against him, he replies that
 the last census (1880) shows his people to have the fewest criminals of
-all in proportion to numbers. In New York a Bohemian criminal is such a
+all in proportion to numbers. <crime type="arson">In New York a Bohemian criminal is such a
 rarity that the case of two firebugs of several years ago is remembered
-with damaging distinctness. The accusation that he lives like the "rat"
+with damaging distinctness.</crime> The accusation that he lives like the "rat"
 he is, cutting down wages by his underpaid labor, he throws back in the
 teeth of the trades unions with the counter-charge that they are the
 first cause of his attitude to the labor question.
@@ -3603,8 +3603,8 @@ reached. Fifty-fourth and Seventy-third Streets in their turn are the
 centres of populous Bohemian settlements. The location of the cigar
 factories, upon which he depends for a living, determines his choice
 of home, though there is less choice about it than with any other
-class in the community, save perhaps the colored people. Probably more
-than half of all the Bohemians in this city are cigarmakers, and it
+class in the community, save perhaps the colored people. <work job="cigarmaker">Probably more
+than half of all the Bohemians in this city are cigarmakers</work>, <conditions type="work">and it
 is the herding of these in great numbers in the so-called tenement
 factories, where the cheapest grade of work is done at the lowest
 wages, that constitutes at once their greatest hardship and the chief
@@ -3619,13 +3619,13 @@ is given the alternative of submission, or eviction with entire loss
 of employment. His needs determine the issue. Usually he is not in a
 position to hesitate long. Unlike the Polish Jew, whose example of
 untiring industry he emulates, he has seldom much laid up against a
-rainy day. He is fond of a glass of beer, and likes to live as well as
+rainy day.</conditions> <conditions type="living">He is fond of a glass of beer, and likes to live as well as
 his means will permit. The shop triumphs, and fetters more galling than
 ever are forged for the tenant. In the opposite case, the newspapers
 have to record the throwing upon the street of a small army of people,
-with pitiful cases of destitution and family misery.
+with pitiful cases of destitution and family misery.</conditions>
 
-Men, women and children work together seven days in the week in these
+<conditions type="living">Men, women and children work together seven days in the week in these
 cheerless tenements to make a living for the family, from the break of
 day till far into the night. Often the wife is the original cigarmaker
 from the old home, the husband having adopted her trade here as a
@@ -3665,9 +3665,9 @@ sometimes quite noticeable in the Bohemian settlements, is, as has been
 suggested, dependent upon the character of the parents' work. The sore
 grievances I found were the miserable wages and the enormous rents
 exacted for the minimum of accommodation. And surely these stand for
-enough of suffering.
+enough of suffering.</conditions>
 
-Take a row of houses in East Tenth Street as an instance. They
+<conditions type="work">Take a row of houses in East Tenth Street as an instance. They
 contained thirty-five families of cigarmakers, with probably not half
 a dozen persons in the whole lot of them, outside of the children, who
 could speak a word of English, though many had been in the country half
@@ -3687,9 +3687,9 @@ While we are in the house, the ultimatum of the "boss" is received.
 He will give $3.75 a thousand, not another cent. Our host is a man of
 seeming intelligence, yet he has been nine years in New York and knows
 neither English nor German. Three bright little children play about the
-floor.
+floor.</conditions>
 
-His neighbor on the same floor has been here fifteen years, but shakes
+<conditions type="living">His neighbor on the same floor has been here fifteen years, but shakes
 his head when asked if he can speak English. He answers in a few broken
 syllables when addressed in German. With $11.75 rent to pay for like
 accommodation, he has the advantage of his oldest boy's work besides
@@ -3709,9 +3709,9 @@ father has not had that advantage, and has sat at his bench, deaf and
 dumb to the world about him except his own, for six years. He has
 improved his time and become an expert at his trade. Father, mother,
 and son together, a full team, make from fifteen to sixteen dollars a
-week.
+week.</conditions>
 
-A man with venerable beard and keen eyes answers our questions through
+<conditions type="living">A man with venerable beard and keen eyes answers our questions through
 an interpreter, in the next house. Very few brighter faces would be
 met in a day's walk among American mechanics, yet he has in nine years
 learned no syllable of English. German he probably does not want to
@@ -3734,11 +3734,11 @@ father work at his trade." Then what a home she could make for them,
 and how happy they would be. Here is an unattainable ideal, indeed, of
 a workman in the most prosperous city in the world! There is genuine,
 if unspoken, pathos in the soft tap she gives her husband's hand as she
-goes about her work with a half-suppressed little sigh.
+goes about her work with a half-suppressed little sigh.</conditions>
 
-  [Illustration: BOHEMIAN CIGARMAKERS AT WORK IN THEIR TENEMENT.]
+  <illustration name="BOHEMIAN CIGARMAKERS AT WORK IN THEIR TENEMENT.">[Illustration: BOHEMIAN CIGARMAKERS AT WORK IN THEIR TENEMENT.]</illustration>
 
-The very ash-barrels that stand in front of the big rows of tenements
+<conditions type="work">The very ash-barrels that stand in front of the big rows of tenements
 in Seventy-first and Seventy-third Streets advertise the business
 that is carried on within. They are filled to the brim with the stems
 of stripped tobacco leaves. The rank smell that waited for us on the
@@ -3769,14 +3769,14 @@ moist tobacco-leaves to be stripped. They are kept there, under cover
 lest they dry and crack, from Friday to Friday, when an accounting is
 made and fresh supplies given out. The people sleep there too, but the
 smell, offensive to the unfamiliar nose, does not bother them. They are
-used to it.
+used to it.</conditions>
 
-In a house around the corner that is not a factory-tenement, lives
+<conditions type="living">In a house around the corner that is not a factory-tenement, lives
 now the cigarmaker I spoke of as suffering from consumption which the
 doctor said was due to the tobacco-fumes. Perhaps the lack of healthy
 exercise had as much to do with it. His case is interesting from its
 own stand-point. He too is one with a--for a Bohemian--large family.
-Six children sit at his table. By trade a shoemaker, for thirteen
+Six children sit at his table.</conditions> <work job="shoemaker">By trade a shoemaker</work>,<conditions type="living"> for thirteen
 years he helped his wife make cigars in the manufacturer's tenement.
 She was a very good hand, and until his health gave out two years ago
 they were able to make from $17 to $25 a week, by lengthening the day
@@ -3803,7 +3803,7 @@ all have supper together--sausage and bread. For ten cents they can eat
 all they want. Can they not? she says, stroking the hair of the little
 boy at her knee; his eyes glisten hungrily at the thought, as he nods
 stoutly in support of his mother. Only, she adds, the week the rent is
-due, they have to shorten rations to pay the landlord.
+due, they have to shorten rations to pay the landlord.</conditions>
 
 But what of his being an Anarchist, this Bohemian--an infidel--I hear
 somebody say. Almost one might be persuaded by such facts as these--and
@@ -3849,12 +3849,12 @@ to buy a house and lot in the country."</chapter>
 
 
 
-                             CHAPTER XIII.
+                             <chapnum number="13">CHAPTER XIII.</chapnum>
 
-  <chapterTitle>THE COLOR LINE IN NEW YORK.</chapterTitle>
+  <chaptitle name="THE_COLOR_LINE_IN_NEW_YORK.">THE COLOR LINE IN NEW YORK.</chaptitle>
 
 
-<chapter subject= "race">The color line must be drawn through the tenements to give the picture
+<chapter>The color line must be drawn through the tenements to give the picture
 its proper shading. The landlord does the drawing, does it with an
 absence of pretence, a frankness of despotism, that is nothing if not
 brutal. The Czar of all the Russias is not more absolute upon his own
@@ -3924,7 +3924,7 @@ and Sullivan Streets. There is no more clean and orderly community in
 New York than the new settlement of colored people that is growing up
 on the East Side from Yorkville to Harlem.
 
-Cleanliness is the characteristic of the negro in his new surroundings,
+<conditions type="living">Cleanliness is the characteristic of the negro in his new surroundings,
 as it was his virtue in the old. In this respect he is immensely the
 superior of the lowest of the whites, the Italians and the Polish
 Jews, below whom he has been classed in the past in the tenant scale.
@@ -3941,7 +3941,7 @@ same house with colored tenants, or even in a house recently occupied
 by negroes, and that consequently its selling value is injured. The
 prejudice undoubtedly exists, but it is not lessened by the house
 agents, who have set up the maxim "once a colored house, always a
-colored house."
+colored house."</conditions>
 
 There is method in the maxim, as shown by an inquiry made last year by
 the _Real Estate Record_. It proved agents to be practically unanimous
@@ -4024,8 +4024,8 @@ the home of an old colored woman in Sixteenth Street, as the almoner
 of generous friends out of town who wished me to buy her a Christmas
 dinner. The old woman lived in a wretched shanty, occupying two mean,
 dilapidated rooms at the top of a sort of hen-ladder that went by the
-name of stairs. For these she paid ten dollars a month out of her
-hard-earned wages as a scrub-woman. I did not find her in and, being
+name of stairs. <work job="scrub-woman">For these she paid ten dollars a month out of her
+hard-earned wages as a scrub-woman.</work> I did not find her in and, being
 informed that she was "at the agent's," went around to hunt her up. The
 agent's wife appeared, to report that Ann was out. Being in a hurry
 it occurred to me that I might save time by making her employer the
@@ -4088,7 +4088,7 @@ distinctly improving. If his emotions are not very deeply rooted, they
 are at least sincere while they last, and until the tempter gets the
 upper hand again.
 
-Of all the temptations that beset him, the one that troubles him and
+<vice type="gambling">Of all the temptations that beset him, the one that troubles him and
 the police most is his passion for gambling. The game of policy is a
 kind of unlawful penny lottery specially adapted to his means, but
 patronized extensively by poor white players as well. It is the meanest
@@ -4106,7 +4106,7 @@ winner. An immense impetus is given then to the bogus business that has
 no existence outside of the cigar stores and candy shops where it hides
 from the law, save in some cunning Bowery "broker's" back office, where
 the slips are printed and the "winnings" apportioned daily with due
-regard to the backer's interests.
+regard to the backer's interests.</vice>
 
 It is a question whether "Africa" has been improved by the advent of
 the Italian, with the tramp from the Mulberry Street Bend in his train.
@@ -4132,7 +4132,7 @@ three-fourths of the business the police have with the colored people
 in New York arises in the black-and-tan district, now no longer fairly
 representative of their color.
 
-  [Illustration: A BLACK-AND-TAN DIVE IN "AFRICA."]
+  <illustration name="A BLACK-AND-TAN DIVE IN AFRICA.">[Illustration: A BLACK-AND-TAN DIVE IN "AFRICA."]</illustration>
 
 I have touched briefly upon such facts in the negro's life as may serve
 to throw light on the social condition of his people in New York. If,
@@ -4149,12 +4149,12 @@ fellow-citizens, had any right to expect.</chapter>
 
 
 
-                              CHAPTER XIV.
+                             <chapnum number="14"> CHAPTER XIV.</chapnum>
 
-  <chapterTitle>THE COMMON HERD.</chapterTitle>
+  <chaptitle name="THE_COMMON_HERD.">THE COMMON HERD.</chaptitle>
 
 
-<chapter subject= "housing">There is another line not always so readily drawn in the tenements,
+<chapter><conditions type="living">There is another line not always so readily drawn in the tenements,
 yet the real boundary line of the Other Half: the one that defines the
 "flat." The law does not draw it at all, accounting all flats tenements
 without distinction. The health officer draws it from observation,
@@ -4171,11 +4171,11 @@ unless there be a jailor in place of a janitor to guard it. Not that
 the janitor and the door-bell are infallible. There may be a tenement
 behind a closed door; but never a "flat" without it. The hall that is a
 highway for all the world by night and by day is the tenement's proper
-badge. The Other Half ever receives with open doors.
+badge. The Other Half ever receives with open doors.</conditions>
 
-  [Illustration: THE OPEN DOOR.]
+  <illustration name="THE OPEN DOOR">[Illustration: THE OPEN DOOR.]</illustration>
 
-With this introduction we shall not seek it long anywhere in the city.
+<conditions type="living">With this introduction we shall not seek it long anywhere in the city.
 Below Houston Street the door-bell in our age is as extinct as the
 dodo. East of Second Avenue, and west of Ninth Avenue as far up as
 the Park, it is practically an unknown institution. The nearer the
@@ -4202,7 +4202,7 @@ activity of its home gang. There are enough of these sore spots. We
 shall yet have occasion to look into the social conditions of some of
 them; were I to draw a picture of them here as they are, the subject,
 I fear, would outgrow alike the limits of this book and the reader's
-patience.
+patience.</conditions>
 
 It is true that they tell only one side of the story; that there is
 another to tell. A story of thousands of devoted lives, laboring
@@ -4221,10 +4221,10 @@ that inherent purity revolts instinctively from the naked brutality of
 vice as seen in the slums--but to be thankfully accepted as the one
 gleam of hope in an otherwise hopeless desert.
 
-  [Illustration: BIRD'S-EYE VIEW of AN EAST SIDE TENEMENT BLOCK.
-                 (FROM A DRAWING BY CHARLES F. WINGATE, ESQ.)]
+  <illustration name="BIRDS-EYE VIEW of AN EAST SIDE TENEMENT BLOCK.">[Illustration: BIRD'S-EYE VIEW of AN EAST SIDE TENEMENT BLOCK.
+                 (FROM A DRAWING BY CHARLES F. WINGATE, ESQ.)]</illustration>
 
-But the relief is not great. In the dull content of life bred on
+<conditions type="living">But the relief is not great. In the dull content of life bred on
 the tenement-house dead level there is little to redeem it, or to
 calm apprehension for a society that has nothing better to offer its
 toilers; while the patient efforts of the lives finally attuned to
@@ -4269,7 +4269,7 @@ the air-shaft that seems always so busy letting out foul stenches from
 below that it has no time to earn its name by bringing down fresh air,
 the squeaking pumps that hold no water, and the rent that is never
 less than one week's wages out of the four, quite as often half of the
-family earnings.
+family earnings.</conditions>
 
 Why complete the sketch? It is drearily familiar already. Such as it
 is, it is the frame in which are set days, weeks, months, and years of
@@ -4287,7 +4287,7 @@ gathering to itself all the cheer of the block, beckons the boys. In
 many such blocks the census-taker found two thousand men, women, and
 children, and over, who called them home.
 
-The picture is faithful enough to stand for its class wherever along
+<conditions type="living">The picture is faithful enough to stand for its class wherever along
 both rivers the Irish brogue is heard. As already said, the Celt
 falls most readily victim to tenement influences since shanty-town
 and its original free-soilers have become things of the past. If he
@@ -4311,11 +4311,11 @@ all to the Bread and Blood riots of which it used to be the scene, and
 transformed a nest of dangerous agitators into a harmless, beer-craving
 band of Anarchists. They have scarcely been heard of since. Opponents
 of the small parks system as a means of relieving the congested
-population of tenement districts, please take note.
+population of tenement districts, please take note.</conditions>
 
-With the first hot nights in June police despatches, that record the
+<death cause="falling">With the first hot nights in June police despatches, that record the
 killing of men and women by rolling off roofs and window-sills while
-asleep, announce that the time of greatest suffering among the poor
+asleep,</death> <conditions type="living">announce that the time of greatest suffering among the poor
 is at hand. It is in hot weather, when life indoors is well-nigh
 unbearable with cooking, sleeping, and working, all crowded into the
 small rooms together, that the tenement expands, reckless of all
@@ -4329,12 +4329,12 @@ in restless, sweltering rows, panting for air and sleep. Then every
 truck in the street, every crowded fire-escape, becomes a bedroom,
 infinitely preferable to any the house affords. A cooling shower on
 such a night is hailed as a heaven-sent blessing in a hundred thousand
-homes.
+homes.</conditions>
 
-  [Illustration]
+  <illustration name="unlisted">[Illustration]</illustration>
 
-Life in the tenements in July and August spells death to an army of
-little ones whom the doctor's skill is powerless to save. When the
+<death cause="heat">Life in the tenements in July and August spells death to an army of
+little ones whom the doctor's skill is powerless to save.</death> <conditions type="living">When the
 white badge of mourning flutters from every second door, sleepless
 mothers walk the streets in the gray of the early dawn, trying to stir
 a cooling breeze to fan the brow of the sick baby. There is no sadder
@@ -4346,13 +4346,13 @@ care and nursing for the sick. Fresh-air excursions run daily out of
 New York on land and water; but despite all efforts the grave-diggers
 in Calvary work over-time, and little coffins are stacked mountains
 high on the deck of the Charity Commissioners' boat when it makes its
-semi-weekly trips to the city cemetery.
+semi-weekly trips to the city cemetery.</conditions>
 
 Under the most favorable circumstances, an epidemic, which the
 well-to-do can afford to make light of as a thing to be got over or
 avoided by reasonable care, is excessively fatal among the children of
 the poor, by reason of the practical impossibility of isolating the
-patient in a tenement. The measles, ordinarily a harmless disease,
+patient in a tenement. <disease type="measles">The measles, ordinarily a harmless disease,
 furnishes a familiar example. Tread it ever so lightly on the avenues,
 in the tenements it kills right and left. Such an epidemic ravaged
 three crowded blocks in Elizabeth Street on the heels of the grippe
@@ -4360,22 +4360,22 @@ last winter, and, when it had spent its fury, the death-maps in the
 Bureau of Vital Statistics looked as if a black hand had been laid
 across those blocks, over-shadowing in part the contiguous tenements
 in Mott Street, and with the thumb covering a particularly packed
-settlement of half a dozen houses in Mulberry Street. The track of the
+settlement of half a dozen houses in Mulberry Street.</disease> The track of the
 epidemic through these teeming barracks was as clearly defined as the
 track of a tornado through a forest district. There were houses in
-which as many as eight little children had died in five months. The
+which as many as eight little children had died in five months. <disease type="grippe measles">The
 records showed that respiratory diseases, the common heritage of the
 grippe and the measles, had caused death in most cases, discovering the
 trouble to be, next to the inability to check the contagion in those
 crowds, in the poverty of the parents and the wretched home conditions
-that made proper care of the sick impossible. The fact was emphasized
+that made proper care of the sick impossible.</disease> <disease type="diptheria scarlet_fever">The fact was emphasized
 by the occurrence here and there of a few isolated deaths from
 diphtheria and scarlet fever. In the case of these diseases, considered
 more dangerous to the public health, the health officers exercised
 summary powers of removal to the hospital where proper treatment could
-be had, and the result was a low death-rate.
+be had, and the result was a low death-rate.</disease>
 
-These were tenements of the tall, modern type. A little more than a
+<conditions type="living">These were tenements of the tall, modern type. A little more than a
 year ago, when a census was made of the tenements and compared with the
 mortality tables, no little surprise and congratulation was caused by
 the discovery that as the buildings grew taller the death-rate fell.
@@ -4385,16 +4385,16 @@ sanitary reform rule, and have been brought, in all but the crowding,
 under its laws. The old houses that from private dwellings were made
 into tenements, or were run up to house the biggest crowds in defiance
 of every moral and physical law, can be improved by no device short of
-demolition. They will ever remain the worst.
+demolition. They will ever remain the worst.</conditions>
 
 That ignorance plays its part, as well as poverty and bad hygienic
 surroundings, in the sacrifice of life is of course inevitable. They
 go usually hand in hand. A message came one day last spring summoning
 me to a Mott Street tenement in which lay a child dying from some
 unknown disease. With the "charity doctor" I found the patient on the
-top floor, stretched upon two chairs in a dreadfully stifling room. She
+top floor, stretched upon two chairs in a dreadfully stifling room. <disease type="peritonitis">She
 was gasping in the agony of peritonitis that had already written its
-death-sentence on her wan and pinched face. The whole family, father,
+death-sentence on her wan and pinched face.</disease> <conditions type="living">The whole family, father,
 mother, and four ragged children, sat around looking on with the stony
 resignation of helpless despair that had long since given up the fight
 against fate as useless. A glance around the wretched room left no
@@ -4414,13 +4414,13 @@ them feeding the dying child with ginger ale, bought for two cents a
 bottle at the pedlar's cart down the street. A pitying neighbor had
 proposed it as the one thing she could think of as likely to make the
 child forget its misery. There was enough in the bottle to go round to
-the rest of the family. In fact, the wake had already begun; before
-night it was under way in dead earnest.
+the rest of the family.</conditions> <death cause="malnutrition"> In fact, the wake had already begun; before
+night it was under way in dead earnest.</death>
 
-  [Illustration: IN POVERTY GAP, WEST TWENTY-EIGHTH ST. AN ENGLISH
-                 COAL-HEAVER'S HOME.[17]]
+  <illustration name="IN POVERTY GAP, WEST TWENTY-EIGHTH ST.">[Illustration: IN POVERTY GAP, WEST TWENTY-EIGHTH ST. AN ENGLISH
+                 COAL-HEAVER'S HOME.[17]]</illustration>
 
-[Footnote 17: Suspicions of murder, in the case of a woman who was
+<footnote number="17">[Footnote 17: Suspicions of murder, in the case of a woman who was
 found dead, covered with bruises, after a day's running fight with her
 husband, in which the beer jug had been the bone of contention, brought
 me to this house, a ramshackle tenement on the tail-end of a lot over
@@ -4441,19 +4441,19 @@ pleasant-faced woman, was cheerful, even light-hearted. Her smile
 seemed the most sadly hopeless of all in the utter wretchedness of
 the place, cheery though it was meant to be and really was. It seemed
 doomed to certain disappointment--the one thing there that was yet to
-know a greater depth of misery.]
+know a greater depth of misery.]</footnote>
 
-Every once in a while a case of downright starvation gets into the
-newspapers and makes a sensation. But this is the exception. Were the
+<death cause="starvation">Every once in a while a case of downright starvation gets into the
+newspapers and makes a sensation.</death> But this is the exception. Were the
 whole truth known, it would come home to the community with a shock
 that would rouse it to a more serious effort than the spasmodic undoing
 of its purse-strings. I am satisfied from my own observation that
 hundreds of men, women, and children are every day slowly starving to
 death in the tenements with my medical friend's complaint of "improper
 nourishment." Within a single week I have had this year three cases
-of insanity, provoked directly by poverty and want. One was that of
+of insanity, provoked directly by poverty and want. <death cause="murder">One was that of
 a mother who in the middle of the night got up to murder her child,
-who was crying for food; another was the case of an Elizabeth Street
+who was crying for food</death>; another was the case of an Elizabeth Street
 truck-driver whom the newspapers never heard of. With a family to
 provide for, he had been unable to work for many months. There was
 neither food, nor a scrap of anything upon which money could be raised,
@@ -4471,10 +4471,10 @@ at last the man got an odd job that would just buy the children bread,
 the week's wages only served to measure the depth of their misery. "It
 came in so on the tail-end of everything," said his wife in telling
 the story, with unconscious eloquence. The outlook worried him through
-sleepless nights until it destroyed his reason. In his madness he had
+sleepless nights until it destroyed his reason. <crime type="attempted_murder">In his madness he had
 only one conscious thought: that the town should not take the children.
 "Better that I take care of them myself," he repeated to himself as he
-ground the axe to an edge. Help came in abundance from many almost
+ground the axe to an edge.</crime> Help came in abundance from many almost
 as poor as they when the desperate straits of the family became known
 through his arrest. The readiness of the poor to share what little they
 have with those who have even less is one of the few moral virtues of
@@ -4486,7 +4486,7 @@ sentimental tear from the eye of romantic philanthropy. The hard fact
 is that the instinct of self-preservation impels them to make common
 cause against the common misery.
 
-No doubt intemperance bears a large share of the blame for it; judging
+<vice type="alcohol">No doubt intemperance bears a large share of the blame for it; judging
 from the stand-point of the policeman perhaps the greater share. Two
 such entries as I read in the police returns on successive days last
 March, of mothers in West Side tenements, who, in their drunken sleep,
@@ -4505,7 +4505,7 @@ poor. But to my mind there is a closer connection between the wages
 of the tenements and the vices and improvidence of those who dwell
 in them than, with the guilt of the tenement upon our heads, we are
 willing to admit even to ourselves. Weak tea with a dry crust is not
-a diet to nurse moral strength. Yet how much better might the fare be
+a diet to nurse moral strength.</vice> <conditions type="living">Yet how much better might the fare be
 expected to be in the family of this "widow with seven children, very
 energetic and prudent"--I quote again from the report of the Society
 for the Improvement of the Condition of the Poor--whose "eldest girl
@@ -4514,9 +4514,9 @@ boy had a place as 'cash' in a store. There were two other little boys
 who sold papers and sometimes earned one dollar. The mother finishes
 pantaloons and can do three pairs in a day, thus earning thirty-nine
 cents. Here is a family of eight persons with rent to pay and an income
-of less than six dollars a week."
+of less than six dollars a week."</conditions>
 
-And yet she was better off in point of pay than this Sixth Street
+<conditions type="living">And yet she was better off in point of pay than this Sixth Street
 mother, who "had just brought home four pairs of pants to finish, at
 seven cents a pair. She was required to put the canvas in the bottom,
 basting and sewing three times around; to put the linings in the
@@ -4534,7 +4534,7 @@ dollars and seventy cents per week." Than the Harlem woman, who was
 taking in washing at thirty-five cents for the lot of fourteen large
 pieces, finding coal, soap, starch, and bluing herself, rather than
 depend on charity in any form." Specimen wages of the tenements these,
-seemingly inconsistent with the charge of improvidence.
+seemingly inconsistent with the charge of improvidence.</conditions>
 
 But the connection on second thought is not obscure. There is nothing
 in the prospect of a sharp, unceasing battle for the bare necessaries
@@ -4599,9 +4599,9 @@ are sad cases, just as there are "rounders" who prefer to be moved at
 the landlord's expense and save the rent, but the former at least are
 unusual enough to attract more than their share of attention.
 
-  [Illustration: DISPOSSESSED.]
+  <illustration name="DISPOSSESSED">[Illustration: DISPOSSESSED.]</illustration>
 
-If his very poverty compels the tenant to live at a rate if not in a
+<conditions type="living">If his very poverty compels the tenant to live at a rate if not in a
 style that would beggar a Vanderbilt, paying four prices for everything
 he needs, from his rent and coal down to the smallest item in his
 housekeeping account, fashion, no less inexorable in the tenements
@@ -4625,7 +4625,7 @@ the one buried with such pomp, but with little or no apparent result.
 Rather, the undertaker's business prospers more than ever in the
 tenements since the genius of politics has seen its way clear to make
 capital out of the dead voter as well as of the living, by making him
-the means of a useful "show of strength" and count of noses.
+the means of a useful "show of strength" and count of noses.</conditions>
 
 One free excursion awaits young and old whom bitter poverty has denied
 the poor privilege of the choice of the home in death they were denied
@@ -4643,17 +4643,17 @@ or why it happens, or that it is more than a mere coincidence. But
 there it is. Year by year the balance is struck--a few more, a few
 less--substantially the same when the record is closed.</chapter>
 
-  [Illustration: THE TRENCH IN THE POTTER'S FIELD.]
+  <illustration name="THE_TRENCH_IN_THE_POTTERS_FIELD.">[Illustration: THE TRENCH IN THE POTTER'S FIELD.]</illustration>
 
 
 
 
-                              CHAPTER XV.
+                              <chapnum number="15">CHAPTER XV.</chapnum>
 
-  <chapterTitle>THE PROBLEM OF THE CHILDREN.</chapterTitle>
+  <chaptitle name="THE_PROBLEM_OF_THE_CHILDREN">THE PROBLEM OF THE CHILDREN.</chaptitle>
 
 
-<chapter subject= "society">The problem of the children becomes, in these swarms, to the last
+<chapter>The problem of the children becomes, in these swarms, to the last
 degree perplexing. Their very number make one stand aghast. I have
 already given instances of the packing of the child population in East
 Side tenements. They might be continued indefinitely until the array
@@ -4678,10 +4678,10 @@ of the crazy old building that gives on it bulges out or in. I tried
 to count the children that swarmed there, but could not. Sometimes I
 have doubted that anybody knows just how many there are about. Bodies
 of drowned children turn up in the rivers right along in summer whom
-no one seems to know anything about. When last spring some workmen,
+no one seems to know anything about. <death cause="crushed">When last spring some workmen,
 while moving a pile of lumber on a North River pier, found under the
 last plank the body of a little lad crushed to death, no one had missed
-a boy, though his parents afterward turned up. The truant officer
+a boy</death>, though his parents afterward turned up. <conditions type="education">The truant officer
 assuredly does not know, though he spends his life trying to find out,
 somewhat illogically, perhaps, since the department that employs him
 admits that thousands of poor children are crowded out of the schools
@@ -4699,7 +4699,7 @@ the "flat" as their home as a mere matter of form. They slept in
 the streets at night. The official came upon a little party of four
 drinking beer out of the cover of a milk-can in the hallway. They were
 of the seven good boys and proved their claim to the title by offering
-him some.
+him some.</conditions>
 
 The old question, what to do with the boy, assumes a new and serious
 phase in the tenements. Under the best conditions found there, it
@@ -4788,7 +4788,7 @@ general, and he decided that Headquarters was "a bully place." He sang
 and then settled down to the serious business of giving an account of
 himself. The examination went on after this fashion:
 
-"Where do you go to church, my boy?"
+<conditions type="living">"Where do you go to church, my boy?"
 
 "We don't have no clothes to go to church." And indeed his appearance,
 as he was, in the door of any New York church would have caused a
@@ -4804,7 +4804,7 @@ sensation.
 eventually the saloon that led the police as a landmark to his "home."
 It was worthy of the boy. As he had said, his only bed was a heap
 of dirty straw on the floor, his daily diet a crust in the morning,
-nothing else.
+nothing else.</conditions>
 
 Into the rooms of the Children's Aid Society were led two little girls
 whose father had "busted up the house" and put them on the street after
@@ -4869,12 +4869,12 @@ quoted above in the span of a single life.</chapter>
 
 
 
-                              CHAPTER XVI.
+                              <chapnum number="16">CHAPTER XVI.</chapnum>
 
-                       <chapterTitle>WAIFS OF THE CITY'S SLUMS.</chapterTitle>
+                       <chaptitle name="WAIFS_OF_THE_CITYS_SLUMS.">WAIFS OF THE CITY'S SLUMS.</chaptitle>
 
 
-<chapter subject= "children">First among these barriers is the Foundling Asylum. It stands at the
+<chapter>First among these barriers is the Foundling Asylum. It stands at the
 very outset of the waste of life that goes on in a population of nearly
 two millions of people; powerless to prevent it, though it gather
 in the outcasts by night and by day. In a score of years an army of
@@ -4978,8 +4978,8 @@ happy to join their "papas and mammas" in the far-away, unknown home.
 
 An infinitely more fiendish, if to surface appearances less
 deliberate, plan of child-murder than desertion has flourished in New
-York for years under the title of baby-farming. The name, put into
-plain English, means starving babies to death. The law has fought this
+York for years under the title of baby-farming. <crime type="murder">The name, put into
+plain English, means starving babies to death.</crime> The law has fought this
 most heinous of crimes by compelling the registry of all baby-farms.
 As well might it require all persons intending murder to register
 their purpose with time and place of the deed under the penalty of
@@ -5010,8 +5010,8 @@ haggling for a dollar, and arrested the woman slave-trader; but the law
 was powerless to punish her for her crime. Twelve unfortunate women
 awaiting dishonored motherhood were found in her house.
 
-[Footnote 18: Society for the Prevention of Cruelty to Children, Case
-42,028, May 16, 1889.]
+<footnote number="18">[Footnote 18: Society for the Prevention of Cruelty to Children, Case
+42,028, May 16, 1889.]</footnote>
 
 One gets a glimpse of the frightful depths to which human nature,
 perverted by avarice bred of ignorance and rasping poverty, can
@@ -5076,8 +5076,8 @@ white night-gowns hide tortured little bodies and limbs cruelly bruised
 by inhuman hands. In the shelter of this fold they are safe, and a
 happier little group one may seek long and far in vain.
 
-  [Illustration: PRAYER-TIME IN THE NURSERY--FIVE POINTS HOUSE OF
-                 INDUSTRY.]
+  <illustration name="PRAYER-TIME_IN_THE_NURSERY--FIVE_POINTS_HOUSE_OF_INDUSTRY.">[Illustration: PRAYER-TIME IN THE NURSERY--FIVE POINTS HOUSE OF
+                 INDUSTRY.]</illustration>
 
 
 
