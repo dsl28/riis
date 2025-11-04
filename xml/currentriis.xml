@@ -7227,7 +7227,7 @@ hundred fold.</charity> </chapter>
   <chaptitle name= "HOW THE CASE STANDS.">HOW THE CASE STANDS.</chaptitle>
 
 
-What, then, are the bald facts with which we have to deal in New York?
+<chapter><narrative>What, then, are the bald facts with which we have to deal in New York?
 
 I. That we have a tremendous, ever swelling crowd of wage-earners which
 it is our business to house decently.
@@ -7253,9 +7253,9 @@ VII. That it will pay to do it. As an investment, I mean, and in hard
 cash. This I shall immediately proceed to prove.
 
 VIII. That the tenement has come to stay, and must itself be the
-solution of the problem with which it confronts us.
+solution of the problem with which it confronts us.</narrative>
 
-This is the fact from which we cannot get away, however we may deplore
+<conditions type= "housing">his is the fact from which we cannot get away, however we may deplore
 it. Doubtless the best would be to get rid of it altogether; but as
 we cannot, all argument on that score may at this time be dismissed as
 idle. The practical question is what to do with the tenement. I watched
@@ -7263,13 +7263,13 @@ a Mott Street landlord, the owner of a row of barracks that have
 made no end of trouble for the health authorities for twenty years,
 solve that question for himself the other day. His way was to give
 the wretched pile a coat of paint, and put a gorgeous tin cornice on
-with the year 1890 in letters a yard long. From where I stood watching
+with the year 1890 in letters a yard long. </conditions><immigrants nationality= "Italian">From where I stood watching
 the operation, I looked down upon the same dirty crowds camping on
 the roof, foremost among them an Italian mother with two stark-naked
 children who had apparently never made the acquaintance of a wash-tub.
-That was a landlord's way, and will not get us out of the mire.
+That was a landlord's way, and will not get us out of the mire.</immigrants>
 
-The "flat" is another way that does not solve the problem. Rather, it
+<conditions type= "housing">The "flat" is another way that does not solve the problem. Rather, it
 extends it. The flat is not a model, though it is a modern, tenement.
 It gets rid of some of the nuisances of the low tenement, and of the
 worst of them, the overcrowding--if it gets rid of them at all--at
@@ -7314,9 +7314,9 @@ have had to struggle officially with this tenement-house question in
 the last ten years. In any event, to succeed, reform by law must aim
 at making it unprofitable to own a bad tenement. At best, it is apt to
 travel at a snail's pace, while the enemy it pursues is putting the
-best foot foremost.
+best foot foremost.</conditions>
 
-In this matter of profit the law ought to have its strongest ally in
+<policing>In this matter of profit the law ought to have its strongest ally in
 the landlord himself, though the reverse is the case. This condition
 of things I believe to rest on a monstrous error. It cannot be that
 tenement property that is worth preserving at all can continue to yield
@@ -7333,9 +7333,9 @@ into decay because at some future time the ground will be valuable
 for business or other purposes. There is unfortunately enough of that
 kind in New York, often leasehold property owned by wealthy estates or
 soul-less corporations that oppose all their great influence to the
-efforts of the law in behalf of their tenants.
+efforts of the law in behalf of their tenants.</policing>
 
-There is abundant evidence, on the other hand, that it can be made to
+<conditions type= "housing">There is abundant evidence, on the other hand, that it can be made to
 pay to improve and make the most of the worst tenement property, even
 in the most wretched locality. The example set by Miss Ellen Collins
 in her Water Street houses will always stand as a decisive answer to
@@ -7510,15 +7510,17 @@ have returned an interest of from five to five and a half per cent.
 on the capital invested. The original intention of making the tenants
 profit-sharers on a plan of rent insurance, under which all earnings
 above four per cent. would be put to the credit of the tenants, has not
-yet been carried out.
+yet been carried out.</conditions>
 
-  [Illustration: GENERAL PLAN OF THE RIVERSIDE BUILDINGS
-                 (A. T. WHITE'S) IN BROOKLYN.]
+  <illustration name= "GENERAL PLAN OF THE RIVERSIDE BUILDINGS
+    (A. T. WHITE'S) IN BROOKLYN.">[Illustration: GENERAL PLAN OF THE RIVERSIDE BUILDINGS
+                 (A. T. WHITE'S) IN BROOKLYN.]</illustration>
 
-  [Illustration: FLOOR PLAN OF ONE DIVISION IN THE RIVERSIDE
-                 BUILDINGS, SHOWING SIX "APARTMENTS."]
+  <illustration name= "FLOOR PLAN OF ONE DIVISION IN THE RIVERSIDE
+    BUILDINGS, SHOWING SIX APARTMENTS.">[Illustration: FLOOR PLAN OF ONE DIVISION IN THE RIVERSIDE
+                 BUILDINGS, SHOWING SIX "APARTMENTS."]</illustration>
 
-A scheme of dividends to tenants on a somewhat similar plan has
+<conditions type= "housing">A scheme of dividends to tenants on a somewhat similar plan has
 been carried out by a Brooklyn builder, Mr. A. T. White, who has
 devoted a life of beneficent activity to tenement building, and whose
 experience, though it has been altogether across the East River, I
@@ -7580,11 +7582,11 @@ such is the leavening influence of a good deed in that dreary desert
 of sin and suffering, that the erection of a single good tenement has
 the power to change, gradually but surely, the character of a whole bad
 block. It sets up a standard to which the neighborhood must rise, if it
-cannot succeed in dragging it down to its own low level.</chapter>
+cannot succeed in dragging it down to its own low level.</conditions></chapter>
 
        *       *       *       *       *
 
-And so this task, too, has come to an end. Whatsoever a man soweth,
+<narrative>And so this task, too, has come to an end. Whatsoever a man soweth,
 that shall he also reap. I have aimed to tell the truth as I saw it.
 If this book shall have borne ever so feeble a hand in garnering a
 harvest of justice, it has served its purpose. While I was writing
@@ -7612,12 +7614,12 @@ the poet, with whose lines I prefaced this book, are truer to-day, have
 far deeper meaning to us, than when they were penned forty years ago:
 
           "--Think ye that building shall endure
-          Which shelters the noble and crushes the poor?"
+          Which shelters the noble and crushes the poor?"</narrative>
 
 
 
 
-                               APPENDIX.
+  <chaptitle name= "APPENDIX.">APPENDIX.</chaptitle>
 
               STATISTICS BEARING ON THE TENEMENT PROBLEM.
 
