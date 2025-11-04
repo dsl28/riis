@@ -5091,7 +5091,7 @@ happier little group one may seek long and far in vain.</chapter>
 the labor of unnumbered societies for the rescue and relief of its
 outcast waifs, can dam the stream of homelessness that issues from a
 source where the very name of home is a mockery. The Street Arab is
-as much of an institution in New York as <location name= "Newspaper Row">Newspaper Row,</location> to which he
+as much of an institution in New York as Newspaper Row, to which he
 gravitates naturally, following his Bohemian instinct. Crowded out
 of the tenements to shift for himself, and quite ready to do it, he
 meets there the host of adventurous runaways from every State in the
@@ -5125,19 +5125,19 @@ efforts. There is scarcely a learned profession, or branch of honorable
 business, that has not in the last twenty years borrowed some of its
 brightest light from the poverty and gloom of New York's streets.
 
-Anyone, whom business or curiosity has taken through <location name= "Park Row"/>Park Row or across
-<location name= "Printing House Square"/><children>Printing House Square in the midnight hour, when the air is filled with
+Anyone, whom business or curiosity has taken through Park Row or across
+<children>Printing House Square in the midnight hour, when the air is filled with
 the roar of great presses spinning with printers' ink on endless rolls
 of white paper the history of the world in the twenty-four hours that
-have just passed away, has seen <conditions type= "living">little groups of these boys hanging
+have just passed away, has seen little groups of these boys hanging
 about the newspaper offices; in winter, when snow is on the streets,
 fighting for warm spots around the grated vent-holes that let out
 the heat and steam from the underground press-rooms with their noise
 and clatter, and in summer playing craps and 7-11 on the curb for
 their hard-earned pennies, with all the absorbing concern of hardened
-gamblers.</conditions> This is their beat. Here the agent of the Society for the
+gamblers. This is their beat. Here the agent of the Society for the
 Prevention of Cruelty to Children finds those he thinks too young for
-"business," but does not always capture them. <conditions type= "living">Like rabbits in their
+"business," but does not always capture them. Like rabbits in their
 burrows, the little ragamuffins sleep with at least one eye open,
 and every sense alert to the approach of danger: of their enemy, the
 policeman, whose chief business in life is to move them on, and of the
@@ -5154,7 +5154,7 @@ raise the cover in the street, slide down in single file, and snuggle
 up to the warm boiler out of harm's way, as they thought. It proved a
 trap, however. The agent slid down himself one cold night--there was
 no other way of getting there--and, landing right in the midst of the
-sleeping colony, had it at his mercy.</conditions> After repeated raids upon their
+sleeping colony, had it at his mercy. After repeated raids upon their
 headquarters, the boys forsook it last summer, and were next found
 herding under the shore-end of one of the East River banana docks,
 where they had fitted up a regular club-room that was shared by thirty
@@ -5209,7 +5209,7 @@ the lad; blows and curses for breakfast, dinner, and supper; all these
 are recruiting agents for the homeless army. Sickness in the house, too
 many mouths to feed:</children>
 
-  <illustration title= "DIDN'T LIVE NOWHERE.">[Illustration: "DIDN'T LIVE NOWHERE."]</illustration>
+  <illustration name= "DIDN'T LIVE NOWHERE.">[Illustration: "DIDN'T LIVE NOWHERE."]</illustration>
 
 "We wuz six," said an urchin of twelve or thirteen I came across in the
 Newsboys' Lodging House, "and we ain't got no father. Some on us had
@@ -5240,7 +5240,7 @@ inquiry his account of himself where that seems advisable, well knowing
 that many a home that sends forth such lads far less deserves the name
 than the one they are able to give them.</children>
 
-  <illustration title= "STREET ARABS IN SLEEPING QUARTERS.">[Illustration: STREET ARABS IN SLEEPING QUARTERS.]</illustration>
+  <illustration name= "STREET ARABS IN SLEEPING QUARTERS.">[Illustration: STREET ARABS IN SLEEPING QUARTERS.]</illustration>
 
 <children>With these simple preliminaries the outcast boy may enter. Rags do
 not count; to ignorance the door is only opened wider. Dirt does not
@@ -5303,7 +5303,7 @@ several miniature black eyes upon which soap had no effect, and sundry
 little scores had been settled that evened things up, as it were, for a
 fresh start.</children>
 
-  <illustration title= " GETTING READY FOR SUPPER IN THE NEWSBOYS' LODGING HOUSE.">
+  <illustration name= " GETTING READY FOR SUPPER IN THE NEWSBOYS' LODGING HOUSE.">
     [Illustration: GETTING READY FOR SUPPER IN THE NEWSBOYS' LODGING HOUSE.]</illustration>
 
 I tried one night, not with the best of success I confess, to
@@ -5320,10 +5320,10 @@ picture."
 provocation, "them kids ain't got no sense, nohow!"
 
 <conditions type= "living">The Society maintains five of these boys' lodging houses, and one
-for girls, in the city. The <location name= "Duane Street Lodging House">Duane Street Lodging House</location> alone has
+for girls, in the city. The Duane Street Lodging House alone has
 sheltered since its foundation in 1855 nearly a quarter of a million
 different boys, at a total expense of a good deal less than half a
-million dollars. <children>Of this amount, up to the beginning of the present
+million dollars.</conditions> <children>Of this amount, up to the beginning of the present
 year, the boys and the earnings of the house had contributed no less
 than $172,776.38. In all of the lodging-houses together, 12,153 boys
 and girls were sheltered and taught last year. The boys saved up no
@@ -5344,10 +5344,10 @@ at all of them was 4,105, while 11,331 children were registered and
 taught. When the fact that there were among these 1,132 children of
 drunken parents, and 416 that had been found begging in the street,
 is contrasted with the showing of $1,337.21 deposited in the school
-savings banks by 1,745 pupils, </children>something like an adequate idea is
+savings banks by 1,745 pupils, </children> <conditions type="living">something like an adequate idea is
 gained of the scope of the Society's work in the city.</conditions>
 
-<immigrants group="unknown">A large share of it, in a sense the largest, certainly that productive
+<immigrants nationality="unknown">A large share of it, in a sense the largest, certainly that productive
 of the happiest results, lies outside of the city, however. From the
 lodging-houses and the schools are drawn the battalions of young
 emigrants that go every year to homes in the Far West, to grow up
@@ -5361,7 +5361,7 @@ one comes back, lured by homesickness even for the slums; but the
 briefest stay generally cures the disease for good. I helped once to
 see a party off for Michigan, the last sent out by that great friend of
 the homeless children, Mrs. Astor, before she died. In the party was
-a boy who had been an "Insider" at the <location name= "Five Points House of Industry">Five Points House of Industry,</location>
+a boy who had been an "Insider" at the Five Points House of Industry,
 and brought along as his only baggage a padlocked and iron-bound box
 that contained all his wealth, two little white mice of the friendliest
 disposition. They were going with him out to live on the fat of the
@@ -5422,9 +5422,9 @@ sending their sons to the trade schools to be taught,[19] one may
 perhaps be permitted to hope that an era of better sense is dawning
 that shall witness a rescue work upon lines which, when the leaven has
 fairly had time to work, will put an end to the existence of the New
-York Street Arab, of the native breed at least.</chapter>
+York Street Arab, of the native breed at least.
 
-<footnote number= "19">[Footnote 19: Colonel Auchmuty's own statement.]</footnote>
+<footnote number= "19">[Footnote 19: Colonel Auchmuty's own statement.]</footnote></chapter>
 
 
 
@@ -5507,7 +5507,7 @@ Ward points with pride to the honorable record of the conductors of
 its "Tub of Blood," and a dozen bar-rooms with less startling titles;
 the West Side to the wealth and "social" standing of the owners of
 such resorts as the "Witches' Broth" and the "Plug Hat" in the region
-of <location name= "Hell's Kitchen">Hell's Kitchen</location> three-cent whiskey, names ominous of the concoctions
+of Hell's Kitchen three-cent whiskey, names ominous of the concoctions
 brewed there and of their fatally generous measure. Another ward,
 that boasts some of the best residences and the bluest blood on
 Manhattan Island, honors with political leadership in the ruling
@@ -5588,8 +5588,8 @@ to a bad end in the wake of the growler.</chapter>
 
                  <chaptitle name = "THE HARVEST OF TARES.">THE HARVEST OF TARES.</chaptitle>
 
-<chapter>
-<children>The "growler" stood at the cradle of the tough. It bosses him through
+
+  <chapter><children>The "growler" stood at the cradle of the tough. It bosses him through
 his boyhood apprenticeship in the "gang," and leaves him, for a time
 only, at the door of the jail that receives him to finish his training
 and turn him loose upon the world a thief, to collect by stealth or by
@@ -5772,7 +5772,7 @@ the police as Dennis, "the Bum," and "Mud" Foley.</crime>
 
 It is not always that their little diversions end as harmlessly as did
 this, even from the standpoint of the Jew, who was pretty badly hurt.
-<crime type= "murder">Not far from the preserves of the Montgomery Guards, in <location name= "Poverty Gap">Poverty Gap,</location>
+<crime type= "murder">Not far from the preserves of the Montgomery Guards, in Poverty Gap,
 directly opposite the scene of the murder to which I have referred in
 a note explaining the picture of the Cunningham family (p. 169), a
 young lad, who was the only support of his aged parents, was beaten to
@@ -5856,7 +5856,7 @@ discovered.</conditions>
   <illustration name= "TYPICAL TOUGHS (FROM THE ROGUES' GALLERY).">[Illustration: TYPICAL TOUGHS (FROM THE ROGUES' GALLERY).]</illustration>
 
 This was in the Sixth Ward, where the infamous Whyo Gang until a few
-years ago absorbed the worst depravity of <location name= "the Bend">the Bend</location> and what is left of
+years ago absorbed the worst depravity of the Bend and what is left of
 the Five Points. <crime type= "gangs">The gang was finally broken up when its leader was
 hanged for murder after a life of uninterrupted and unavenged crimes,
 the recital of which made his father confessor turn pale, listening
@@ -5998,7 +5998,7 @@ protest, even the tough has not lived in vain. This measure of credit
 at least should be accorded him, that, with or without his good-will,
 he has been a factor in urging on the battle against the slums that
 bred him. It is a fight in which eternal vigilance is truly the price
-of liberty and the preservation of society.</chapter>
+of liberty and the preservation of society. </chapter>
 
 
 
