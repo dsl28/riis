@@ -2,7 +2,7 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = riis
 
-riis = element riis {(booktitle|illustration|titlepage|copyrightpage|preface|tableofcontents|listofillustrations|quote|introduction|chapnum|chaptitle|chapter)+}
+riis = element riis {(booktitle|illustration|titlepage|copyrightpage|preface|tableofcontents|listofillustrations|quote|introduction|chapnum|chaptitle|chapter|appendix|ending|transcribersNote)+}
 
 booktitle = element booktitle {text}
 
@@ -30,7 +30,7 @@ chapnum = element chapnum {number, text}
 
 chaptitle = element chaptitle {name, text}
 
-chapter = element chapter {(text|immigrants|conditions|death|vice|disease|crime|footnote|illustration|work|policing|table)+}
+chapter = element chapter {(text|immigrants|conditions|death|vice|disease|crime|footnote|illustration|work|policing|table|children|charity)+}
 
 immigrants = element immigrants {nationality, text}
 nationality = attribute nationality {text}
@@ -54,5 +54,12 @@ policing = element policing {text}
 
 table = element table {text|xsd:integer}
 
+children = element children {text}
 
+charity = element charity {text}
 
+appendix = element appendix {text|xsd:integer}
+
+ending = element ending {text}
+
+transcribersNote= element transcribersNote {text}

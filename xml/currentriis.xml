@@ -1673,12 +1673,12 @@ and ash barrels of the city. Here, too, shunning the light, skulks the
 unclean beast of dishonest idleness. "The Bend" is the home of the
 tramp as well as the rag-picker.
 
-It is not much more than twenty years since a census of "the Bend"
+<conditions type="living">It is not much more than twenty years since a census of "the Bend"
 district returned only twenty-four of the six hundred and nine
-tenements as in decent condition. Three-fourths of the population of
-the "Bloody Sixth" Ward were then <immigrants nationality="Irish">Irish</immigrants>. The army of tramps that grew
+tenements as in decent condition.</conditions> <immigrants nationality="Irish">Three-fourths of the population of
+the "Bloody Sixth" Ward were then Irish.</immigrants> The army of tramps that grew
 up after the disbandment of the armies in the field, and has kept up
-its muster roll, together with the in-rush of the <immigrants nationality="Italianß">Italian</immigrants> tide, have
+its muster roll, <immigrants nationality="Italian">together with the in-rush of the Italian tide,</immigrants> have
 ever since opposed a stubborn barrier to all efforts at permanent
 improvement. The more that has been done, the less it has seemed to
 accomplish in the way of real relief, until it has at last become clear
@@ -1692,23 +1692,23 @@ is a matter of bewildering conjecture. Its everyday appearance, as seen
 from the corner of Bayard Street on a sunny day, is one of the sights
 of New York.
 
-Bayard Street is the high road to Jewtown across the Bowery, picketed
+<immigrants nationality="Jewish">Bayard Street is the high road to Jewtown across the Bowery, picketed
 from end to end with the outposts of Israel. Hebrew faces, Hebrew
 signs, and incessant chatter in the queer lingo that passes for
 Hebrew on the East Side attend the curious wanderer to the very
-corner of Mulberry Street. But the moment he turns the corner the
+corner of Mulberry Street.</immigrants> But the moment he turns the corner the
 scene changes abruptly. Before him lies spread out what might better
 be the market-place in some town in Southern Italy than a street in
 New York--all but the houses; they are still the same old tenements
 of the unromantic type. But for once they do not make the foreground
 in a slum picture from the American metropolis. The interest centres
 not in them, but in the crowd they shelter only when the street is
-not preferable, and that with the Italian is only when it rains or he
-is sick. When the sun shines the entire population seeks the street,
+not preferable, <immigrants nationality="Italian">and that with the Italian is only when it rains or he
+is sick.</immigrants> When the sun shines the entire population seeks the street,
 carrying on its household work, its bargaining, its love-making on
 street or sidewalk, or idling there when it has nothing better to do,
-with the reverse of the impulse that makes the Polish Jew coop himself
-up in his den with the thermometer at stewing heat. Along the curb
+<immigrants nationality="Polsih-Jew">with the reverse of the impulse that makes the Polish Jew coop himself
+up in his den with the thermometer at stewing heat.</immigrants> Along the curb
 women sit in rows, young and old alike with the odd head-covering, pad
 or turban, that is their badge of servitude--her's to bear the burden
 as long as she lives--haggling over baskets of frowsy weeds, some sort
@@ -1731,12 +1731,12 @@ elbows and clay pipe in mouth, skinning a kid that hangs from his hook.
 They will tell you with a laugh at the Elizabeth Street police station
 that only a few days ago when a dead goat had been reported lying in
 Pell Street it was mysteriously missing by the time the offal-cart came
-to take it away. It turned out that an Italian had carried it off in
-his sack to a wake or feast of some sort in one of the back alleys.
+to take it away. <immigrants nationality="Italian">It turned out that an Italian had carried it off in
+his sack to a wake or feast of some sort in one of the back alleys.</immigrants>
 
   <illustration name="THE BEND">[Illustration: THE BEND.]</illustration>
 
-On either side of the narrow entrance to Bandit's Roost, one of the
+<conditions type="living">On either side of the narrow entrance to Bandit's Roost, one of the
 most notorious of these, is a shop that is a fair sample of the sort
 of invention necessity is the mother of in "the Bend." It is not
 enough that trucks and ash-barrels have provided four distinct lines
@@ -1774,15 +1774,15 @@ up and gallantly offers to pick her out the handsomest pair, whereat
 she laughs and pushes him away with a gesture which he interprets as an
 invitation to stay; and he does, evidently to the satisfaction of the
 beldame, who forthwith raises her prices fifty per cent. without being
-detected by the girl.
+detected by the girl.</conditions>
 
-Red bandannas and yellow kerchiefs are everywhere; so is the Italian
-tongue, infinitely sweeter than the harsh gutturals of the Russian Jew
-around the corner. So are the "ristorantes" of innumerable Pasquales;
+Red bandannas and yellow kerchiefs are everywhere; <immigrants nationality="Italian">so is the Italian
+tongue,</immigrants> <immigrants nationality="Russian-Jew">infinitely sweeter than the harsh gutturals of the Russian Jew
+around the corner.</immigrants> <immigrants nationality="Italian">So are the "ristorantes" of innumerable Pasquales;
 half of the people in "the Bend" are christened Pasquale, or get the
 name in some other way. When the police do not know the name of an
 escaped murderer, they guess at Pasquale and send the name out on
-alarm; in nine cases out of ten it fits. So are the "banks" that hang
+alarm; in nine cases out of ten it fits.</immigrants> So are the "banks" that hang
 out their shingle as tempting bait on every hand. There are half a
 dozen in the single block, steamship agencies, employment offices, and
 savings-banks, all in one. So are the toddling youngsters, bow-legged
@@ -1796,14 +1796,14 @@ In the street, where the city wields the broom, there is at least an
 effort at cleaning up. There has to be, or it would be swamped in
 filth overrunning from the courts and alleys where the rag-pickers
 live. It requires more than ordinary courage to explore these on a hot
-day. The undertaker has to do it then, the police always. Right here,
+day. The undertaker has to do it then, the police always. <death cause="abuse">Right here,
 in this tenement on the east side of the street, they found little
 Antonia Candia, victim of fiendish cruelty, "covered," says the account
 found in the records of the Society for the Prevention of Cruelty to
-Children, "with sores, and her hair matted with dried blood." Abuse is
-the normal condition of "the Bend," murder its everyday crop, with the
-tenants not always the criminals. In this block between Bayard, Park,
-Mulberry, and Baxter Streets, "the Bend" proper, the late Tenement
+Children, "with sores, and her hair matted with dried blood."</death> <crime type="abuse">Abuse is
+the normal condition of "the Bend,"</crime> <crime type="murder">murder its everyday crop, with the
+tenants not always the criminals.</crime> In this block between Bayard, Park,
+Mulberry, and Baxter Streets, "the Bend" proper, <death cause="NA">the late Tenement
 House Commission counted 155 deaths of children[8] in a specimen year
 (1882). Their per centage of the total mortality in the block was
 68.28, while for the whole city the proportion was only 46.20. The
@@ -1817,7 +1817,7 @@ lived in No. 59½ in the year 1888, nine of them little children.
 There were five baby funerals in that house the same year. Out of
 the alley itself, No. 59, nine dead were carried in 1888, five in
 baby coffins. Here is the record of the year for the whole block, as
-furnished by the Registrar of Vital Statistics, Dr. Roger S. Tracy:
+furnished by the Registrar of Vital Statistics, Dr. Roger S. Tracy:</death>
 
  <table>_Deaths and Death-rates in 1888 in Baxter and Mulberry Streets,
                    between Park and Bayard Streets._
@@ -1839,16 +1839,16 @@ furnished by the Registrar of Vital Statistics, Dr. Roger S. Tracy:
      Total       | 4,706| 944| 5,650| 70|132| 202| 14.87| 139.83| 35.75
  ----------------+------+----+------+---+---+----+------+-------+------</table>
 
-The general death-rate for the whole city that year was 26.27.
+<death cause="NA">The general death-rate for the whole city that year was 26.27.</death>
 
 These figures speak for themselves, when it is shown that in the model
 tenement across the way at Nos. 48 and 50, where the same class of
 people live in greater swarms (161, according to the record), but under
 good management, and in decent quarters, the hearse called that year
-only twice, once for a baby. The agent of the Christian people who
+only twice, once for a baby. <immigrants nationality="Italian">The agent of the Christian people who
 built that tenement will tell you that Italians are good tenants, while
 the owner of the alley will oppose every order to put his property in
-repair with the claim that they are the worst of a bad lot. Both are
+repair with the claim that they are the worst of a bad lot.</immigrants> Both are
 right, from their different stand-points. It is the stand-point that
 makes the difference--and the tenant.
 
@@ -1867,7 +1867,7 @@ that has come near to making the name of landlord as odious in New York
 as it has become in Ireland.
 
 Bottle Alley is around the corner in Baxter Street; but it is a fair
-specimen of its kind, wherever found. Look into any of these houses,
+specimen of its kind, wherever found. <conditions type="living">Look into any of these houses,
 everywhere the same piles of rags, of malodorous bones and musty paper,
 all of which the sanitary police flatter themselves they have banished
 to the dumps and the warehouses. Here is a "flat" of "parlor" and two
@@ -1881,7 +1881,7 @@ crazy pipe from which the smoke leaks at every joint, a table of
 rough boards propped up on boxes, piles of rubbish in the corner.
 The closeness and smell are appalling. How many people sleep here?
 The woman with the red bandanna shakes her head sullenly, but the
-bare-legged girl with the bright face counts on her fingers--five, six!
+bare-legged girl with the bright face counts on her fingers--five, six!</conditions>
 
 "Six, sir!" Six grown people and five children.
 
@@ -1893,15 +1893,15 @@ Nine and a half, and "please, sir! he won't put the paper on."
 
 "He" is the landlord. The "paper" hangs in musty shreds on the wall.
 
-Well do I recollect the visit of a health inspector to one of these
+<conditions type="living">Well do I recollect the visit of a health inspector to one of these
 tenements on a July day when the thermometer outside was climbing
 high in the nineties; but inside, in that awful room, with half a
 dozen persons washing, cooking, and sorting rags, lay the dying baby
-alongside the stove, where the doctors thermometer ran up to 115°!
+alongside the stove, where the doctors thermometer ran up to 115°!</conditions>
 Perishing for the want of a breath of fresh air in this city of untold
-charities! Did not the manager of the Fresh Air Fund write to the
+charities! <immigrants nationality="Italian">Did not the manager of the Fresh Air Fund write to the
 pastor of an Italian Church only last year[9] that "no one asked for
-Italian children," and hence he could not send any to the country?
+Italian children," and hence he could not send any to the country?</immigrants>
 
 <footnote number="9">[Footnote 9: See City Mission Report, February, 1890, page 77.]</footnote>
 
@@ -1909,11 +1909,11 @@ Italian children," and hence he could not send any to the country?
 
 Half a dozen blocks up Mulberry Street there is a rag-picker's
 settlement, a sort of overflow from "the Bend," that exists to-day
-in all its pristine nastiness. Something like forty families are
+in all its pristine nastiness. <conditions type="living">Something like forty families are
 packed into five old two-story and attic houses that were built to
 hold five, and out in the yards additional crowds are, or were until
 very recently, accommodated in sheds built of all sorts of old boards
-and used as drying racks for the Italian tenants' "stock." I found
+and used as drying racks for the Italian tenants' "stock."</conditions> I found
 them empty when I visited the settlement while writing this. The
 last two tenants had just left. Their fate was characteristic. The
 "old man," who lived in the corner coop, with barely room to crouch
@@ -1922,15 +1922,15 @@ not age crooked his frame to fit his house--had been taken to the
 "crazy-house," and the woman who was his neighbor and had lived in
 her shed for years had simply disappeared. The agent and the other
 tenants "guessed," doubtless correctly, that she might be found on the
-"island," but she was decrepit anyhow from rheumatism, and "not much
-good," and no one took the trouble to inquire for her. They had all
+"island," but she was decrepit anyhow from <disease type="rheumatism">rheumatism</disease>, and "not much
+good," and no one took the trouble to inquire for her. <conditions type="living">They had all
 they could do attending to their own business and raising the rent.
 No wonder; I found that for one front room and two "bedrooms" in the
 shameful old wrecks of buildings the tenant was paying $10 a month, for
 the back-room and one bedroom $9, and for the attic rooms, according to
-size, from $3.75 to $5.50.
+size, from $3.75 to $5.50.</conditions>
 
-There is a standing quarrel between the professional--I mean now the
+<conditions type="living">There is a standing quarrel between the professional--I mean now the
 official--sanitarian and the unsalaried agitator for sanitary reform
 over the question of overcrowded tenements. The one puts the number a
 little vaguely at four or five hundred, while the other asserts that
@@ -1942,7 +1942,7 @@ the scale of official measurement conveniently sliding. Under the
 pressure of the Italian influx the standard of breathing space required
 for an adult by the health officers has been cut down from six to four
 hundred cubic feet. The "needs of the situation" is their plea, and no
-more perfect argument could be advanced for the reformer's position.
+more perfect argument could be advanced for the reformer's position.</conditions>
 
 It is in "the Bend" the sanitary policeman locates the bulk of his
 four hundred, and the sanitary reformer gives up the task in despair.
@@ -1953,21 +1953,21 @@ showed that in "the Bend" district, between Broadway and the Bowery and
 Canal and Chatham Streets, in a total of four thousand three hundred
 and sixty-seven "apartments" only nine were for the moment vacant,
 while in the old "Africa," west of Broadway, that receives the overflow
-from Mulberry Street and is rapidly changing its character, the notice
-"standing room only" is up. Not a single vacant room was found there.
+from Mulberry Street and is rapidly changing its character, <conditions type="living">the notice
+"standing room only" is up.</conditions> Not a single vacant room was found there.
 Nearly a hundred and fifty "lodgers" were driven out of two adjoining
 Mulberry Street tenements, one of them aptly named "the House of
 Blazes," during that census. What squalor and degradation inhabit these
 dens the health officers know. Through the long summer days their carts
 patrol "the Bend," scattering disinfectants in streets and lanes, in
-sinks and cellars, and hidden hovels where the tramp burrows. From
+sinks and cellars, and hidden hovels where the tramp burrows. <policing>From
 midnight till far into the small hours of the morning the policeman's
 thundering rap on closed doors is heard, with his stern command, "_Apri
-port'!_" on his rounds gathering evidence of illegal overcrowding. The
+port'!_" on his rounds gathering evidence of illegal overcrowding.</policing> The
 doors are opened unwillingly enough--but the order means business, and
 the tenant knows it even if he understands no word of English--upon
 such scenes as the one presented in the picture. It was photographed
-by flash-light on just such a visit. In a room not thirteen feet
+by flash-light on just such a visit. <conditions type="living">In a room not thirteen feet
 either way slept twelve men and women, two or three in bunks set in a
 sort of alcove, the rest on the floor. A kerosene lamp burned dimly
 in the fearful atmosphere, probably to guide other and later arrivals
@@ -1976,7 +1976,7 @@ wail came from an adjoining hall-room, where, in the semi-darkness,
 three recumbent figures could be made out. The "apartment" was one of
 three in two adjoining buildings we had found, within half an hour,
 similarly crowded. Most of the men were lodgers, who slept there for
-five cents a spot.
+five cents a spot.</conditions>
 
 <illustration name="LODGERS IN A CROWDED BAYARD STREET TENEMENT--'FIVE CENTS A SPOT">[Illustration: LODGERS IN A CROWDED BAYARD STREET TENEMENT--"FIVE CENTS
 A SPOT."]</illustration>
@@ -2001,7 +2001,7 @@ turned than the room was re-opened for business.</chapter>
 but the reserves were held under orders. A raid was on foot, but
 whether on the <immigrants nationality="Chinese">Chinese</immigrants> fan-tan games, on the opium joints of Mott and
 Pell Streets, or on dens of even worse character, was a matter of
-guess-work in the men's room. When the last patrolman had come in from
+guess-work in the men's room. <policing>When the last patrolman had come in from
 his beat, all doubt was dispelled by the brief order "To the Bend!" The
 stale-beer dives were the object of the raid. The policemen buckled
 their belts tighter, and with expressive grunts of disgust took up
@@ -2022,13 +2022,13 @@ groping in the dark we emerged finally into the alley proper, where
 light escaping through the cracks of closed shutters on both sides
 enabled us to make out the contour of three rickety frame tenements.
 Snatches of ribald songs and peals of coarse laughter reached us from
-now this, now that of the unseen burrows.
+now this, now that of the unseen burrows.</policing>
 
 "School is in," said the Sergeant drily as we stumbled down the worn
 steps of the next cellar-way. A kick of his boot-heel sent the door
 flying into the room.
 
-A room perhaps a dozen feet square, with walls and ceiling that might
+<conditions type="living">A room perhaps a dozen feet square, with walls and ceiling that might
 once have been clean--assuredly the floor had not in the memory of
 man, if indeed there was other floor than hard-trodden mud--but were
 now covered with a brown crust that, touched with the end of a club,
@@ -2047,9 +2047,9 @@ cowed submission they sat, evidently knowing what to expect. At the
 first glimpse of the uniform in the open door some in the group,
 customers with a record probably, had turned their heads away to avoid
 the searching glance of the officer; while a few, less used to such
-scenes, stared defiantly.
+scenes, stared defiantly.</conditions>
 
-A single stride took the sergeant into the middle of the room, and
+<policing>A single stride took the sergeant into the middle of the room, and
 with a swinging blow of his club he knocked the faucet out of the keg
 and the half-filled can from the boss hag's hand. As the contents of
 both splashed upon the floor, half a dozen of the group made a sudden
@@ -2057,7 +2057,7 @@ dash, and with shoulders humped above their heads to shield their
 skulls against the dreaded locust broke for the door. They had not
 counted upon the policemen outside. There was a brief struggle, two or
 three heavy thumps, and the runaways were brought back to where their
-comrades crouched in dogged silence.
+comrades crouched in dogged silence.</policing>
 
 "Thirteen!" called the sergeant, completing his survey. "Take them out.
 'Revolvers' all but one. Good for six months on the island, the whole
@@ -2077,17 +2077,17 @@ four dives in one cellar here. The filth and the stench were utterly
 unbearable; even the sergeant turned his back and fled after scattering
 the crowd with his club and starting them toward the door. The very
 dog in the alley preferred the cold flags for a berth to the stifling
-cellar. We found it lying outside. Seventy-five tramps, male and
+cellar. <policing>We found it lying outside. Seventy-five tramps, male and
 female, were arrested in the four small rooms. In one of them, where
 the air seemed thick enough to cut with a knife, we found a woman, a
 mother with a new-born babe on a heap of dirty straw. She was asleep
 and was left until an ambulance could be called to take her to the
-hospital.
+hospital.</policing>
 
 Returning to the station with this batch, we found every window in the
 building thrown open to the cold October wind, and the men from the
 sergeant down smoking the strongest cigars that could be obtained by
-way of disenfecting the place. Two hundred and seventy-five tramps had
+way of disenfecting the place. <policing>Two hundred and seventy-five tramps had
 been jammed into the cells to be arraigned next morning in the police
 court on the charge of vagrancy, with the certain prospect of six
 months "on the Island." Of the sentence at least they were sure. As to
@@ -2098,7 +2098,7 @@ that are for sale cheap for cash. About election time this gives them
 a "pull," at least by proxy. The sergeant observed, as if it were the
 most natural thing in the world, that he had more than once seen the
 same tramp sent to Blackwell's Island twice in twenty-four hours for
-six months at a time.
+six months at a time.</policing>
 
 <illustration name="AN ALL-NIGHT TWO-CENT RESTAURANT, IN THE 'BEND.'">[Illustration: AN ALL-NIGHT TWO-CENT RESTAURANT, IN "THE BEND."]</illustration>
 
@@ -2114,7 +2114,7 @@ free. The beer is collected from the kegs put on the sidewalk by the
 saloon-keeper to await the brewer's cart, and is touched up with drugs
 to put a froth on it. The privilege to sit all night on a chair, or
 sleep on a table, or in a barrel, goes with each round of drinks.
-Generally an Italian, sometimes a negro, occasionally a woman, "runs"
+<immigrants nationality="Italian">Generally an Italian,</immigrants> sometimes a negro, occasionally a woman, "runs"
 the dive. Their customers, alike homeless and hopeless in their utter
 wretchedness, are the professional tramps, and these only. The meanest
 thief is infinitely above the stale-beer level. Once upon that plane
@@ -2130,10 +2130,10 @@ traffic has left "the Bend;" but its headquarters will always remain
 there, the real home of trampdom, just as Fourteenth Street is its
 limit. No real tramp crosses that frontier after nightfall and in the
 daytime only to beg. Repulsive as the business is, its profits to the
-Italian dive-keeper are considerable; in fact, barring a slight outlay
+<immigrants nationality="Italian">Italian dive-keeper</immigrants> are considerable; in fact, barring a slight outlay
 in the ingredients that serve to give "life" to the beer-dregs, it
-is all profit. The "banker" who curses the Italian colony does not
-despise taking a hand in it, and such a thing as a stale-beer trust
+is all profit. <immigrants nationality="Italian">The "banker" who curses the Italian colony does not
+despise taking a hand in it,</immigrants> and such a thing as a stale-beer trust
 on a Mulberry Street scale may yet be among the possibilities. One of
 these bankers, who was once known to the police as the keeper of one
 notorious stale-beer dive and the active backer of others, is to-day an
@@ -2146,10 +2146,10 @@ of the tenements in "the Bend" to find the hallways occupied by rows of
 "sitters," tramps whom laziness or hard luck has prevented from earning
 enough by their day's "labor" to pay the admission fee to a stale-beer
 dive, and who have their reasons for declining the hospitality of the
-police station lodging-rooms. Huddled together in loathsome files,
+police station lodging-rooms. <policing>Huddled together in loathsome files,
 they squat there over night, or until an inquisitive policeman breaks
 up the congregation with his club, which in Mulberry Street has always
-free swing. At that season the woman tramp predominates. The men, some
+free swing.</policing> At that season the woman tramp predominates. The men, some
 of them at least, take to the railroad track and to camping out when
 the nights grow warm, returning in the fall to prey on the city and to
 recruit their ranks from the lazy, the shiftless, and the unfortunate.
@@ -2176,7 +2176,7 @@ swing hand or foot in their sleep without betraying themselves. In some
 saloons "sitters" are let in at these seasons in fresh batches every
 hour.
 
-On one of my visits to "the Bend" I came across a particularly ragged
+<conditions type="working">On one of my visits to "the Bend" I came across a particularly ragged
 and disreputable tramp, who sat smoking his pipe on the rung of a
 ladder with such evident philosophic contentment in the busy labor of a
 score of rag-pickers all about him, that I bade him sit for a picture,
@@ -2188,7 +2188,7 @@ was worth a quarter to have it go in the picture. The pipe, by the way,
 was of clay, and of the two-for-a-cent kind. But I had to give in. The
 man, scarce ten seconds employed at honest labor, even at sitting down,
 at which he was an undoubted expert, had gone on strike. He knew his
-rights and the value of "work," and was not to be cheated out of either.
+rights and the value of "work," and was not to be cheated out of either.</conditions>
 
 <illustration name="THE TRAMP">[Illustration: THE TRAMP.]</illustration>
 
@@ -2217,7 +2217,7 @@ straight enough. The women rob an occasional clothes-line when no one
 is looking, or steal the pail and scrubbing-brush with which they are
 set to clean up in the station-house lodging-rooms after their night's
 sleep. At the police station the roads of the tramp and the tough again
-converge. In mid-winter, on the coldest nights, the sanitary police
+converge. <policing>In mid-winter, on the coldest nights, the sanitary police
 corral the tramps here and in their lodging-houses and vaccinate them,
 despite their struggles and many oaths that they have recently been
 "scraped." The station-house is the sieve that sifts out the chaff from
@@ -2225,7 +2225,7 @@ the wheat, if there be any wheat there. A man goes from his first
 night's sleep on the hard slab of a police station lodging-room to a
 deck-hand's berth on an out-going steamer, to the recruiting office, to
 any work that is honest, or he goes "to the devil or the dives, same
-thing," says my friend, the Sergeant, who knows.
+thing," says my friend, the Sergeant, who knows.</policing>
 </chapter>
 
 
@@ -5074,7 +5074,7 @@ and desolation, where no other blessing than a drunken curse was ever
 heard, saying their prayers in the nursery at bedtime. Too often their
 white night-gowns hide tortured little bodies and limbs cruelly bruised
 by inhuman hands. In the shelter of this fold they are safe, and a
-happier little group one may seek long and far in vain.
+happier little group one may seek long and far in vain.</chapter>
 
   <illustration name="PRAYER-TIME_IN_THE_NURSERY--FIVE_POINTS_HOUSE_OF_INDUSTRY.">[Illustration: PRAYER-TIME IN THE NURSERY--FIVE POINTS HOUSE OF
                  INDUSTRY.]</illustration>
@@ -5082,12 +5082,12 @@ happier little group one may seek long and far in vain.
 
 
 
-  <chapnum number= "17"> CHAPTER XVII.</chapnum>
+   <chapnum number="17">CHAPTER XVII.</chapnum>
 
   <chaptitle name="THE STREET ARAB"> THE STREET ARAB.</chaptitle>
 
 
-<narrative>Not all the barriers erected by society against its nether life, not
+<chapter>Not all the barriers erected by society against its nether life, not
 the labor of unnumbered societies for the rescue and relief of its
 outcast waifs, can dam the stream of homelessness that issues from a
 source where the very name of home is a mockery. The Street Arab is
@@ -5105,9 +5105,9 @@ are alone in the world. The unmerciful "guying" the good man would
 receive, who went to them with such a programme, would soon convince
 him that that sort of pity was wasted, and would very likely give him
 the idea that they were a set of hardened little scoundrels, quite
-beyond the reach of missionary effort.</narrative>
+beyond the reach of missionary effort.
 
-<narrative>But that would only be his second mistake. The Street Arab has all the
+But that would only be his second mistake. The Street Arab has all the
 faults and all the virtues of the lawless life he leads. Vagabond that
 he is, acknowledging no authority and owing no allegiance to anybody or
 anything, with his grimy fist raised against society whenever it tries
@@ -5123,7 +5123,7 @@ lawyers all over the country, statesmen in some instances of national
 repute, bear evidence in their lives to the potency of such missionary
 efforts. There is scarcely a learned profession, or branch of honorable
 business, that has not in the last twenty years borrowed some of its
-brightest light from the poverty and gloom of New York's streets.</narrative>
+brightest light from the poverty and gloom of New York's streets.
 
 Anyone, whom business or curiosity has taken through <location name= "Park Row"/>Park Row or across
 <location name= "Printing House Square"/><children>Printing House Square in the midnight hour, when the air is filled with
@@ -5160,7 +5160,7 @@ herding under the shore-end of one of the East River banana docks,
 where they had fitted up a regular club-room that was shared by thirty
 or forty homeless boys and about a million rats.</children>
 
-<narrative>Newspaper Row is merely their headquarters. They are to be found all
+Newspaper Row is merely their headquarters. They are to be found all
 over the city, these Street Arabs, where the neighborhood offers a
 chance of picking up a living in the daytime and of "turning in"
 at night with a promise of security from surprise. In warm weather
@@ -5170,7 +5170,7 @@ nest once in the end of a big iron pipe up by the Harlem Bridge,
 and an old boiler at the East River served as an elegant flat for
 another couple, who kept house there with a thief the police had long
 sought, little suspecting that he was hiding under their very noses
-for months together.</narrative> <children>When the Children's Aid Society first opened
+for months together. <children>When the Children's Aid Society first opened
 its lodging-houses, and with some difficulty persuaded the boys that
 their charity was no "pious dodge" to trap them into a treasonable
 "Sunday-school racket," its managers overheard a laughable discussion
@@ -5306,7 +5306,7 @@ fresh start.</children>
   <illustration title= " GETTING READY FOR SUPPER IN THE NEWSBOYS' LODGING HOUSE.">
     [Illustration: GETTING READY FOR SUPPER IN THE NEWSBOYS' LODGING HOUSE.]</illustration>
 
-<narrative>I tried one night, not with the best of success I confess, to
+I tried one night, not with the best of success I confess, to
 photograph the boys in their wash-room, while they were cleaning up
 for supper. They were quite turbulent, to the disgust of one of their
 number who assumed, unasked, the office of general manager of the show,
@@ -5317,7 +5317,7 @@ picture."
 "Yes," I said, "but it isn't in them, I suppose."
 
 "No, b'gosh!" said he, lapsing suddenly from grace under the
-provocation, "them kids ain't got no sense, nohow!"</narrative>
+provocation, "them kids ain't got no sense, nohow!"
 
 <conditions type= "living">The Society maintains five of these boys' lodging houses, and one
 for girls, in the city. The <location name= "Duane Street Lodging House">Duane Street Lodging House</location> alone has
@@ -5347,7 +5347,7 @@ is contrasted with the showing of $1,337.21 deposited in the school
 savings banks by 1,745 pupils, </children>something like an adequate idea is
 gained of the scope of the Society's work in the city.</conditions>
 
-<immigrants group= "unknown">A large share of it, in a sense the largest, certainly that productive
+<immigrants group="unknown">A large share of it, in a sense the largest, certainly that productive
 of the happiest results, lies outside of the city, however. From the
 lodging-houses and the schools are drawn the battalions of young
 emigrants that go every year to homes in the Far West, to grow up
@@ -5398,7 +5398,7 @@ fitting them out with artificial limbs.</charity>
 Farther uptown than any reared by the Children's Aid Society, in
 Sixty-seventh Street, stands a lodging-house intended for boys of a
 somewhat larger growth than most of those whom the Society shelters.
-<work job= "construction">Unlike the others, too, it was built by the actual labor of the young
+<work job="construction">Unlike the others, too, it was built by the actual labor of the young
 men it was designed to benefit.</work> In the day when more of the boys
 from our streets shall find their way to it and to the New York Trade
 Schools, of which it is a kind of home annex, we shall be in a fair
@@ -5434,10 +5434,10 @@ York Street Arab, of the native breed at least.</chapter>
                            <chaptitle name= "THE REIGN OF RUM">THE REIGN OF RUM.</chaptitle>
 
 
-<narrative>Where God builds a church the devil builds next door--a saloon, is
+<chapter>Where God builds a church the devil builds next door--a saloon, is
 an old saying that has lost its point in New York. Either the devil
 was on the ground first, or he has been doing a good deal more in the
-way of building.</narrative> <vice type= "alcohol">I tried once to find out how the account stood, and
+way of building. <vice type= "alcohol">I tried once to find out how the account stood, and
 counted to 111 Protestant churches, chapels, and places of worship of
 every kind below Fourteenth Street, 4,065 saloons. The worst half of
 the tenement population lives down there, and it has to this day the
@@ -5561,7 +5561,7 @@ and low; but it was not until Monday morning, when the shop was opened,
 that he was found, killed and half-eaten by the rats that overran the
 place.</death>
 
-<narrative>All the evil the saloon does in breeding poverty and in corrupting
+All the evil the saloon does in breeding poverty and in corrupting
 politics; all the suffering it brings into the lives of its thousands
 of innocent victims, the wives and children of drunkards it sends forth
 to curse the community; its fostering of crime and its shielding of
@@ -5579,7 +5579,7 @@ for the boy, once its blighting grip is upon him. Thenceforward the
 logic of the slums, that the world which gave him poverty and ignorance
 for his portion "owes him a living," is his creed, and the career of
 the "tough" lies open before him, a beaten track to be blindly followed
-to a bad end in the wake of the growler.</narrative></chapter>
+to a bad end in the wake of the growler.</chapter>
 
 
 
@@ -5620,7 +5620,7 @@ share toward keeping up its evil traditions and inflaming the ambition
 of its members to be as bad as the worst. The gang is the ripe fruit
 of tenement-house growth. It was born there, endowed with a heritage
 of instinctive hostility to restraint by a generation that sacrificed
-home to freedom, or left its country for its country's good.</crime> <narrative>The
+home to freedom, or left its country for its country's good.</crime> The
 tenement received and nursed the seed. The intensity of the American
 temper stood sponsor to the murderer in what would have been the common
 "bruiser" of a more phlegmatic clime. New York's tough represents the
@@ -5631,16 +5631,16 @@ conditions of the tenements from which they sprang. Murder is as
 congenial to Cherry Street or to Battle Row, as quiet and order to
 Murray Hill. The "assimilation" of Europe's oppressed hordes, upon
 which our Fourth of July orators are fond of dwelling, is perfect. The
-product is our own.</narrative>
+product is our own.
 
-<narrative>Such is the genesis of New York's gangs. Their history is not so easily
+Such is the genesis of New York's gangs. Their history is not so easily
 written. It would embrace the largest share of our city's criminal
 history for two generations back, every page of it dyed red with blood.
 The guillotine Paris set up a century ago to avenge its wrongs was
 not more relentless, or less discriminating, than this Nemesis of New
 York. The difference is of intent. Murder with that was the serious
 purpose; with ours it is the careless incident, the wanton brutality of
-the moment.</narrative> <crime type= "murder">Bravado and robbery are the real purposes of the gangs; the
+the moment. <crime type= "murder">Bravado and robbery are the real purposes of the gangs; the
 former prompts the attack upon the policeman, the latter that upon the
 citizen. Within a single week last spring, the newspapers recorded six
 murderous assaults on unoffending people, committed by young highwaymen
@@ -5670,7 +5670,7 @@ sanctuary in which to plot fresh outrages. The more notorious he is,
 the warmer the welcome, and if he has "done" his man he is by common
 consent accorded the leadership in his new field.</crime>
 
-<narrative>From all this it might be inferred that the New York tough is a
+From all this it might be inferred that the New York tough is a
 very fierce individual, of indomitable courage and naturally as
 blood-thirsty as a tiger. On the contrary he is an arrant coward. His
 instincts of ferocity are those of the wolf rather than the tiger.
@@ -5696,7 +5696,7 @@ training and under different social conditions. Ready wit he has at all
 times, and there is less meanness in his make-up than in that of the
 bully of the London slums; but an intense love of show and applause,
 that carries him to any length of bravado, which his twin-brother
-across the sea entirely lacks.</narrative> <crime type= "murder">I have a very vivid recollection of
+across the sea entirely lacks. <crime type= "murder">I have a very vivid recollection of
 seeing one of his tribe, a robber and murderer before he was nineteen,
 go to the gallows unmoved, all fear of the rope overcome, as it seemed,
 by the secret, exultant pride of being the centre of a first-class
@@ -5730,7 +5730,7 @@ his way, likely enough is lying asleep in a hallway.</crime> <work job= "boilerm
 an apprenticeship on copper-bottom wash-boilers and like articles
 found lying around loose, and capable of being converted into cash
 enough to give the growler a trip or two; but his first venture at
-robbery moves him up into full fellowship at once.</work> <narrative>He is no longer
+robbery moves him up into full fellowship at once.</work> He is no longer
 a "kid," though his years may be few, but a tough with the rest. He
 may even in time--he is reasonably certain of it--get his name in the
 papers as a murderous scoundrel, and have his cup of glory filled
@@ -5760,7 +5760,7 @@ the band were so impressed with the importance of this exhibition
 that they insisted on crowding into the picture by climbing upon the
 shed, sitting on the roof with their feet dangling over the edge, and
 disposing themselves in every imaginable manner within view, as they
-thought.</narrative> <crime type= "robbery">Lest any reader be led into the error of supposing them to
+thought. <crime type= "robbery">Lest any reader be led into the error of supposing them to
 have been harmless young fellows enjoying themselves in peace, let me
 say that within half an hour after our meeting, when I called at the
 police station three blocks away, I found there two of my friends of
@@ -5770,8 +5770,8 @@ as they put it, "just for fun. The sheeny cum along an' the saw was
 there, an' we socked it to him." The prisoners were described to me by
 the police as Dennis, "the Bum," and "Mud" Foley.</crime>
 
-<narrative>It is not always that their little diversions end as harmlessly as did
-this, even from the standpoint of the Jew, who was pretty badly hurt.</narrative>
+It is not always that their little diversions end as harmlessly as did
+this, even from the standpoint of the Jew, who was pretty badly hurt.
 <crime type= "murder">Not far from the preserves of the Montgomery Guards, in <location name= "Poverty Gap">Poverty Gap,</location>
 directly opposite the scene of the murder to which I have referred in
 a note explaining the picture of the Cunningham family (p. 169), a
@@ -5885,9 +5885,9 @@ Children enumerates, as "a few typical cases," eighteen "professional
 cracksmen," between nine and fifteen years old, who had been caught
 with burglars' tools, or in the act of robbery. Four of them, hardly
 yet in long trousers, had "held up" a wayfarer in the public street and
-robbed him of $73. <crime type= "murder">One, aged sixteen, "was the leader of a noted gang
+robbed him of $73.</children> <crime type= "murder">One, aged sixteen, "was the leader of a noted gang
 of young robbers in Forty-ninth Street. He committed murder, for which
-he is now serving a term of nineteen years in State's Prison."</crime> Four of
+he is now serving a term of nineteen years in State's Prison."</crime> <children>Four of
 the eighteen were girls and quite as bad as the worst. In a few years
 they would have been living with the toughs of their choice without the
 ceremony of a marriage, egging them on by their pride in their lawless
@@ -5948,7 +5948,7 @@ returns he is a "speculator." If, when he passes around the hat for
 "voluntary" contributions, any storekeeper should have the temerity
 to refuse to chip in, he may look for a visit from the gang on the
 first dark night, and account himself lucky if his place escapes
-being altogether wrecked.</crime> <narrative>The Hell's Kitchen Gang and the Rag Gang
+being altogether wrecked.</crime> The Hell's Kitchen Gang and the Rag Gang
 have both distinguished themselves within recent times by blowing up
 objectionable stores with stolen gunpowder. But if no such episode mar
 the celebration, the excursion comes off and is the occasion for a
@@ -5965,9 +5965,9 @@ the peace was not broken on the Hudson that day, at least not ashore.
 It is good cause for congratulation that the worst of all forms of
 recreation popular among the city's toughs, the moonlight picnic, has
 been effectually discouraged. Its opportunities for disgraceful revelry
-and immorality were unrivalled anywhere.</narrative>
+and immorality were unrivalled anywhere.
 
-<narrative>In spite of influence and protection, the tough reaches eventually
+In spite of influence and protection, the tough reaches eventually
 the end of his rope. Occasionally--not too often--there is a noose on
 it. If not, the world that owes him a living, according to his creed,
 will insist on his earning it on the safe side of a prison wall. A
@@ -5998,7 +5998,7 @@ protest, even the tough has not lived in vain. This measure of credit
 at least should be accorded him, that, with or without his good-will,
 he has been a factor in urging on the battle against the slums that
 bred him. It is a fight in which eternal vigilance is truly the price
-of liberty and the preservation of society.</narrative></chapter>
+of liberty and the preservation of society.</chapter>
 
 
 
@@ -6008,13 +6008,13 @@ of liberty and the preservation of society.</narrative></chapter>
   <chaptitle name= "THE WORKING GIRLS OF NEW YORK.">THE WORKING GIRLS OF NEW YORK.</chaptitle>
 
 
-<narrative>Of the harvest of tares, sown in iniquity and reaped in wrath, the
+<chapter>Of the harvest of tares, sown in iniquity and reaped in wrath, the
 police returns tell the story. The pen that wrote the "Song of the
 Shirt" is needed to tell of the sad and toil-worn lives of New York's
 working-women. The cry echoes by night and by day through its tenements:
 
       Oh, God! that bread should be so dear,
-      And flesh and blood so cheap!</narrative>
+      And flesh and blood so cheap!
 
 <conditions type= "working">Six months have not passed since at a great public meeting in this
 city, the Working Women's Society reported: "It is a known fact that
@@ -6023,7 +6023,7 @@ woman's wages have no limit, since the paths of shame are always
 open to her. It is simply impossible for any woman to live without
 assistance on the low salary a saleswoman earns, without depriving
 herself of real necessities.... It is inevitable that they must in
-many instances resort to evil." <death cause= "suicide">It was only a few brief weeks before
+many instances resort to evil." </conditions><death cause= "suicide">It was only a few brief weeks before
 that verdict was uttered, that the community was shocked by the story
 of a gentle and refined woman who, left in direst poverty to earn her
 own living alone among strangers, threw herself from her attic window,
@@ -6034,12 +6034,12 @@ her weary errand, and the only living wages that were offered her were
 the wages of sin. The ink was not dry upon her letter before a woman in
 an East Side tenement wrote down her reason for self-murder: "Weakness,
 sleeplessness, and yet obliged to work. My strength fails me. Sing
-at my coffin: 'Where does the soul find a home and rest?'"</death> <narrative>Her story
+at my coffin: 'Where does the soul find a home and rest?'"</death> <conditions type="working">Her story
 may be found as one of two typical "cases of despair" in one little
 church community, in the _City Mission Society's Monthly_ for last
 February. It is a story that has many parallels in the experience of
 every missionary, every police reporter and every family doctor whose
-practice is among the poor.</narrative></conditions>
+practice is among the poor.</conditions>
 
 <conditions type= "working">It is estimated that at least one hundred and fifty thousand women
 and girls earn their own living in New York; but there is reason to
@@ -6158,9 +6158,9 @@ finest custom work is all there is left for her to do.</conditions>
 able to make from eight to ten, the common run five or six--neckties
 at from 25 to 75 cents a dozen, with a dozen as a good day's work, are
 specimens of women's wages. And yet people persist in wondering at the
-poor quality of work done in the tenements! <immigrants nationality= "Italian">Italian cheap labor has
+poor quality of work done in the tenements!</conditions> <immigrants nationality= "Italian">Italian cheap labor has
 come of late also to possess this poor field, with the sweater in its
-train.</immigrants> There is scarce a branch of woman's work outside of the home
+train.</immigrants> <conditions type="working">There is scarce a branch of woman's work outside of the home
 in which wages, long since at low-water mark, have not fallen to the
 point of actual starvation. A case was brought to my notice recently
 by a woman doctor, whose heart as well as her life-work is with the
@@ -6184,9 +6184,9 @@ West Side tenements. An old woman had just fallen on the doorstep,
 stricken with paralysis. The doctor said she would never again move her
 right hand or foot. The whole side was dead. By her bedside, in their
 cheerless room, sat the patient's aged sister, a hopeless cripple, in
-dumb despair. <immigrants nationality= "Irish">Forty years ago the sisters had come, five in number
+dumb despair.</conditions> <immigrants nationality= "Irish">Forty years ago the sisters had come, five in number
 then, with their mother, from the North of Ireland to make their home
-and earn a living among strangers.</immigrants> They were lace embroiderers and
+and earn a living among strangers.</immigrants> <conditions type="working">They were lace embroiderers and
 found work easily at good wages. All the rest had died as the years
 went by. The two remained and, firmly resolved to lead an honest life,
 worked on though wages fell and fell as age and toil stiffened their
@@ -6198,7 +6198,7 @@ the work that was to keep them through the holidays, the battle was
 over at last. There was before them starvation, or the poor-house. And
 the proud spirits of the sisters, helpless now, quailed at the outlook.</conditions>
 
-<narrative>These were old, with life behind them. For them nothing was left but to
+These were old, with life behind them. For them nothing was left but to
 sit in the shadow and wait. But of the thousands, who are travelling
 the road they trod to the end, with the hot blood of youth in their
 veins, with the love of life and of the beautiful world to which not
@@ -6208,9 +6208,9 @@ paths that have effaced the saving "limit," and to which it is declared
 to be "inevitable that they must in many instances resort." Let the
 moralist answer. Let the wise economist apply his rule of supply
 and demand, and let the answer be heard in this city of a thousand
-charities where justice goes begging.</narrative>
+charities where justice goes begging.
 
-<narrative>To the everlasting credit of New York's working-girl let it be said
+To the everlasting credit of New York's working-girl let it be said
 that, rough though her road be, all but hopeless her battle with life,
 only in the rarest instances does she go astray. As a class she is
 brave, virtuous, and true. New York's army of profligate women is not,
@@ -6229,7 +6229,7 @@ The organization of working girls' clubs, unions, and societies with a
 community of interests, despite the obstacles to such a movement, bears
 testimony to it, as to the devotion of the unselfish women who have
 made their poorer sisters' cause their own, and will yet wring from an
-unfair world the justice too long denied her.</narrative></chapter>
+unfair world the justice too long denied her.</chapter>
 
 
 
@@ -6239,7 +6239,7 @@ unfair world the justice too long denied her.</narrative></chapter>
   <chaptitle name="PAUPERISM IN THE TENEMENTS.">PAUPERISM IN THE TENEMENTS.</chaptitle>
 
 
-<charity>The reader who has followed with me the fate of the Other Half thus
+<chapter><charity>The reader who has followed with me the fate of the Other Half thus
 far, may not experience much of a shock at being told that in eight
 years 135,595 families in New York were registered as asking or
 receiving charity. Perhaps, however, the intelligence will rouse him
@@ -6311,7 +6311,7 @@ very atmosphere breathes beggary. More than a hundred and twenty pauper
 families have been reported from time to time as living in one such
 tenement.</conditions>
 
-<narrative>The truth is that pauperism grows in the tenements as naturally as
+The truth is that pauperism grows in the tenements as naturally as
 weeds in a garden lot. A moral distemper, like crime, it finds there
 its most fertile soil. All the surroundings of tenement-house life
 favor its growth, and where once it has taken root it is harder to
@@ -6329,9 +6329,9 @@ tenement, the destroyer of individuality and character everywhere.
 "In nine years," said a wise and charitable physician, sadly, to me,
 "I have known of but a single case of permanent improvement in a poor
 tenement family." I have known of some, whose experience, extending
-over an even longer stretch, was little better.</narrative>
+over an even longer stretch, was little better.
 
-<narrative>The beggar follows the "tough's" rule of life that the world owes him
+The beggar follows the "tough's" rule of life that the world owes him
 a living, but his scheme of collecting it stops short of violence. He
 has not the pluck to rob even a drunken man. His highest flights take
 in at most an unguarded clothes-line, or a little child sent to buy
@@ -6365,7 +6365,7 @@ regular pauper capitalists, able to draw their check for three thousand
 dollars, had they been so disposed. The woman was fined $250, a worse
 punishment undoubtedly than to have sent her to prison for the rest of
 her natural life. Her class has, unhappily, representatives in New York
-that have not yet been brought to grief.</narrative>
+that have not yet been brought to grief.
 
 <policing>Nothing short of making street begging a crime has availed to clear
 our city of this pest to an appreciable extent. By how much of an
@@ -6411,7 +6411,7 @@ him.</immigrants> The "native" twelve per cent. represent the result of this
 process, the hereditary beggar of the second or third generation in the
 slums.
 
-<reform>The blind beggar alone is winked at in New York's streets, because the
+The blind beggar alone is winked at in New York's streets, because the
 authorities do not know what else to do with him. There is no provision
 for him anywhere after he is old enough to strike out for himself.
 The annual pittance of thirty or forty dollars which he receives
@@ -6437,7 +6437,7 @@ memento of his rascality. There was another of his tribe, a woman, who
 begged for years with a deformed child in her arms, which she was found
 to have hired at an almshouse in Genoa for fifteen francs a month. It
 was a good investment, for she proved to be possessed of a comfortable
-fortune.</reform> <children>Some time before that, the Society for the Prevention of
+fortune. <children>Some time before that, the Society for the Prevention of
 Cruelty to Children, that found her out, had broken up the dreadful
 padrone system, a real slave trade in Italian children, who were
 bought of poor parents across the sea and made to beg their way on
@@ -6531,7 +6531,7 @@ ever will be.</conditions></chapter>
   <chaptitle name= "THE WRECKS AND THE WASTE.">THE WRECKS AND THE WASTE.</chaptitle>
 
 
-<policing>Pauperdom is to blame for the unjust yoking of poverty with punishment,
+<chapter><policing>Pauperdom is to blame for the unjust yoking of poverty with punishment,
 "charities" with "correction," in our municipal ministering to the
 needs of the Nether Half. The shadow of the workhouse points like a
 scornful finger toward its neighbor, the almshouse, when the sun sets
@@ -6589,7 +6589,7 @@ well is too much for these thousands.</policing>
 <footnote number= "22">[Footnote 22: In printing-offices the broken, worn-out, and useless
 type is thrown into the "hell-box," to be recast at the foundry.]</footnote>
 
-<conditions= "living">Rows of old women, some smoking stumpy, black clay-pipes, others
+<conditions type= "living">Rows of old women, some smoking stumpy, black clay-pipes, others
 knitting or idling, all grumbling, sit or stand under the trees that
 hedge in the almshouse, or limp about in the sunshine, leaning on
 crutches or bean-pole staffs. They are a "growler-gang" of another
@@ -6636,14 +6636,14 @@ crowded on at once, 'where shall the money come from?' Natural feelings
 and affections are smothered in the tenements." The doctor's experience
 furnished a sadly appropriate text for the priest's sermon.</conditions>
 
-<reform>Pitiful as these are, sights and sounds infinitely more saddening
+Pitiful as these are, sights and sounds infinitely more saddening
 await us beyond the gate that shuts this world of woe off from one
 whence the light of hope and reason have gone out together. The
 shuffling of many feet on the macadamized roads heralds the approach
 of a host of women, hundreds upon hundreds--beyond the turn in the
 road they still keep coming, marching with the faltering step, the
 unseeing look and the incessant, senseless chatter that betrays the
-darkened mind.</reform> <disease type= "mental illness">The lunatic women of the Blackwell's Island Asylum are
+darkened mind. <disease type= "mental illness">The lunatic women of the Blackwell's Island Asylum are
 taking their afternoon walk. Beyond, on the wide lawn, moves another
 still stranger procession, a file of women in the asylum dress of dull
 gray, hitched to a queer little wagon that, with its gaudy adornments,
@@ -6745,7 +6745,7 @@ by direct taxation, was last year $7,156,112.94.</policing></chapter>
   <chaptitle name= "THE MAN WITH THE KNIFE.">THE MAN WITH THE KNIFE.</chaptitle>
 
 
-<crime type= "murder">A man stood at the corner of Fifth Avenue and Fourteenth Street the
+<chapter><crime type= "murder">A man stood at the corner of Fifth Avenue and Fourteenth Street the
 other day, looking gloomily at the carriages that rolled by, carrying
 the wealth and fashion of the avenues to and from the big stores down
 town. He was poor, and hungry, and ragged. This thought was in his
@@ -6869,7 +6869,7 @@ expect to find a sound core in a rotten fruit."</policing></chapter>
   <chaptitle name= "WHAT HAS BEEN DONE.">WHAT HAS BEEN DONE.</chaptitle>
 
 
-<policing>In twenty years what has been done in New York to solve the
+<chapter><policing>In twenty years what has been done in New York to solve the
 tenement-house problem?
 
 The law has done what it could. That was not always a great deal,
@@ -6899,7 +6899,7 @@ life in the tenements--the dearth of water in the hot summer days--will
 also have been remedied, and a long step taken toward the moral and
 physical redemption of their tenants.</policing>
 
-  <illustration title= "EVOLUTION OF THE TENEMENT IN TWENTY YEARS.">[Illustration: EVOLUTION OF THE TENEMENT IN TWENTY YEARS.</illustration>
+  <illustration name= "EVOLUTION OF THE TENEMENT IN TWENTY YEARS.">[Illustration: EVOLUTION OF THE TENEMENT IN TWENTY YEARS.</illustration>
 
                  Old Style Tenement.
 
@@ -7227,7 +7227,7 @@ hundred fold.</charity> </chapter>
   <chaptitle name= "HOW THE CASE STANDS.">HOW THE CASE STANDS.</chaptitle>
 
 
-<chapter><narrative>What, then, are the bald facts with which we have to deal in New York?
+<chapter>What, then, are the bald facts with which we have to deal in New York?
 
 I. That we have a tremendous, ever swelling crowd of wage-earners which
 it is our business to house decently.
@@ -7253,7 +7253,7 @@ VII. That it will pay to do it. As an investment, I mean, and in hard
 cash. This I shall immediately proceed to prove.
 
 VIII. That the tenement has come to stay, and must itself be the
-solution of the problem with which it confronts us.</narrative>
+solution of the problem with which it confronts us.
 
 <conditions type= "housing">his is the fact from which we cannot get away, however we may deplore
 it. Doubtless the best would be to get rid of it altogether; but as
@@ -7584,9 +7584,9 @@ the power to change, gradually but surely, the character of a whole bad
 block. It sets up a standard to which the neighborhood must rise, if it
 cannot succeed in dragging it down to its own low level.</conditions></chapter>
 
-       *       *       *       *       *
+     <ending>  *       *       *       *       *
 
-<narrative>And so this task, too, has come to an end. Whatsoever a man soweth,
+And so this task, too, has come to an end. Whatsoever a man soweth,
 that shall he also reap. I have aimed to tell the truth as I saw it.
 If this book shall have borne ever so feeble a hand in garnering a
 harvest of justice, it has served its purpose. While I was writing
@@ -7614,14 +7614,14 @@ the poet, with whose lines I prefaced this book, are truer to-day, have
 far deeper meaning to us, than when they were penned forty years ago:
 
           "--Think ye that building shall endure
-          Which shelters the noble and crushes the poor?"</narrative>
+          Which shelters the noble and crushes the poor?"</ending>
 
 
 
 
   <chaptitle name= "APPENDIX.">APPENDIX.</chaptitle>
 
-              STATISTICS BEARING ON THE TENEMENT PROBLEM.
+              <appendix>STATISTICS BEARING ON THE TENEMENT PROBLEM.
 
 
 Statistics of population were left out of the text in the hope that
@@ -7844,11 +7844,11 @@ streets 60 feet wide.
 
 Tenements or apartment houses must not be built over 80 feet high in
 streets wider than 60 feet.
+</appendix>
 
 
 
-
-Transcriber's Note
+<transcribersNote>Transcriber's Note
 
 Incidental inconsistencies of punctuation are resolved silently. The
 following list contains other textual issues that are encountered.
@@ -7864,7 +7864,7 @@ p.  82  caravanseries                 _sic_
 p. 107  tha[t/n]                      Corrected.
 
 p. 256  tantilizes                    _sic_
-
+</transcribersNote>
 
 
 </riis>
