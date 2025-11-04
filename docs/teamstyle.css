@@ -1,7 +1,5 @@
 body {
-
 background-color: #7c3030;
-
 color: #f0dc82;
 font-family: "Times New Roman";
 }
@@ -13,25 +11,21 @@ div{
   font-size: 25px;
 }
 
-img {
-  display: block;
-  margin: auto;
-  width: 50%;
-}
-
 h1 {
-  text-align: center;
-}
-
-p {
-  text-align: center;
+  text-align: left;
+  text-decoration: underline;
 }
 
 h2 {
-  text-align: center;
+  text-align: left;
+  font-style: italic;
 }
 
-
+p {
+  text-align: left;
+  font-size: 20px;
+  text-indent: 30px;
+}
 
 a {
   color: #f0dc82;
