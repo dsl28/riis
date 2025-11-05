@@ -10,20 +10,55 @@
         <xsl:result-document method="xhtml" indent="yes" href="../docs/SLC_excerciseE.html">
             <html>
                 <head>
-                    <title></title>
+                    <title># of characters contained within each tag per chapter.</title>
                     <link/>
                 </head>
                 <body>
+                    <!-- this table counts the length of the sections about crime-->
                     <table>
                         <tr>
-                            <th>Lable</th>
-                            <th>string-length</th>
+                            <th>Chapter</th>
+                            <th>length of crime sections</th>
+                        </tr>
+                        <!-- this for each rule matches on each chapter element-->
+                        <xsl:for-each select="//chapter">
+                            <tr>
+                                <!-- this first table data finds the number of each chapter and places it into the first box-->
+                                <td>chapter <xsl:value-of select="position()"/></td>
+                                <!-- this second table data counts the number of characters within the specified tag and puts that number into the second box-->
+                                <td><xsl:value-of select=".//crime =>string-join() =>string-length()"/></td>
+                            </tr>
+                           
+                        </xsl:for-each>
+                        
+                    </table>
+                    <!-- this counts the vice sections-->
+                    <table>
+                        <tr>
+                            <th>Chapter</th>
+                            <th>length of vice sections</th>
                         </tr>
                         <xsl:for-each select="//chapter">
                             <tr>
                                 <td>chapter <xsl:value-of select="position()"/></td>
-                                <td><xsl:value-of select=".//crime =>string-join() =>string-length()"/></td>
+                                <td><xsl:value-of select=".//vice =>string-join() =>string-length()"/></td>
                             </tr>
+                            
+                        </xsl:for-each>
+                        
+                    </table>
+                    <!-- this counts the condition sections-->
+                    <table>
+                        <tr>
+                            <th>Chapter</th>
+                            <th>length of conditions sections</th>
+                        </tr>
+                        <xsl:for-each select="//chapter">
+                            <tr>
+                                <td>chapter <xsl:value-of select="position()"/></td>
+                                <td><xsl:value-of select=".//conditions =>string-join() =>string-length()"/></td>
+                            </tr>
+                            
                         </xsl:for-each>
                         
                     </table>
