@@ -2,7 +2,7 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = riis
 
-riis = element riis {(booktitle|illustration|titlepage|copyrightpage|preface|tableofcontents|listofillustrations|quote|introduction|chapter|appendix|ending|transcribersNote)+}
+riis = element riis {(booktitle|illustration|titlepage|copyrightpage|preface|tableofcontents|listofillustrations|quote|introduction|chapter|ending|appendix|transcribersNote)+}
 
 booktitle = element booktitle {text}
 
