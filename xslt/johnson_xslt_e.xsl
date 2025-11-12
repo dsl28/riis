@@ -3,6 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
     exclude-result-prefixes="xs math"
+    xmlns="http://www.w3.org/1999/xhtml"
     version="3.0">
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes"/>
     <xsl:variable name="Riis" select="document('../xml/currentriis.xml')"/>
@@ -14,7 +15,7 @@
                     <title>Cause and Frequency</title>
                     <link/>
                     <body>
-                        Causes of Death in Each Chapter
+                        <h1>Causes of Death in Each Chapter</h1>
                         <table border="1"><tr><th>Cause</th><th>Number</th></tr>
                         <xsl:for-each-group select=".//death" group-by="@cause"> 
                             <xsl:sort select="count(current-group())" order="descending"/>
