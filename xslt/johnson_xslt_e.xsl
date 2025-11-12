@@ -11,15 +11,19 @@
         <xsl:result-document method="xhtml" indent="yes" href="..docs/johnson_exercise_e.html">
             <html>
                 <head>
-                    <title>Number of Deaths</title>
+                    <title>Cause and Frequency</title>
                     <link/>
                     <body>
-                        <xsl:for-each select=".//death"> <xsl:if test="(./cause)">
-                            <xsl:apply-templates select="(cause)">
-                                
-                            </xsl:apply-templates>                            
-                        </xsl:if>                           
-                        </xsl:for-each>                      
+                        Causes of Death in Each Chapter
+                        <table border="1"><tr><th>Cause</th><th>Number</th></tr>
+                        <xsl:for-each-group select=".//death" group-by="@cause"> 
+                            <xsl:sort select="count(current-group())" order="descending"/>
+                            <tr>
+                            <td><xsl:apply-templates select="@cause"/></td>
+                                <td><xsl:value-of select="count(current-group())"/></td>
+                            </tr>                                                                                       
+                        </xsl:for-each-group>  
+                        </table>   
                     </body>
                 </head>
             </html>
