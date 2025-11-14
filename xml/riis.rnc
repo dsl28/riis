@@ -14,7 +14,7 @@ author = element author {text}
 
 copyrightpage = element copyrightpage {text}
 
-preface = element preface {text}
+preface = element preface {(p|text)+}
 
 tableofcontents = element tableofcontents {text}
 
@@ -59,10 +59,10 @@ children = element children {text}
 
 charity = element charity {text}
 
-appendix = element appendix {(text|footnote|table)+}
+appendix = element appendix {(text|footnote|table|p)+}
 table = element table {id, text}
 id = attribute id {text}
 
-ending = element ending {text}
+ending = element ending {(p|text)+}
 
-transcribersNote= element transcribersNote {text}
+transcribersNote= element transcribersNote {(p|text)+}

@@ -43,7 +43,7 @@
                                 <preface>PREFACE.
 
 
-The belief that every man's experience ought to be worth something to
+<p>The belief that every man's experience ought to be worth something to
 the community from which he drew it, no matter what that experience may
 be, so long as it was gleaned along the line of some decent, honest
 work, made me begin this book. With the result before him, the reader
@@ -60,7 +60,7 @@ know. Most of all, I owe in this, as in all things else, to the womanly
 sympathy and the loving companionship of my dear wife, ever my chief
 helper, my wisest counsellor, and my gentlest critic.
 
-                                                                J. A. R.</preface>
+                                                                J. A. R.</p></preface>
 
 
 
@@ -7626,7 +7626,7 @@ cannot succeed in dragging it down to its own low level.</p></chapter>
 
      <ending>  *       *       *       *       *
 
-And so this task, too, has come to an end. Whatsoever a man soweth,
+<p>And so this task, too, has come to an end. Whatsoever a man soweth,
 that shall he also reap. I have aimed to tell the truth as I saw it.
 If this book shall have borne ever so feeble a hand in garnering a
 harvest of justice, it has served its purpose. While I was writing
@@ -7654,7 +7654,7 @@ the poet, with whose lines I prefaced this book, are truer to-day, have
 far deeper meaning to us, than when they were penned forty years ago:
 
           "--Think ye that building shall endure
-          Which shelters the noble and crushes the poor?"</ending>
+          Which shelters the noble and crushes the poor?"</p></ending>
 
 
 
@@ -7664,7 +7664,7 @@ far deeper meaning to us, than when they were penned forty years ago:
               STATISTICS BEARING ON THE TENEMENT PROBLEM.
 
 
-Statistics of population were left out of the text in the hope that
+<p>Statistics of population were left out of the text in the hope that
 the results of this year's census would be available as a basis for
 calculation before the book went to press. They are now at hand,
 but their correctness is disputed. The statisticians of the Health
@@ -7677,9 +7677,9 @@ quarrel of official figures may be judged from this one fact, that the
 ordinarily conservative and careful calculations of the Sanitary Bureau
 make the death-rate of New York, in 1889, 25.19 for the thousand of
 a population of 1,575,073, while the census would make it 26.76 in a
-population of 1,482,273.
+population of 1,482,273.</p>
 
- <table id="2">Population of New York, 1880 (census)                       1,206,299
+ Population of New York, 1880 (census)                       1,206,299
       "        London, 1881       "                          3,816,483
       "        Philadelphia, 1880 "                            846,980
       "        Brooklyn, 1880     "                            566,689
@@ -7691,7 +7691,7 @@ population of 1,482,273.
       "        Boston,         "   "                           420,000
       "        New York under five years of age, in 1880       140,327
       "            "     "        "        "        1889
-                 (estimated)                                   182,770</table>
+                 (estimated)                                   182,770
 
  Population of tenements in New York in 1869[25] (census)      468,492
       "            "     "      "       1888[26]    "        1,093,701
@@ -7781,25 +7781,25 @@ or more]</footnote>
 <footnote number="26">[Footnote 26: In 1888, a tenement was a house occupied by three
 families or more]</footnote>
 
-For every person who dies there are always two disabled by illness, so
+<p>For every person who dies there are always two disabled by illness, so
 that there was a regular average of 79,358 New Yorkers on the sick-list
 at any moment last year. It is usual to count 28 cases of sickness the
 year round for every death, and this would give a total for the year
-1889 of 1,111,082 of illness of all sorts.
+1889 of 1,111,082 of illness of all sorts.</p>
 
- Number of deaths in tenements in New York, 1869               13,285
+ <table id="">Number of deaths in tenements in New York, 1869               13,285
     "         "    "     "      "    "      1888               24,842
  Death-rate in tenements in New York, 1869                      28.35
-     "       "     "      "    "      1888                      22.71
+     "       "     "      "    "      1888                      22.71</table>
 
-This is exclusive of deaths in institutions, properly referable to the
+<p>This is exclusive of deaths in institutions, properly referable to the
 tenements in most cases. The adult death-rate is found to decrease
 in the larger tenements of newer construction. The child mortality
 increases, reaching 114.04 per cent. of 1,000 living in houses
 containing between 60 and 80 tenants. From this point it decreases with
-the adult death-rate.
+the adult death-rate.</p>
 
- Number of deaths in prisons, New York, 1889                       85
+ <table id="">Number of deaths in prisons, New York, 1889                       85
     "       "        hospitals, New York, 1889                  6,102
     "       "        lunatic asylums, New York, 1889              448
     "       "        institutions for children, New York, 1889    522
@@ -7813,12 +7813,12 @@ the adult death-rate.
  Number of tenants weeded out of overcrowded tenements,
     in first half of 1890[27]                                   1,068
  Number of sick poor visited by summer corps of doctors,
-    New York, 1890                                             16,501
+    New York, 1890                                             16,501</table>
 
 <footnote number="27">[Footnote 27: These figures represent less than two hundred of the
 worst tenements below Houston Street.]</footnote>
 
-                           POLICE STATISTICS.
+                           <table id="">POLICE STATISTICS.
 
                                                      Males.   Females.
 
@@ -7836,10 +7836,10 @@ worst tenements below Houston Street.]</footnote>
  Found sick in the streets                                      1,211
  Number of pawnshops in city, 1889                                110
     "      cheap lodging-houses, 1889                             270
-    "      saloons, 1889                                        7,884
+    "      saloons, 1889                                        7,884</table>
 
 
-                              IMMIGRATION.
+                              <table id="">IMMIGRATION.
 
  Immigrants landed at Castle Garden in 20 years, ending
       with 1889                                             5,335,396
@@ -7862,9 +7862,9 @@ worst tenements below Houston Street.]</footnote>
  Hungary | 13,160 | 15,797 | 11,129 | 18,135 | 17,719 | 12,905 | 15,678
  Bohemia |  4,877 |  7,093 |  6,697 |  4,222 |  6,449 |  3,982 |  5,412
  --------+--------+--------+--------+--------+--------+--------+--------
+</table>
 
-
-                               TENEMENTS.
+                               <table id="">TENEMENTS.
 
  Number of tenements in New York, December 1, 1888               32,390
  Number built from June 1, 1888, to August 1, 1890                3,733
@@ -7872,25 +7872,25 @@ worst tenements below Houston Street.]</footnote>
  Total number of tenements, August 1, 1890                       37,316
  Estimated population of tenements, August 1, 1890            1,250,000
  Estimated number of children under five years in tenements,
-     1890                                                       163,712
+     1890                                                       163,712</table>
 
-Corner tenements may cover all of the lot, except 4 feet at the rear.
+<p>Corner tenements may cover all of the lot, except 4 feet at the rear.
 Tenements in the block may only cover seventy-eight per cent. of the
 lot. They must have a rear yard 10 feet wide, and air-shafts or open
-courts equal to twelve per cent. of the lot.
+courts equal to twelve per cent. of the lot.</p>
 
-Tenements or apartment houses must not be built over 70 feet high in
-streets 60 feet wide.
+<p>Tenements or apartment houses must not be built over 70 feet high in
+streets 60 feet wide.</p>
 
-Tenements or apartment houses must not be built over 80 feet high in
-streets wider than 60 feet.
+<p>Tenements or apartment houses must not be built over 80 feet high in
+streets wider than 60 feet.</p>
 </appendix>
 
 
 
 <transcribersNote>Transcriber's Note
 
-Incidental inconsistencies of punctuation are resolved silently. The
+<p>Incidental inconsistencies of punctuation are resolved silently. The
 following list contains other textual issues that are encountered.
 If there were no other correct instances of misspelled words (in
 current usage) they were allowed to stand.
@@ -7903,7 +7903,7 @@ p.  82  caravanseries                 _sic_
 
 p. 107  tha[t/n]                      Corrected.
 
-p. 256  tantilizes                    _sic_
+p. 256  tantilizes                    _sic_</p>
 </transcribersNote>
 
 
