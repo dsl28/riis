@@ -1821,7 +1821,7 @@ the alley itself, No. 59, nine dead were carried in 1888, five in
 baby coffins. Here is the record of the year for the whole block, as
 furnished by the Registrar of Vital Statistics, Dr. Roger S. Tracy:</death></p>
   
- <table>_Deaths and Death-rates in 1888 in Baxter and Mulberry Streets,
+ <table id="1">_Deaths and Death-rates in 1888 in Baxter and Mulberry Streets,
                    between Park and Bayard Streets._
 
  Key
@@ -7679,7 +7679,7 @@ make the death-rate of New York, in 1889, 25.19 for the thousand of
 a population of 1,575,073, while the census would make it 26.76 in a
 population of 1,482,273.
 
- Population of New York, 1880 (census)                       1,206,299
+ <table id="2">Population of New York, 1880 (census)                       1,206,299
       "        London, 1881       "                          3,816,483
       "        Philadelphia, 1880 "                            846,980
       "        Brooklyn, 1880     "                            566,689
@@ -7691,7 +7691,7 @@ population of 1,482,273.
       "        Boston,         "   "                           420,000
       "        New York under five years of age, in 1880       140,327
       "            "     "        "        "        1889
-                 (estimated)                                   182,770
+                 (estimated)                                   182,770</table>
 
  Population of tenements in New York in 1869[25] (census)      468,492
       "            "     "      "       1888[26]    "        1,093,701
@@ -7775,11 +7775,11 @@ population of 1,482,273.
       "        Brooklyn, 1889                                    22.5
       "        Boston, 1889                                     24.42
 
-[Footnote 25: In 1869, a tenement was a house occupied by four families
-or more]
+<footnote number="25">[Footnote 25: In 1869, a tenement was a house occupied by four families
+or more]</footnote>
 
-[Footnote 26: In 1888, a tenement was a house occupied by three
-families or more]
+<footnote number="26">[Footnote 26: In 1888, a tenement was a house occupied by three
+families or more]</footnote>
 
 For every person who dies there are always two disabled by illness, so
 that there was a regular average of 79,358 New Yorkers on the sick-list
@@ -7815,8 +7815,8 @@ the adult death-rate.
  Number of sick poor visited by summer corps of doctors,
     New York, 1890                                             16,501
 
-[Footnote 27: These figures represent less than two hundred of the
-worst tenements below Houston Street.]
+<footnote number="27">[Footnote 27: These figures represent less than two hundred of the
+worst tenements below Houston Street.]</footnote>
 
                            POLICE STATISTICS.
 

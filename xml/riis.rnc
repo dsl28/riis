@@ -54,13 +54,14 @@ job = attribute job {text}
 
 policing = element policing {text}
 
-table = element table {text|xsd:integer}
 
 children = element children {text}
 
 charity = element charity {text}
 
-appendix = element appendix {text|xsd:integer}
+appendix = element appendix {(text|footnote|table)+}
+table = element table {id, text}
+id = attribute id {text}
 
 ending = element ending {text}
 
