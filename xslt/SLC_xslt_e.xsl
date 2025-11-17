@@ -62,6 +62,67 @@
                         </xsl:for-each>
                         
                     </table>
+                    <!-- this counts the sections about immigrants -->
+                    <table>
+                        <tr>
+                            <th>Chapter</th>
+                            <th>length of immigrant sections</th>
+                        </tr>
+                        <xsl:for-each select="//chapter">
+                            <tr>
+                                <td>chapter <xsl:value-of select="position()"/></td>
+                                <td><xsl:value-of select=".//immigrants =>string-join() =>string-length()"/></td>
+                            </tr>
+                            
+                        </xsl:for-each>
+                        
+                    </table>
+                    <!-- this counts the section about disease -->
+                    <table>
+                        <tr>
+                            <th>Chapter</th>
+                            <th>length of disease sections</th>
+                        </tr>
+                        <xsl:for-each select="//chapter">
+                            <tr>
+                                <td>chapter <xsl:value-of select="position()"/></td>
+                                <td><xsl:value-of select=".//disease =>string-join() =>string-length()"/></td>
+                            </tr>
+                            
+                        </xsl:for-each>
+                        
+                    </table>
+                    
+                    <!-- this counts the section about work -->
+                    <table>
+                        <tr>
+                            <th>Chapter</th>
+                            <th>length of work sections</th>
+                        </tr>
+                        <xsl:for-each select="//chapter">
+                            <tr>
+                                <td>chapter <xsl:value-of select="position()"/></td>
+                                <td><xsl:value-of select=".//work =>string-join() =>string-length()"/></td>
+                            </tr>
+                            
+                        </xsl:for-each>
+                        
+                    </table>
+                    <!-- this counts the section about death -->
+                    <table>
+                        <tr>
+                            <th>Chapter</th>
+                            <th>length of death sections</th>
+                        </tr>
+                        <xsl:for-each select="//chapter">
+                            <tr>
+                                <td>chapter <xsl:value-of select="position()"/></td>
+                                <td><xsl:value-of select=".//death =>string-join() =>string-length()"/></td>
+                            </tr>
+                            
+                        </xsl:for-each>
+                        
+                    </table>
                 </body>
             </html>
         </xsl:result-document>
