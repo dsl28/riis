@@ -1,7 +1,7 @@
 body {
-background-color: #7c3030;
-color: #f0dc82;
-font-family: "Times New Roman";
+background-color: #495057;
+color: #ced4da;
+font-family: 'Courier New', monospace;
 }
 
 
@@ -28,5 +28,5 @@ p {
 }
 
 a {
-  color: #f0dc82;
+  color: #ced4da;
 }

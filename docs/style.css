@@ -1,9 +1,9 @@
 body {
 
-background-color: #7c3030;
+background-color: #495057;
 
-color: #f0dc82;
-font-family: "Times New Roman";
+color: #ced4da;
+font-family: 'Courier New', monospace;
 }
 
 
@@ -34,13 +34,14 @@ h2 {
 
 
 a {
-  color: #f0dc82;
+  color: #ced4da;
 }
 
 
 footer {
-    
+  color: #ced4da;  
   text-align:center;
+  font-family: "Times New Roman";
 padding: 20px;
 width: 100%;
  }
