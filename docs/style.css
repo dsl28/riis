@@ -41,7 +41,7 @@ a {
 footer {
   color: #ced4da;  
   text-align:center;
-  font-family: "Times New Roman";
+  font-family: 'Courier New', monospace;
 padding: 20px;
 width: 100%;
  }
