@@ -27,6 +27,7 @@
                                 <td>chapter <xsl:value-of select="position()"/></td>
                             </tr>    
                             <tr>
+                                <!-- these next parts count the length of each tag for each chapter-->
                                 <th>conditions</th>
                                 <td><xsl:value-of select=".//conditions =>string-join() =>string-length()"/></td>
                             </tr>
@@ -59,6 +60,11 @@
                         
                     </table>
                     
+                    <xsl:variable name="TagChart" select="document('SLC_excerciseE.html')"/>
+                    
+                    <!-- universal variables-->
+                    <xsl:variable name="xspacer" select="30"/>
+                    <xsl:variable name="yspacer" select="15"/>
                 </body>
             </html>
         </xsl:result-document>
