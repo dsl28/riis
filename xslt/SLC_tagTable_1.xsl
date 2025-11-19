@@ -65,6 +65,35 @@
                     <!-- universal variables-->
                     <xsl:variable name="xspacer" select="30"/>
                     <xsl:variable name="yspacer" select="15"/>
+                    <svg viewBox="0 0 1000 650">
+                        <g transform="translate(250,10)">
+                            <xsl:for-each-group select="//body//persName" group-by="@n">
+
+                                <!--whc: these are local variables, meaning they only operate on the current group in the for-each-group loop-->
+                                <xsl:variable name="pers-occurrence-count" select=""/>
+                                <xsl:variable name="person-sequence" select="position()"/>
+                                
+                                <!--whc: this creates each bar in the bar graph-->
+                                <line x1="0" x2="{$xspacer * $pers-occurrence-count}" 
+                                    y1="{$yspacer * $person-sequence}" y2="{$yspacer * $person-sequence}"
+                                    stroke-width="10" stroke="red"/>
+                                
+                                <!--whc: this labels each bar with the index number and name of each person-->
+                                <text x="-10" y="{$yspacer * $person-sequence}" text-anchor="end">
+                                    <xsl:value-of select="$person-sequence"/><xsl:text>: </xsl:text>
+                                    <xsl:apply-templates select="string()[1]"/></text>
+                                
+                                <!--whc: this places the count number after the end of each bar-->
+                                <text x="{$xspacer * $pers-occurrence-count + 10}" y="{$yspacer * $person-sequence}" text-anchor="right">
+                                    <xsl:value-of select="$pers-occurrence-count"/></text>
+                                
+                            </xsl:for-each-group>
+                            
+                            <!--whc: this creates the vertical reference line: note that it is OUTSIDE the for-loop-->
+                            <line x1="0" y1="0" x2="0" y2="{count(//body//persName=>distinct-values()) * $yspacer}" stroke="blue" stroke-width="1"/>
+                            
+                        </g>
+                    </svg>
                 </body>
             </html>
         </xsl:result-document>
