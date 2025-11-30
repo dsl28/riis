@@ -7679,7 +7679,7 @@ make the death-rate of New York, in 1889, 25.19 for the thousand of
 a population of 1,575,073, while the census would make it 26.76 in a
 population of 1,482,273.</p>
 
- Population of New York, 1880 (census)                       1,206,299
+ <table id="2">Population of New York, 1880 (census)                       1,206,299
       "        London, 1881       "                          3,816,483
       "        Philadelphia, 1880 "                            846,980
       "        Brooklyn, 1880     "                            566,689
@@ -7691,13 +7691,13 @@ population of 1,482,273.</p>
       "        Boston,         "   "                           420,000
       "        New York under five years of age, in 1880       140,327
       "            "     "        "        "        1889
-                 (estimated)                                   182,770
+                 (estimated)                                   182,770</table>
 
- Population of tenements in New York in 1869[25] (census)      468,492
+ <table id="3">Population of tenements in New York in 1869[25] (census)      468,492
       "            "     "      "       1888[26]    "        1,093,701
       "            "     "      "        " under five
-        years of age                                          143,243
- Population of New York in 1880 (census)                    1,206,299
+        years of age                                          143,243</table>
+ <table id="4">Population of New York in 1880 (census)                    1,206,299
       "        Manhattan Island in 1880 (census)            1,164,673
       "        Tenth Ward in 1880 (census)                     47,554
       "        Eleventh Ward   "     "                         68,778
@@ -7706,14 +7706,14 @@ population of 1,482,273.</p>
       "        Manhattan Island in 1890 (census)            1,440,101
       "        Tenth Ward in 1890 (census)                     57,514
       "        Eleventh Ward   "     "                         75,708
-      "        Thirteenth Ward in 1890 (census)                45,882
+      "        Thirteenth Ward in 1890 (census)                45,882</table>
 
- Number of acres in New York City                              24,890
+ <table id="5">Number of acres in New York City                              24,890
    "        "       Manhattan Island                           12,673
    "        "       Tenth Ward                                    110
    "        "       Eleventh Ward                                 196
-   "        "       Thirteenth Ward                               107
- Density of population per acre in 1880, New York City           48.4
+   "        "       Thirteenth Ward                               107</table>
+ <table id="6">Density of population per acre in 1880, New York City           48.4
  Density of population per acre in 1880, Manhattan Island        92.6
  Density of population per acre in 1880, Tenth Ward             432.3
  Density of population per acre in 1880, Eleventh Ward          350.9
@@ -7725,8 +7725,8 @@ population of 1,482,273.</p>
  Density of population per acre in 1890, Eleventh Ward
      (census)                                                  386.00
  Density of population per acre in 1890, Thirteenth Ward
-     (census)                                                   428.8
- Density of population to the square mile in 1880, New
+     (census)                                                   428.8</table>
+ <table id="7">Density of population to the square mile in 1880, New
      York City (census)                                        30,976
  Density of population to the square mile in 1880, Manhattan
      Island (census)                                           41,264
@@ -7745,35 +7745,35 @@ population of 1,482,273.</p>
  Density of population to the square mile in 1890, Eleventh
      Ward (census)                                            246,040
  Density of population to the square mile in 1890, Thirteenth
-     Ward (census)                                            274,432
- Number of persons to a dwelling in New York, 1880
+     Ward (census)                                            274,432</table>
+ <table id="8">Number of persons to a dwelling in New York, 1880
     (census)                                                    16.37
  Number of persons to a dwelling in London, 1881 (census)        7.9
  Number of persons to a dwelling in Philadelphia, 1880
     (census)                                                     5.79
  Number of persons to a dwelling in Brooklyn, 1880
     (census)                                                     9.11
- Number of persons to a dwelling in Boston, 1880 (census)        8.26
- Number of deaths in New York, 1880                            31,937
+ Number of persons to a dwelling in Boston, 1880 (census)        8.26</table>
+ <table id="9">Number of deaths in New York, 1880                            31,937
     "        "       London, 1881                              81,431
     "        "       Philadelphia, 1880                        17,711
     "        "       Brooklyn, 1880                            13,222
-    "        "       Boston, 1880                               8,612
- Death-rate of New York, 1880                                   26.47
+    "        "       Boston, 1880                               8,612</table>
+ <table id="10">Death-rate of New York, 1880                                   26.47
      "         London, 1881                                      21.3
      "         Philadelphia, 1880                               20.91
      "         Brooklyn, 1880                                   23.33
-     "         Boston, 1880                                     23.75
- Number of deaths in New York, 1889                            39,679
+     "         Boston, 1880                                     23.75</table>
+ <table id="11">Number of deaths in New York, 1889                            39,679
  Number of deaths in London, 1889                              75,683
    "         "       Philadelphia, 1889                        20,536
    "         "       Brooklyn, 1889                            18,288
-   "         "       Boston, 1889                              10,259
- Death-rate of New York, 1889                                   25.19
+   "         "       Boston, 1889                              10,259</table>
+ <table id="12">Death-rate of New York, 1889                                   25.19
       "        London, 1889                                      17.4
       "        Philadelphia, 1889                                19.7
       "        Brooklyn, 1889                                    22.5
-      "        Boston, 1889                                     24.42
+      "        Boston, 1889                                     24.42</table>
 
 <footnote number="25">[Footnote 25: In 1869, a tenement was a house occupied by four families
 or more]</footnote>
@@ -7787,7 +7787,7 @@ at any moment last year. It is usual to count 28 cases of sickness the
 year round for every death, and this would give a total for the year
 1889 of 1,111,082 of illness of all sorts.</p>
 
- <table id="">Number of deaths in tenements in New York, 1869               13,285
+ <table id="13">Number of deaths in tenements in New York, 1869               13,285
     "         "    "     "      "    "      1888               24,842
  Death-rate in tenements in New York, 1869                      28.35
      "       "     "      "    "      1888                      22.71</table>
@@ -7799,13 +7799,13 @@ increases, reaching 114.04 per cent. of 1,000 living in houses
 containing between 60 and 80 tenants. From this point it decreases with
 the adult death-rate.</p>
 
- <table id="">Number of deaths in prisons, New York, 1889                       85
+ <table id="14">Number of deaths in prisons, New York, 1889                       85
     "       "        hospitals, New York, 1889                  6,102
     "       "        lunatic asylums, New York, 1889              448
     "       "        institutions for children, New York, 1889    522
     "       "        homes for aged, New York, 1889               238
     "       "        almshouse, New York, 1889                    424
-    "       "        other institutions, New York, 1889           162
+    "       "        other institutions, New York, 1889           162</table>
  Number of burials in city cemetery (paupers), New York, 1889   3,815
  Percentage of such burials on total                             9.64
  Number of tenants weeded out of overcrowded tenements,
@@ -7813,12 +7813,12 @@ the adult death-rate.</p>
  Number of tenants weeded out of overcrowded tenements,
     in first half of 1890[27]                                   1,068
  Number of sick poor visited by summer corps of doctors,
-    New York, 1890                                             16,501</table>
+    New York, 1890                                             16,501
 
 <footnote number="27">[Footnote 27: These figures represent less than two hundred of the
 worst tenements below Houston Street.]</footnote>
 
-                           <table id="">POLICE STATISTICS.
+                           <table id="15">POLICE STATISTICS.
 
                                                      Males.   Females.
 
@@ -7839,7 +7839,7 @@ worst tenements below Houston Street.]</footnote>
     "      saloons, 1889                                        7,884</table>
 
 
-                              <table id="">IMMIGRATION.
+                              <table id="16">IMMIGRATION.
 
  Immigrants landed at Castle Garden in 20 years, ending
       with 1889                                             5,335,396
@@ -7864,7 +7864,7 @@ worst tenements below Houston Street.]</footnote>
  --------+--------+--------+--------+--------+--------+--------+--------
 </table>
 
-                               <table id="">TENEMENTS.
+                               <table id="17">TENEMENTS.
 
  Number of tenements in New York, December 1, 1888               32,390
  Number built from June 1, 1888, to August 1, 1890                3,733
