@@ -30,9 +30,9 @@ chapnum = element chapnum {number, text}
 
 chaptitle = element chaptitle {name, text}
 
-chapter = element chapter {(text|chapnum|chaptitle|p|footnote|illustration|table)+}
+chapter = element chapter {(text|chapnum|chaptitle|p|footnote|illustration|table|ul)+}
 
-p = element p {(text|immigrants|conditions|death|vice|disease|crime|work|policing|table|children|charity)+}
+p = element p {(text|immigrants|conditions|death|vice|disease|crime|work|policing|table|children|charity|class|a)+}
 
 immigrants = element immigrants {nationality, text}
 nationality = attribute nationality {text}
@@ -60,8 +60,22 @@ children = element children {text}
 charity = element charity {text}
 
 appendix = element appendix {(text|footnote|table|p)+}
-table = element table {id, text}
+table = element table {(id|text|class|data-summary|tbody|style)+}
 id = attribute id {text}
+class = attribute class {text}
+data-summary = attribute data-summary {text}
+tbody = element tbody {(tr|text|a)+}
+tr = element tr {(td|text)+}
+td = element td {(a|text|class|colspan|span)+}
+a = element a {(text|class|id|title|href)+}
+style = attribute style {text}
+ul = element ul {(li|text)+}
+li = element li {text}
+colspan = attribute colspan {text}
+span = element span {(text|class|br)+}
+title = attribute title {text}
+href = attribute href {text}
+br = element br {text}
 
 ending = element ending {(p|text)+}
 

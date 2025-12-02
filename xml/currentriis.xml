@@ -1821,25 +1821,23 @@ the alley itself, No. 59, nine dead were carried in 1888, five in
 baby coffins. Here is the record of the year for the whole block, as
 furnished by the Registrar of Vital Statistics, Dr. Roger S. Tracy:</death></p>
   
- <table id="1">_Deaths and Death-rates in 1888 in Baxter and Mulberry Streets,
-                   between Park and Bayard Streets._
-
- Key
- A = Five years old and over.
- B = Under five years.
- C = Total.
- D = General.
-
- ----------------+------------------+------------+---------------------
-                 |    POPULATION.   |   DEATHS.  |     DEATH-RATE.
-                 +------+----+------+---+---+----+------+-------+------
-                 |   A  |  B |   C  | A | B |  C |   A  |    B  |   D
- ----------------+------+----+------+---+---+----+------+-------+------
- Baxter Street   | 1,918| 315| 2,233| 26| 46|  72| 13.56| 146.02| 32.24
- Mulberry Street | 2,788| 629| 3,417| 44| 86| 130| 15.78| 136.70| 38.05
-                 +------+----+------+---+---+----+------+-------+------
-     Total       | 4,706| 944| 5,650| 70|132| 202| 14.87| 139.83| 35.75
- ----------------+------+----+------+---+---+----+------+-------+------</table>
+  <table id="1" style="border-spacing: 0px;padding: 3px;" data-summary="Deaths and Death-rates in 1888">
+    <tbody><tr><td> </td><td class="tdc" colspan="3"><span class="smcap">Population.</span></td>
+      <td class="tdc" colspan="3"><span class="smcap">Deaths.</span></td>
+      <td class="tdc" colspan="3"><span class="smcap">Death-rate.</span></td></tr>
+      <tr><td> </td><td class="tdc">A</td><td class="tdc">B</td><td class="tdc">C</td>
+        <td class="tdc">A</td><td class="tdc">B</td><td class="tdc">C</td>
+        <td class="tdc">A</td><td class="tdc">B</td><td class="tdc">D</td></tr>
+      <tr><td>Baxter Street</td><td class="tdr">1,918</td><td class="tdr">315</td><td class="tdr">2,233</td><td class="tdr">26</td><td class="tdr">46</td><td class="tdr">72</td><td class="tdr">13.56</td><td class="tdr">146.02</td><td class="tdr">32.24</td></tr>
+      <tr><td>Mulberry Street</td><td class="tdr">2,788</td><td class="tdr">629</td><td class="tdr">3,417</td><td class="tdr">44</td><td class="tdr">86</td><td class="tdr">130</td><td class="tdr">15.78</td><td class="tdr">136.70</td><td class="tdr">38.05</td></tr>
+      <tr><td class="tdc">Total</td><td class="tdr">4,706</td><td class="tdr">944</td><td class="tdr">5,650</td><td class="tdr">70</td><td class="tdr">132</td><td class="tdr">202</td><td class="tdr">14.87</td><td class="tdr">139.83</td><td class="tdr">5.75</td></tr>
+    </tbody></table>
+  <ul>
+    <li>A = Five years old and over.</li>
+    <li>B = Under five years.</li>   
+    <li>C = Total.</li>
+    <li>D = General.</li>
+  </ul>
 
 <p><death cause="NA">The general death-rate for the whole city that year was 26.27.</death></p>
 
@@ -7679,101 +7677,114 @@ make the death-rate of New York, in 1889, 25.19 for the thousand of
 a population of 1,575,073, while the census would make it 26.76 in a
 population of 1,482,273.</p>
 
- <table id="2">Population of New York, 1880 (census)                       1,206,299
-      "        London, 1881       "                          3,816,483
-      "        Philadelphia, 1880 "                            846,980
-      "        Brooklyn, 1880     "                            566,689
-      "        Boston, 1880       "                            362,535
-      "        New York, 1889 (estimated)                    1,575,073
-      "        London, 1889        "                         4,351,738
-      "        Philadelphia, 1889  "                         1,040,245
-      "        Brooklyn,       "   "                           814,505
-      "        Boston,         "   "                           420,000
-      "        New York under five years of age, in 1880       140,327
-      "            "     "        "        "        1889
-                 (estimated)                                   182,770</table>
 
- <table id="3">Population of tenements in New York in 1869[25] (census)      468,492
-      "            "     "      "       1888[26]    "        1,093,701
-      "            "     "      "        " under five
-        years of age                                          143,243</table>
- <table id="4">Population of New York in 1880 (census)                    1,206,299
-      "        Manhattan Island in 1880 (census)            1,164,673
-      "        Tenth Ward in 1880 (census)                     47,554
-      "        Eleventh Ward   "     "                         68,778
-      "        Thirteenth Ward in 1880 (census)                37,797
-      "        New York in 1890 (census)                    1,513,501
-      "        Manhattan Island in 1890 (census)            1,440,101
-      "        Tenth Ward in 1890 (census)                     57,514
-      "        Eleventh Ward   "     "                         75,708
-      "        Thirteenth Ward in 1890 (census)                45,882</table>
-
- <table id="5">Number of acres in New York City                              24,890
-   "        "       Manhattan Island                           12,673
-   "        "       Tenth Ward                                    110
-   "        "       Eleventh Ward                                 196
-   "        "       Thirteenth Ward                               107</table>
- <table id="6">Density of population per acre in 1880, New York City           48.4
- Density of population per acre in 1880, Manhattan Island        92.6
- Density of population per acre in 1880, Tenth Ward             432.3
- Density of population per acre in 1880, Eleventh Ward          350.9
- Density of population per acre in 1880, Thirteenth Ward        353.2
- Density of population per acre in 1890, New York City (census) 60.08
- Density of population per acre in 1890, Manhattan Island
-    (census)                                                   114.53
- Density of population per acre in 1890, Tenth Ward (census)   522.00
- Density of population per acre in 1890, Eleventh Ward
-     (census)                                                  386.00
- Density of population per acre in 1890, Thirteenth Ward
-     (census)                                                   428.8</table>
- <table id="7">Density of population to the square mile in 1880, New
-     York City (census)                                        30,976
- Density of population to the square mile in 1880, Manhattan
-     Island (census)                                           41,264
- Density of population to the square mile in 1880, Tenth
-     Ward (census)                                            276,672
- Density of population to the square mile in 1880, Eleventh
-     Ward (census)                                            224,576
- Density of population to the square mile in 1880, Thirteenth
-     Ward (census)                                            226,048
- Density of population to the square mile in 1890, New
-     York City (census)                                        38,451
- Density of population to the square mile in 1890, Manhattan
-     Island (census)                                           73,299
- Density of population to the square mile in 1890, Tenth
-     Ward (census)                                            334,080
- Density of population to the square mile in 1890, Eleventh
-     Ward (census)                                            246,040
- Density of population to the square mile in 1890, Thirteenth
-     Ward (census)                                            274,432</table>
- <table id="8">Number of persons to a dwelling in New York, 1880
-    (census)                                                    16.37
- Number of persons to a dwelling in London, 1881 (census)        7.9
- Number of persons to a dwelling in Philadelphia, 1880
-    (census)                                                     5.79
- Number of persons to a dwelling in Brooklyn, 1880
-    (census)                                                     9.11
- Number of persons to a dwelling in Boston, 1880 (census)        8.26</table>
- <table id="9">Number of deaths in New York, 1880                            31,937
-    "        "       London, 1881                              81,431
-    "        "       Philadelphia, 1880                        17,711
-    "        "       Brooklyn, 1880                            13,222
-    "        "       Boston, 1880                               8,612</table>
- <table id="10">Death-rate of New York, 1880                                   26.47
-     "         London, 1881                                      21.3
-     "         Philadelphia, 1880                               20.91
-     "         Brooklyn, 1880                                   23.33
-     "         Boston, 1880                                     23.75</table>
- <table id="11">Number of deaths in New York, 1889                            39,679
- Number of deaths in London, 1889                              75,683
-   "         "       Philadelphia, 1889                        20,536
-   "         "       Brooklyn, 1889                            18,288
-   "         "       Boston, 1889                              10,259</table>
- <table id="12">Death-rate of New York, 1889                                   25.19
-      "        London, 1889                                      17.4
-      "        Philadelphia, 1889                                19.7
-      "        Brooklyn, 1889                                    22.5
-      "        Boston, 1889                                     24.42</table>
+                          <table id="2" class="small width90" data-summary="Population Statistics">
+                            <tbody><tr><td>Population of</td><td colspan="4">New York, 1880</td> <td class="tdc">(census)</td><td class="tdr">1,206,299</td></tr>
+                              <tr><td>        ”</td><td colspan="4">London, 1881</td><td class="tdc">”</td><td class="tdr">3,816,483</td></tr>
+                              <tr><td>        ”</td><td colspan="4">Philadelphia, 1880</td><td class="tdc">”</td><td class="tdr">846,980</td></tr>
+                              <tr><td>        ”</td><td colspan="4">Brooklyn, 1880</td><td class="tdc">”</td><td class="tdr">566,689</td></tr>
+                              <tr><td>        ”</td><td colspan="4">Boston, 1880</td><td class="tdc">”</td><td class="tdr">362,535</td></tr>
+                              <tr><td>        ”</td><td colspan="4">New York, 1889</td><td class="tdc">(estimated)</td><td class="tdr">1,575,073</td></tr>
+                              <tr><td>        ”</td><td colspan="4">London, 1889</td><td class="tdc">”</td><td class="tdr">4,351,738</td></tr>
+                              <tr><td>        ”</td><td colspan="4">Philadelphia, 1889</td><td class="tdc">”</td><td class="tdr">1,040,245</td></tr>
+                              <tr><td>        ”</td><td colspan="4">Brooklyn,       ”</td><td class="tdc">”</td><td class="tdr">814,505</td></tr>
+                              <tr><td>        ”</td><td colspan="4">Boston,          ”</td><td class="tdc">”</td><td class="tdr">420,000</td></tr>
+                              <tr><td>        ”</td><td colspan="4">New York under five years of age, in</td><td class="tdl bot">1880</td><td class="tdr bot">140,327</td></tr>
+                              <tr><td>        ”</td>
+                                <td class="tdc">    ”  </td>   
+                                <td class="tdc">    ”  </td>
+                                <td class="tdc">    ”  </td>
+                                <td class="tdc">    ”  </td>
+                                <td class="tdl">1889</td><td> </td></tr>
+                              <tr><td class="tdc"> </td> <td class="tdc" colspan="5">(estimated)</td><td class="tdr">182,770</td></tr>
+                              <tr><td colspan="4"><a class="pagenum" title="300" id="Page_300"></a>
+                                Population of tenements in New York in</td><td class="tdl">1869<a class="fnanchor pginternal" href="#Footnote_25" id="FNanchor_25">[25]</a></td>
+                                <td class="tdc">(census)</td>
+                                <td class="tdr">468,492</td></tr>
+                              <tr><td>        ”</td>
+                                <td>        ”</td>
+                                <td>        ”</td>
+                                <td>        ”</td>
+                                <td class="tdl">1888<a class="fnanchor pginternal" href="#Footnote_26" id="FNanchor_26">[26]</a></td>
+                                <td class="tdc">”</td>
+                                <td class="tdr">1,093,701</td></tr>
+                              <tr><td>        ”</td>
+                                <td>        ”</td>
+                                <td>        ”</td>
+                                <td>        ”</td>
+                                <td class="tdl" colspan="2">under five years of age</td>
+                                <td class="tdr">143,243</td></tr> 
+                              <tr><td>Population of</td><td colspan="5">New York in 1880(census)</td><td class="tdr">1,206,299</td></tr>
+                              <tr><td>        ”</td><td colspan="5">Manhattan Island in 1880 (census)</td><td class="tdr">1,164,673</td></tr>
+                              <tr><td>        ”</td><td colspan="5">Tenth Ward in 1880 (census)</td><td class="tdr">47,554</td></tr>
+                              <tr><td>        ”</td><td colspan="5">Eleventh Ward in 1880 (census)</td><td class="tdr">68,778</td></tr>
+                              <tr><td>        ”</td><td colspan="5">Thirteenth Ward in 1880 (census)</td><td class="tdr">37,797</td></tr>
+                              <tr><td>        ”</td><td colspan="5">New York in 1890 (census)</td><td class="tdr">1,513,501</td></tr>
+                              <tr><td>        ”</td><td colspan="5">Manhattan Island in 1890 (census)</td><td class="tdr">1,440,101</td></tr>
+                              <tr><td>        ”</td><td colspan="5">Tenth Ward in 1890 (census)</td><td class="tdr">57,514</td></tr>
+                              <tr><td>        ”</td><td colspan="5">Eleventh Ward    ”     ”</td><td class="tdr">75,708</td></tr>
+                              <tr><td>        ”</td><td colspan="5">Thirteenth Ward in 1890 (census)</td><td class="tdr">45,882</td></tr>
+                              <tr><td>Number of acres</td><td colspan="5">in New York City</td><td class="tdr">24,890</td></tr>
+                              <tr><td>     ”        ”</td><td colspan="5">   Manhattan Island</td><td class="tdr">12,673</td></tr>
+                              <tr><td>     ”        ”</td><td colspan="5">   Tenth Ward</td><td class="tdr">110</td></tr>
+                              <tr><td>     ”        ”</td><td colspan="5">   Eleventh Ward</td><td class="tdr">196</td></tr>
+                              <tr><td>     ”        ”</td><td colspan="5">   Thirteenth Ward</td><td class="tdr">107</td></tr>
+                              <tr><td colspan="6">Density of population per acre in 1880, New York City</td><td class="tdr">48.4</td></tr>
+                              <tr><td colspan="6">Density of population per acre in 1880, Manhattan Island</td><td class="tdr">92.6</td></tr>
+                              <tr><td colspan="6">Density of population per acre in 1880, Tenth Ward</td><td class="tdr">432.3</td></tr>
+                              <tr><td colspan="6">Density of population per acre in 1880, Eleventh Ward</td><td class="tdr">350.9</td></tr>
+                              <tr><td colspan="6">Density of population per acre in 1880, Thirteenth Ward</td><td class="tdr">353.2</td></tr>
+                              <tr><td colspan="6">Density of population per acre in 1890, New York City (census)</td><td class="tdr">60.08</td></tr>
+                              <tr><td colspan="6">Density of population per acre in 1890, Manhattan Island (census)</td><td class="tdr">114.53</td></tr>
+                              <tr><td colspan="6">Density of population per acre in 1890, Tenth Ward (census)</td><td class="tdr">522.00</td></tr>
+                              <tr><td colspan="6">Density of population per acre in 1890, Eleventh Ward (census) </td><td class="tdr">386.00</td></tr>
+                              <tr><td colspan="6">Density of population per acre in 1890, Thirteenth Ward (census)</td><td class="tdr">428.8</td></tr>
+                              <tr><td class="hng" colspan="6">Density of population to the square mile in 1880, New York City (census)</td><td class="tdr">30,976</td></tr>
+                              <tr><td class="hng" colspan="6"><a class="pagenum" title="301" id="Page_301"></a>Density of population to the square mile in 1880, Manhattan
+                                Island (census)</td><td class="tdr">41,264</td></tr>
+                              <tr><td colspan="6">Density of population to the square mile in 1880, Tenth
+                                Ward (census)</td><td class="tdr">276,672</td></tr> 
+                              <tr><td colspan="6">Density of population to the square mile in 1880, Eleventh
+                                Ward (census)</td><td class="tdr">224,576</td></tr>
+                              <tr><td class="hng" colspan="6">Density of population to the square mile in 1880, Thirteenth
+                                Ward (census)</td><td class="tdr">226,048</td></tr>
+                              <tr><td class="hng" colspan="6">Density of population to the square mile in 1890, New
+                                York City (census)</td><td class="tdr">38,451</td></tr>
+                              <tr><td class="hng" colspan="6">Density of population to the square mile in 1890, Manhattan
+                                Island (census)</td><td class="tdr">73,299</td></tr>
+                              <tr><td class="hng" colspan="6">Density of population to the square mile in 1890, Tenth
+                                Ward (census)</td><td class="tdr">334,080</td></tr>
+                              <tr><td class="hng" colspan="6">Density of population to the square mile in 1890, Eleventh
+                                Ward (census)</td><td class="tdr">246,040</td></tr>
+                              <tr><td class="hng" colspan="6">Density of population to the square mile in 1890, Thirteenth
+                                Ward (census)</td><td class="tdr">274,432</td></tr>
+                              <tr><td colspan="6">Number of persons to a dwelling in New York, 1880 (census)</td><td class="tdr">16.37</td></tr>
+                              <tr><td colspan="6">Number of persons to a dwelling in London, 1881 (census)</td><td class="tdr">7.9</td></tr>
+                              <tr><td colspan="6">Number of persons to a dwelling in Philadelphia, 1880 (census)</td><td class="tdr">5.79</td></tr>
+                              <tr><td colspan="6">Number of persons to a dwelling in Brooklyn, 1880 (census)</td><td class="tdr">9.11</td></tr>
+                              <tr><td colspan="6">Number of persons to a dwelling in Boston, 1880 (census)</td><td class="tdr">8.26</td></tr>
+                              <tr><td>Number of deaths in</td><td colspan="5">New York, 1880</td><td class="tdr">31,937</td></tr>
+                              <tr><td class="tdl">     ”
+                                     ”</td><td colspan="5">London, 1881</td><td class="tdr">81,431</td></tr>
+                              <tr><td class="tdl">     ”      ”</td><td colspan="5">Philadelphia, 1880</td><td class="tdr">17,711</td></tr>
+                              <tr><td class="tdl">     ”      ”</td><td colspan="5">Brooklyn, 1880</td><td class="tdr">13,222</td></tr>
+                              <tr><td class="tdl">     ”      ”</td><td colspan="5">Boston, 1880</td><td class="tdr">8,612</td></tr>
+                              <tr><td>Death-rate of</td><td colspan="5">New York, 1880</td><td class="tdr">26.47</td></tr>
+                              <tr><td class="tdl">     ”</td><td colspan="5">London, 1881</td><td class="tdr">21.3</td></tr>
+                              <tr><td class="tdl">     ”</td><td colspan="5">Philadelphia, 1880</td><td class="tdr">20.91</td></tr>
+                              <tr><td class="tdl">     ”</td><td colspan="5">Brooklyn, 1880</td><td class="tdr">23.33</td></tr>
+                              <tr><td class="tdl">     ”</td><td colspan="5">Boston, 1880</td><td class="tdr">23.75</td></tr>
+                              <tr><td>Number of deaths in</td><td class="bot" colspan="5">New York, 1889</td><td class="tdr bot">39,679</td></tr>
+                              <tr><td class="tdl"><a class="pagenum" title="302" id="Page_302"></a>     ”      ”</td><td colspan="5">London, 1889</td><td class="tdr">75,683</td></tr>
+                              <tr><td class="tdl">     ”      ”</td><td colspan="5">Philadelphia, 1889</td><td class="tdr">20,536</td></tr>
+                              <tr><td class="tdl">     ”      ”</td><td colspan="5">Brooklyn, 1889</td><td class="tdr">8,288</td></tr>
+                              <tr><td class="tdl">     ”      ”</td><td colspan="5">Boston, 1889</td><td class="tdr">10,259</td></tr>
+                              <tr><td>Death-rate of</td><td colspan="5">New York, 1889</td><td class="tdr">25.19</td></tr>
+                              <tr><td class="tdl">     ”</td><td colspan="5">London, 1889</td><td class="tdr">17.4</td></tr>
+                              <tr><td class="tdl">     ”</td><td colspan="5">Philadelphia, 1889</td><td class="tdr">19.7</td></tr>
+                              <tr><td class="tdl">     ”</td><td colspan="5">Brooklyn, 1889</td><td class="tdr">22.5</td></tr>
+                              <tr><td class="tdl">     ”</td><td colspan="5">Boston, 1889</td><td class="tdr">24.42</td></tr>
+                            </tbody></table>
 
 <footnote number="25">[Footnote 25: In 1869, a tenement was a house occupied by four families
 or more]</footnote>
@@ -7787,11 +7798,25 @@ at any moment last year. It is usual to count 28 cases of sickness the
 year round for every death, and this would give a total for the year
 1889 of 1,111,082 of illness of all sorts.</p>
 
- <table id="13">Number of deaths in tenements in New York, 1869               13,285
-    "         "    "     "      "    "      1888               24,842
- Death-rate in tenements in New York, 1869                      28.35
-     "       "     "      "    "      1888                      22.71</table>
-
+                          
+                          <table id="3" class="small width90" data-summary="Death-rates in Tenements">
+                            <tbody><tr><td>Number of deaths in tenements in New York, 1869</td><td class="tdr">13,285</td></tr>
+                              <tr><td>        ”
+                                        ”
+                                        ”
+                                        ”
+                                        ”
+                                        ”
+                                        1888</td><td class="tdr">24,842</td></tr>
+                              <tr><td>Death-rate in tenements in New York, 1869</td><td class="tdr">28.35</td></tr>
+                              <tr><td>        ”
+                                        ”
+                                        ”
+                                        ”
+                                        ”
+                                        1888</td><td class="tdr">22.71</td></tr>
+                            </tbody></table>
+                          
 <p>This is exclusive of deaths in institutions, properly referable to the
 tenements in most cases. The adult death-rate is found to decrease
 in the larger tenements of newer construction. The child mortality
@@ -7799,13 +7824,25 @@ increases, reaching 114.04 per cent. of 1,000 living in houses
 containing between 60 and 80 tenants. From this point it decreases with
 the adult death-rate.</p>
 
- <table id="14">Number of deaths in prisons, New York, 1889                       85
-    "       "        hospitals, New York, 1889                  6,102
-    "       "        lunatic asylums, New York, 1889              448
-    "       "        institutions for children, New York, 1889    522
-    "       "        homes for aged, New York, 1889               238
-    "       "        almshouse, New York, 1889                    424
-    "       "        other institutions, New York, 1889           162</table>
+ 
+                          <table id="4" class="small width90" data-summary="Prison deaths">
+                            <tbody><tr><td>Number of deaths in</td><td>prisons, New York, 1889</td><td class="tdr">85</td></tr>
+                              <tr><td>     ”        ”</td><td>hospitals, New York, 1889</td><td class="tdr">6,102</td></tr>
+                              <tr><td>     ”        ”</td><td>lunatic asylums, New York, 1889</td><td class="tdr">448</td></tr>
+                              <tr><td>     ”        ”</td><td>institutions for children, New York, 1889</td><td class="tdr">522</td></tr>
+                              <tr><td>     ”        ”</td><td>homes for aged, New York, 1889</td><td class="tdr">238</td></tr>
+                              <tr><td>     ”        ”</td><td>almshouse, New York, 1889</td><td class="tdr">424</td></tr>
+                              <tr><td>     ”        ”</td><td>other institutions, New York, 1889</td><td class="tdr">162</td></tr>
+                              <tr><td colspan="2">Number of burials in city cemetery (paupers), New York, 1889</td><td class="tdr">3,815</td></tr>
+                              <tr><td class="hng" colspan="2">Percentage of such burials on total</td><td class="tdr">9.64</td></tr>
+                              <tr><td class="hng" colspan="2"><a class="pagenum" title="303" id="Page_303"></a>Number of tenants weeded out of overcrowded tenements,
+                                New York, 1889</td><td class="tdr">1,246</td></tr>
+                              <tr><td class="hng" colspan="2">Number of tenants weeded out of overcrowded tenements,
+                                in first half of 1890<a class="fnanchor pginternal" href="#Footnote_27" id="FNanchor_27">[27]</a></td><td class="tdr">1,068</td></tr>
+                              <tr><td class="hng" colspan="2">Number of sick poor visited by summer corps of doctors,
+                                New York, 1890</td><td class="tdr">16,501</td></tr>
+                            </tbody></table>
+                          
  Number of burials in city cemetery (paupers), New York, 1889   3,815
  Percentage of such burials on total                             9.64
  Number of tenants weeded out of overcrowded tenements,
@@ -7818,61 +7855,99 @@ the adult death-rate.</p>
 <footnote number="27">[Footnote 27: These figures represent less than two hundred of the
 worst tenements below Houston Street.]</footnote>
 
-                           <table id="15">POLICE STATISTICS.
+                           
+                          <p class="center smcap">Police Statistics.</p> 
+                          <table id="5" class="small width90" data-summary="Police Statistics">
+                            <tbody><tr><td> </td><td class="tdc">Males.</td><td class="tdc">Females.</td></tr>
+                              <tr><td>Arrests made by the police in 1889</td><td class="tdr">62,274</td><td class="tdr">19,926</td></tr>
+                              <tr><td>Number of arrests for drunkenness and disorderly</td><td class="tdr">20,253</td><td class="tdr">8,981</td></tr>
+                              <tr><td>Number of arrests for disorderly conduct</td><td class="tdr">10,953</td><td class="tdr">7,477</td></tr>
+                              <tr><td>        ”        ”        assault and battery</td><td class="tdr">4,534</td><td class="tdr">497</td></tr>
+                              <tr><td>        ”        ”        theft</td><td class="tdr">4,399</td><td class="tdr">721</td></tr>
+                              <tr><td>        ”        ”        robbery</td><td class="tdr">247</td><td class="tdr">10</td></tr>
+                              <tr><td>        ”        ”        vagrancy</td><td class="tdr">1,686</td><td class="tdr">947</td></tr>
+                              <tr><td>Prisoners unable to read or write</td><td class="tdr">2,399</td><td class="tdr">1,281</td></tr>
+                              <tr><td colspan="2">Number of lost children found in the streets, 1889</td><td class="tdr">2,968</td></tr>
+                              <tr><td colspan="2">        ”        sick and destitute cared for, 1889</td><td class="tdr">2,753</td></tr>
+                              <tr><td colspan="2">Found sick in the streets</td><td class="tdr">1,211</td></tr>
+                              <tr><td colspan="2">Number of pawnshops in city, 1889</td><td class="tdr">110</td></tr>
+                              <tr><td colspan="2">        ”        cheap lodging-houses, 1889</td><td class="tdr">270</td></tr>
+                              <tr><td colspan="2">        ”        saloons, 1889</td><td class="tdr">7,884</td></tr>
+                            </tbody></table>      
 
-                                                     Males.   Females.
 
- Arrests made by the police in 1889                  62,274    19,926
- Number of arrests for drunkenness and disorderly
-                                                     20,253     8,981
- Number of arrests for disorderly conduct            10,953     7,477
-    "         "        assault and battery            4,534       497
-    "         "        theft                          4,399       721
-    "         "        robbery                          247        10
-    "         "        vagrancy                       1,686       947
- Prisoners unable to read or write                    2,399     1,281
- Number of lost children found in the streets, 1889             2,968
-    "      sick and destitute cared for, 1889                   2,753
- Found sick in the streets                                      1,211
- Number of pawnshops in city, 1889                                110
-    "      cheap lodging-houses, 1889                             270
-    "      saloons, 1889                                        7,884</table>
+                              
+                          <p class="center smcap">Immigration.</p>
+                          <table id="6" class="small" data-summary="Tenements">
+                            <tbody><tr><td>Immigrants landed at Castle Garden in 20 years, ending
+                              with 1889</td><td class="tdr">5,335,396</td></tr>
+                              <tr><td>Immigrants landed at Castle Garden in 1889</td><td class="tdr">349,233</td></tr>
+                              <tr><td>Immigrants from England landed at Castle Garden in
+                                1889</td><td class="tdr">46,214</td></tr>
+                              <tr><td>Immigrants from Scotland landed at Castle Garden in
+                                1889</td><td class="tdr">11,415</td></tr>
+                              <tr><td>Immigrants from Ireland landed at Castle Garden in
+                                1889</td><td class="tdr">43,090</td></tr>
+                              <tr><td>Immigrants from Germany landed at Castle Garden in
+                                1889</td><td class="tdr">75,458</td></tr>
+                            </tbody></table>
+                          <p><a class="pagenum" title="304" id="Page_304"></a></p>
+                          <table class="small width90" style="border-spacing: 0px;" data-summary="Origin of Immigrants">
+                            <tbody><tr><td class="tdc bt bb br"> </td>
+                              <td class="tdc bt bb br">1883.</td>
+                              <td class="tdc bt bb br">1884.</td>
+                              <td class="tdc bt bb br">1885.</td>  
+                              <td class="tdc bt bb br">1886.</td>
+                              <td class="tdc bt bb br">1887.</td>
+                              <td class="tdc bt bb br">1888.</td>
+                              <td class="tdc bt bb">1889.</td></tr>
+                              <tr><td class="br">Italy</td>
+                                <td class="tdr br">25,485</td>
+                                <td class="tdr br">14,076</td>
+                                <td class="tdr br">16,033</td>
+                                <td class="tdr br">29,312</td>
+                                <td class="tdr br">44,274</td>
+                                <td class="tdr br">43,927</td>
+                                <td class="tdr">28,810</td></tr>     
+                              <tr><td class="br"><span class="multiline">Russia<br>Poland</span> 
+                                <span class="bracket"><img alt="" height="30" src="images/vrbracket_8x30.jpg" width="8" id="img_images_vrbracket_8x30.jpg"></span></td>
+                                <td class="tdr br">7,577</td>
+                                <td class="tdr br">12,432</td>
+                                <td class="tdr br">16,578</td>
+                                <td class="tdr br">23,987</td>
+                                <td class="tdr br">33,203</td>
+                                <td class="tdr br">33,052</td>
+                                <td class="tdr">31,329</td></tr>
+                              <tr><td class="br">Hungary</td>
+                                <td class="tdr br">13,160</td>
+                                <td class="tdr br">15,797</td>
+                                <td class="tdr br">11,129</td>
+                                <td class="tdr br">18,135</td>
+                                <td class="tdr br">17,719</td>
+                                <td class="tdr br">12,905</td>
+                                <td class="tdr">15,678</td></tr>
+                              <tr><td class="br bb">Bohemia</td>
+                                <td class="tdr br bb">4,877</td>
+                                <td class="tdr br bb">7,093</td>
+                                <td class="tdr br bb">6,697</td>
+                                <td class="tdr br bb">4,222</td>
+                                <td class="tdr br bb">6,449</td>
+                                <td class="tdr br bb">3,982</td>
+                                <td class="tdr bb">5,412</td></tr>
+                            </tbody></table>
+                          
 
-
-                              <table id="16">IMMIGRATION.
-
- Immigrants landed at Castle Garden in 20 years, ending
-      with 1889                                             5,335,396
- Immigrants landed at Castle Garden in 1889                   349,233
- Immigrants from England landed at Castle Garden in
-     1889                                                      46,214
- Immigrants from Scotland landed at Castle Garden in
-     1889                                                      11,415
- Immigrants from Ireland landed at Castle Garden in
-     1889                                                      43,090
- Immigrants from Germany landed at Castle Garden in
-     1889                                                      75,458
-
- --------+--------+--------+--------+--------+--------+--------+--------
-         | 1883.  | 1884.  | 1885.  | 1886.  | 1887.  | 1888.  | 1889.
- --------+--------+--------+--------+--------+--------+--------+--------
- Italy   | 25,485 | 14,076 | 16,033 | 29,312 | 44,274 | 43,927 | 28,810
- Russia} |  7,577 | 12,432 | 16,578 | 23,987 | 33,203 | 33,052 | 31,329
- Poland} |        |        |        |        |        |        |
- Hungary | 13,160 | 15,797 | 11,129 | 18,135 | 17,719 | 12,905 | 15,678
- Bohemia |  4,877 |  7,093 |  6,697 |  4,222 |  6,449 |  3,982 |  5,412
- --------+--------+--------+--------+--------+--------+--------+--------
-</table>
-
-                               <table id="17">TENEMENTS.
-
- Number of tenements in New York, December 1, 1888               32,390
- Number built from June 1, 1888, to August 1, 1890                3,733
- Rear tenements in existence, August 1, 1890                      2,630
- Total number of tenements, August 1, 1890                       37,316
- Estimated population of tenements, August 1, 1890            1,250,000
- Estimated number of children under five years in tenements,
-     1890                                                       163,712</table>
+                               
+                          <p class="center smcap">Tenements.</p>
+                          <table id="7" class="small" data-summary="Tenements">
+                            <tbody><tr><td>Number of tenements in New York, December 1, 1888</td><td class="tdr">32,390</td></tr>
+                              <tr><td>Number built from June 1, 1888, to August 1, 1890</td><td class="tdr">3,733</td></tr>
+                              <tr><td>Rear tenements in existence, August 1, 1890</td><td class="tdr">2,630</td></tr>
+                              <tr><td>Total number of tenements, August 1, 1890</td><td class="tdr">37,316</td></tr>
+                              <tr><td>Estimated population of tenements, August 1, 1890</td><td class="tdr">1,250,000</td></tr>
+                              <tr><td>Estimated number of children under five years in tenements, 1890</td><td class="tdr">163,712</td></tr>
+                            </tbody></table>                   
+                          
 
 <p>Corner tenements may cover all of the lot, except 4 feet at the rear.
 Tenements in the block may only cover seventy-eight per cent. of the
