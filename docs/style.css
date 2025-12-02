@@ -38,6 +38,50 @@ a {
 }
 
 
+span.immigrants.on{
+    color:#99BAB9;
+}
+
+span.conditions.on{
+    color:#EABCA8;
+}
+
+span.death.on{
+    color:#E4ACB2;
+}
+
+span.vice.on{
+    color:#938FB8;
+}
+
+span.disease.on{
+    color:#B6E4BC;
+}
+
+span.crime.on{
+    color:#FFD1E3;
+}
+
+span.work.on{
+    color:#F0E2C3;
+}
+
+span.policing.on{
+    color:#B17C82;
+}
+
+span.table.on{
+    color:white;
+}
+
+span.children.on{
+    color:#DCCCEC;
+}
+
+span.charity.on{
+    color:#9FD4A3;
+}
+
 footer {
   color: #ced4da;  
   text-align:center;
