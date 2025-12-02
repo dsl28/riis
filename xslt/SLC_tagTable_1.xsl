@@ -11,7 +11,7 @@
             <html>
                 <head>
                     <title># of characters contained within each tag per chapter.</title>
-                    <link/>
+                    <!--<link/>-->
                 </head>
                 <body>
                     <!-- this table counts the length of the sections about crime-->
@@ -60,37 +60,46 @@
                         
                     </table>
                     
-                    <xsl:variable name="TagChart" select="document('SLC_excerciseE.html')"/>
+     
                     
                     <!-- universal variables-->
                     <xsl:variable name="xspacer" select="30"/>
                     <xsl:variable name="yspacer" select="15"/>
                     <svg viewBox="0 0 1000 650">
                         <g transform="translate(250,10)">
-                            <xsl:for-each-group select="//body//persName" group-by="@n">
+                            <xsl:for-each select=".//chapter">
 
-                                <!--whc: these are local variables, meaning they only operate on the current group in the for-each-group loop-->
-                                <xsl:variable name="pers-occurrence-count" select=""/>
-                                <xsl:variable name="person-sequence" select="position()"/>
-                                
-                                <!--whc: this creates each bar in the bar graph-->
-                                <line x1="0" x2="{$xspacer * $pers-occurrence-count}" 
-                                    y1="{$yspacer * $person-sequence}" y2="{$yspacer * $person-sequence}"
+                                <!--slc: these are local variables-->
+                                <xsl:variable name="chapNum" select="position()"/>
+                                <xsl:variable name="conditions" select=".//conditions =>string-join() =>string-length()"/>
+                                <xsl:variable name="crime" select=".//crime =>string-join() =>string-length()"/>
+                                <xsl:variable name="vice" select=".//vice =>string-join() =>string-length()"/>
+                                <xsl:variable name="immigrants" select=".//immigrants =>string-join() =>string-length()"/>
+                                <xsl:variable name="disease" select=".//disease =>string-join() =>string-length()"/>
+                                <xsl:variable name="work" select=".//work =>string-join() =>string-length()"/>
+                                <xsl:variable name="death" select=".//death =>string-join() =>string-length()"/>    
+                                <!--slc: this creates conditions bar-->
+                                <line x1="0" x2="{$xspacer * $conditions}" 
+                                    y1="{$yspacer * $chapNum}" y2="{$yspacer * $chapNum}"
                                     stroke-width="10" stroke="red"/>
-                                
-                                <!--whc: this labels each bar with the index number and name of each person-->
-                                <text x="-10" y="{$yspacer * $person-sequence}" text-anchor="end">
-                                    <xsl:value-of select="$person-sequence"/><xsl:text>: </xsl:text>
+                                <!--slc: this creates the next bar down-->
+                                <line x1="$xspacer * conditions" x2="{$xspacer * $crime+$conditions}" 
+                                    y1="{$yspacer * $chapNum}" y2="{$yspacer * $chapNum}"
+                                    stroke-width="10" stroke="red"/>
+                                <!--slc: ignore this for now
+                                <text x="-10" y="{$yspacer * $conditions}" text-anchor="end">
+                                    <xsl:value-of select="$conditions"/><xsl:text>: </xsl:text>
                                     <xsl:apply-templates select="string()[1]"/></text>
-                                
+                                -->
                                 <!--whc: this places the count number after the end of each bar-->
-                                <text x="{$xspacer * $pers-occurrence-count + 10}" y="{$yspacer * $person-sequence}" text-anchor="right">
-                                    <xsl:value-of select="$pers-occurrence-count"/></text>
-                                
-                            </xsl:for-each-group>
+                              <!--
+                                <text x="{$xspacer * $chapter + 10}" y="{$yspacer * $conditions}" text-anchor="right">
+                                    <xsl:value-of select="$conditions"/></text>
+                                -->
+                            </xsl:for-each>
                             
                             <!--whc: this creates the vertical reference line: note that it is OUTSIDE the for-loop-->
-                            <line x1="0" y1="0" x2="0" y2="{count(//body//persName=>distinct-values()) * $yspacer}" stroke="blue" stroke-width="1"/>
+                            <line x1="0" y1="0" x2="0" y2="{count(//body//conditions=>distinct-values()) * $yspacer}" stroke="blue" stroke-width="1"/>
                             
                         </g>
                     </svg>
