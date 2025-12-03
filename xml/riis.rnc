@@ -72,10 +72,15 @@ style = attribute style {text}
 ul = element ul {(li|text)+}
 li = element li {text}
 colspan = attribute colspan {text}
-span = element span {(text|class|br)+}
+span = element span {(text|class|br|img)+}
 title = attribute title {text}
 href = attribute href {text}
 br = element br {text}
+img = element img {(alt|height|src|width|id|text)+}
+alt = attribute alt {text}
+height = attribute height {text}
+src = attribute src {text}
+width = attribute width {text}
 
 ending = element ending {(p|text)+}
 
