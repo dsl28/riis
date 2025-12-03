@@ -85,3 +85,44 @@ footer {
  padding: 20px;
 width: 100%;
  }
+ 
+ table {
+    margin-left: auto;
+    margin-right: auto
+    }
+.tdl {
+    text-align: left
+    }
+.tdr {
+    text-align: right
+    }
+.tdc {
+    text-align: center
+    }
+.bot {
+    vertical-align: bottom
+    }
+.pl {
+    padding-left: 1em
+    }
+.pr {
+    padding-right: 1em
+    }
+.bb {
+    border-bottom: solid black 1px
+    }
+.br {
+    border-right: solid black 1px
+    }
+.bt {
+    border-top: solid black 1px
+    }
+.hng {
+    padding-left: 0.25in;
+    text-indent: -0.25in;
+    text-align: left;
+    vertical-align: top
+    }
+.width90 {
+    width: 90%
+    }
