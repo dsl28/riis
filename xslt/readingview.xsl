@@ -34,6 +34,10 @@
         </xsl:result-document>
     </xsl:template>
     
+    <xsl:template match="table">
+        <table><xsl:apply-templates select="@*|node()"/></table>
+        </xsl:template>
+    
     <xsl:template match="immigrants">
         <span class="immigrants"><xsl:apply-templates/></span>
     </xsl:template>
