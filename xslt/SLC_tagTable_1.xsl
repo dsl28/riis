@@ -61,12 +61,20 @@
                     </table>
                     
      
+                    <p>Below is a graph that represents how much text for a certain element was in each chapter.</p>
+                    <p>Conditions: red</p>
+                    <p>Crime: blue</p>
+                    <p>Vice: green</p>
+                    <p>Immigration: yellow</p>
+                    <p>Disease: orange</p>
+                    <p>Work: pink</p>
+                    <p>Death: purple</p>
                     
                     <!-- universal variables-->
-                    <xsl:variable name="xspacer" select="0.1"/>
+                    <xsl:variable name="xspacer" select="0.05"/>
                     <xsl:variable name="yspacer" select="15"/>
                     <svg viewBox="0 0 1000 1000">
-                        <g transform="translate(25,10)">
+                        <g transform="translate(50,10)">
                             <xsl:for-each select=".//chapter">
 
                                 <!--slc: these are local variables-->
@@ -82,39 +90,82 @@
                                 <line x1="0" x2="{$xspacer * $conditions}" 
                                     y1="{$yspacer * $chapNum}" y2="{$yspacer * $chapNum}"
                                     stroke-width="10" stroke="red"/>
+                                <!-- this creates the label for each line -->
+                                <text x="-5"
+                                    y="{$yspacer * $chapNum + 4}"
+                                    text-anchor="end"
+                                    font-size="10"
+                                    fill="black">
+                                    Chapter <xsl:value-of select="$chapNum"/>
+                                </text>
                                 <!--slc: this creates the next bar down-->
                                 <line x1="{$xspacer * $conditions}" x2="{$xspacer * ($crime+$conditions)}" 
                                     y1="{$yspacer * $chapNum}" y2="{$yspacer * $chapNum}"
                                     stroke-width="10" stroke="blue"/>
+                                <text x="-5"
+                                    y="{$yspacer * $chapNum + 4}"
+                                    text-anchor="end"
+                                    font-size="10"
+                                    fill="black">
+                                    Chapter <xsl:value-of select="$chapNum"/>
+                                </text>
                                 <!--slc:this continues till end-->
                                 <line x1="{$xspacer * ($conditions + $crime)}" x2="{$xspacer * ($vice+$crime+$conditions)}" 
                                     y1="{$yspacer * $chapNum}" y2="{$yspacer * $chapNum}"
                                     stroke-width="10" stroke="green"/>
+                                <text x="-5"
+                                    y="{$yspacer * $chapNum + 4}"
+                                    text-anchor="end"
+                                    font-size="10"
+                                    fill="black">
+                                    Chapter <xsl:value-of select="$chapNum"/>
+                                </text>
+                                
                                 <line x1="{$xspacer * ($conditions + $crime + $vice)}" x2="{$xspacer * ($immigrants+$vice+$crime+$conditions)}" 
                                     y1="{$yspacer * $chapNum}" y2="{$yspacer * $chapNum}"
                                     stroke-width="10" stroke="yellow"/>
+                                <text x="-5"
+                                    y="{$yspacer * $chapNum + 4}"
+                                    text-anchor="end"
+                                    font-size="10"
+                                    fill="black">
+                                    Chapter <xsl:value-of select="$chapNum"/>
+                                </text>
+                                
                                 <line x1="{$xspacer * ($conditions + $crime + $vice + $immigrants)}" x2="{$xspacer * ($disease+$immigrants+$vice+$crime+$conditions)}" 
                                     y1="{$yspacer * $chapNum}" y2="{$yspacer * $chapNum}"
                                     stroke-width="10" stroke="orange"/>
+                                <text x="-5"
+                                    y="{$yspacer * $chapNum + 4}"
+                                    text-anchor="end"
+                                    font-size="10"
+                                    fill="black">
+                                    Chapter <xsl:value-of select="$chapNum"/>
+                                </text>
+                                
                                 <line x1="{$xspacer * ($conditions + $crime + $vice + $immigrants + $disease)}" x2="{$xspacer * ($work+$disease+$immigrants+$vice+$crime+$conditions)}" 
                                     y1="{$yspacer * $chapNum}" y2="{$yspacer * $chapNum}"
                                     stroke-width="10" stroke="pink"/>
+                                <text x="-5"
+                                    y="{$yspacer * $chapNum + 4}"
+                                    text-anchor="end"
+                                    font-size="10"
+                                    fill="black">
+                                    Chapter <xsl:value-of select="$chapNum"/>
+                                </text>
+                                
                                 <line x1="{$xspacer * ($conditions + $crime + $vice + $immigrants + $disease + $work)}" x2="{$xspacer * ($death+$work+$disease+$immigrants+$vice+$crime+$conditions)}" 
                                     y1="{$yspacer * $chapNum}" y2="{$yspacer * $chapNum}"
                                     stroke-width="10" stroke="purple"/>
-                                <!--slc: ignore this for now
-                                <text x="-10" y="{$yspacer * $conditions}" text-anchor="end">
-                                    <xsl:value-of select="$conditions"/><xsl:text>: </xsl:text>
-                                    <xsl:apply-templates select="string()[1]"/></text>
+                                <text x="-5"
+                                    y="{$yspacer * $chapNum + 4}"
+                                    text-anchor="end"
+                                    font-size="10"
+                                    fill="black">
+                                    Chapter <xsl:value-of select="$chapNum"/>
+                                </text>
                                 
-                              <!
-                                <text x="{$xspacer * $chapter + 10}" y="{$yspacer * $conditions}" text-anchor="right">
-                                    <xsl:value-of select="$conditions"/></text>
-                                -->
                             </xsl:for-each>
-                            
-                            <!--whc: this creates the vertical reference line: note that it is OUTSIDE the for-loop-->
-                            <line x1="0" y1="0" x2="0" y2="{count(//body//conditions=>distinct-values()) * $yspacer}" stroke="blue" stroke-width="1"/>
                             
                         </g>
                     </svg>
