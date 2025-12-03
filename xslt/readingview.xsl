@@ -10,15 +10,18 @@
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes"/>
     <xsl:variable name="riis" select="document('../xml/currentriis.xml')"/>
     
-    <xsl:template match="riis">
+    <xsl:template match="riis"><!--whc: When calling for a variable, it needs to start with a dollar sign: $riis  -->
         <xsl:result-document method="xhtml" indent="yes" href="../docs/testreadingview.html">
         <html>
             
             <head><title>How The Other Half Lives</title>
-                <link rel="stylesheet" type="text/css" href="../docs/style.css"/></head>
+                <link rel="stylesheet" type="text/css" href="../docs/style.css"/></head> <!--whc: Your html is already in the docs folder, so you should get rid of the file path that climbs up out of the docs folder and drops back down into it. Oddly, this would prevent your css from working on GitHub Pages, as the Frankenstein team discovered recently. You just want "style.css" here. -->
             
             <body>
-                <xsl:for-each select=".//div">
+                <!--whc: This is where you want to insert your header and nav bar. You can just copy that straight from index.html and paste it in here. -->
+                
+                <!--whc: OK, now for the page content. Because you have a mix of elements in the XML, you won't want to use an xsl:for-each. Instead, use <xsl:apply-templates/>, without a select attribute, to say "pass over the whole text of the input document". Below that, maybe put an <hr/> element (horizontal rule, to separate parts of the page), add a footer to the page, and then you're at the end of your top-level template rule: that should be followed by the closing tags for body and html. Everything thereafter will be separate template rules that say, for example, match on <p> in the input and re-tag it with <p> in the output. You'll need to decide what heading sizes to use for things like chapter titles. The template rules you have below to tag bits of text with span/class look good and should start to work right away at that point. This is also where Hunter should be adding the special template rules to handle the tables. These will look a little different because they will say, in effect, "anything inside a table element should be passed over including all elements, attributes, and attribute values". -->
+                <xsl:for-each select=".//div"> 
                     <xsl:if test="./head">
                         <h2><xsl:apply-templates/></h2>
                     </xsl:if>
