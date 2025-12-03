@@ -66,7 +66,7 @@ class = attribute class {text}
 data-summary = attribute data-summary {text}
 tbody = element tbody {(tr|text|a)+}
 tr = element tr {(td|text)+}
-td = element td {(a|text|class|colspan|span)+}
+td = element td {(a|text|class|colspan|span|em)+}
 a = element a {(text|class|id|title|href)+}
 style = attribute style {text}
 ul = element ul {(li|text)+}
@@ -81,6 +81,7 @@ alt = attribute alt {text}
 height = attribute height {text}
 src = attribute src {text}
 width = attribute width {text}
+em = element em {text}
 
 ending = element ending {(p|text)+}
 

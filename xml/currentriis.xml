@@ -3967,43 +3967,113 @@ negroes proved cleaner, better, and steadier tenants. Instead, however,
 of having their rents reduced in consequence, the comparison stood as
 follows:</p>
 
-
-        _Rents under White Tenants._
-
-                                     Per month.
-
-      Front--     1st floor (store, etc.)   $21
-                  2d  "                      13
-                  3d  "                      13
-                  4th "     (and rear)       21
-      Rear--      2d  "                      12
-                  3d  "                      12
-                  4th "     (see front)      --
-      Rear house--1st "                       8
-                  2d  "                      10
-                  3d  "                       9
-                  4th "                       8
-                                           ----
-           Total                           $127
-
-
-        _Rents under Colored Tenants._
-
-                                     Per month.
-
-      Front--     1st floor (store, etc.)   $21
-                  2d  "                      14
-                  3d  "                      14
-                  4th "                      14
-      Rear--      2d  "                      12
-                  3d  "                      13
-                  4th "                      13
-      Rear house--1st "                      10
-                  2d  "                      12
-                  3d  "                      11
-                  4th "                      10
-                                           ----
-           Total                           $144
+           
+      <table id="rents" class="smaller" style="border-spacing: 0px;" data-summary="Comparison of Rents by Race">
+        <tbody><tr><td class="tdc" colspan="5"><em>Rents under White Tenants.</em></td>
+          <td class="tdc" colspan="5"><em>Rents under Colored Tenants.</em></td></tr>
+          <tr><td class="tdr" colspan="5">Per month.</td>
+            <td class="tdr" colspan="5">Per month.</td></tr>
+          <tr><td class="tdl">Front—</td>
+            <td>1st</td> 
+            <td>floor</td>
+            <td>(store, etc.)</td>
+            <td class="tdr br pr">$21</td>
+            <td class="tdl pl">Front—</td>
+            <td>1st</td>
+            <td>floor</td>
+            <td>(store, etc.)</td>
+            <td class="tdr pr">$21</td></tr>
+          <tr><td> </td><td class="tdl">2d</td><td class="tdc">”</td><td> </td><td class="tdr br pr">13</td>
+            <td> </td><td class="tdl">2d</td><td class="tdc">”</td><td> </td><td class="tdr pr">14</td></tr>
+          <tr><td> </td><td class="tdl">3d</td><td class="tdc">”</td><td> </td><td class="tdr br pr">13</td>
+            <td> </td><td class="tdl">3d</td><td class="tdc">”</td><td> </td><td class="tdr pr">14</td></tr>
+          <tr><td> </td>
+            <td class="tdl">4th</td>
+            <td class="tdc">”</td>
+            <td>(and rear)</td>
+            <td class="tdr br pr">21</td>
+            <td> </td>
+            <td class="tdl">4th</td>
+            <td class="tdc">”</td>
+            <td> </td>
+            <td class="tdr pr">14</td></tr>
+          <tr><td class="tdl">Rear—</td>
+            <td class="tdl">2d</td>
+            <td class="tdc">”</td>
+            <td> </td>
+            <td class="tdr br pr">12</td>
+            <td class="pl">Rear—</td>
+            <td class="tdl">2d</td>
+            <td class="tdc">”</td>
+            <td> </td>
+            <td class="tdr pr">12</td></tr>
+          <tr><td> </td>
+            <td class="tdl">3d</td>
+            <td class="tdc">”</td>
+            <td> </td>
+            <td class="tdr br pr">12</td>
+            <td> </td>
+            <td class="tdl">3d</td>
+            <td class="tdc">”</td>
+            <td> </td>
+            <td class="tdr pr">13</td></tr>
+          <tr><td> </td>
+            <td class="tdl">4th</td>
+            <td class="tdc">”</td>
+            <td>(see front)</td>
+            <td class="tdr br pr">—</td>
+            <td> </td>
+            <td class="tdl">4th</td>
+            <td class="tdc">”</td>
+            <td> </td>
+            <td class="tdr pr">13</td></tr>
+          <tr><td class="tdl">Rear house—</td>
+            <td class="tdl">1st</td>
+            <td class="tdc">”</td>
+            <td> </td>
+            <td class="tdr br pr">8</td>
+            <td class="pl">Rear house—</td>
+            <td class="tdl">1st</td>
+            <td class="tdc">”</td>
+            <td> </td>
+            <td class="tdr pr">10</td></tr>
+          <tr><td class="tdl"> </td>
+            <td class="tdl">2d</td>
+            <td class="tdc">”</td>
+            <td> </td>
+            <td class="tdr br pr">10</td>
+            <td class="pl"> </td>
+            <td class="tdl">2d</td>
+            <td class="tdc">”</td>
+            <td> </td>
+            <td class="tdr pr">12</td></tr>
+          <tr><td class="tdl"> </td>
+            <td class="tdl">3d</td>
+            <td class="tdc">”</td>
+            <td> </td>
+            <td class="tdr br pr">9</td>
+            <td class="pl"> </td>
+            <td class="tdl">3d</td>
+            <td class="tdc">”</td>
+            <td> </td>
+            <td class="tdr pr">11</td></tr>
+          <tr><td class="tdl"> </td>
+            <td class="tdl">4th</td>
+            <td class="tdc">”</td>
+            <td> </td>
+            <td class="tdr br bb pr">8</td>
+            <td class="pl"> </td>
+            <td class="tdl">4th</td>
+            <td class="tdc">”</td>
+            <td> </td>
+            <td class="tdr bb pr">10</td></tr>
+          <tr><td class="tdr">Total</td>
+            <td colspan="3"> </td>
+            <td class="tdr br pr">$127</td>
+            <td class="tdr">Total</td>
+            <td colspan="3"> </td>
+            <td class="tdr pr">$144</td></tr>
+        </tbody></table>
 
 <p>An increased rental of $17 per month, or $204 a year, and an advance of
 nearly thirteen and one-half per cent. on the gross rental "in favor"
@@ -6933,11 +7003,11 @@ life in the tenements--the dearth of water in the hot summer days--will
 also have been remedied, and a long step taken toward the moral and
 physical redemption of their tenants.</policing></p>
 
-  <illustration name= "EVOLUTION OF THE TENEMENT IN TWENTY YEARS.">[Illustration: EVOLUTION OF THE TENEMENT IN TWENTY YEARS.</illustration>
+  <illustration name= "EVOLUTION OF THE TENEMENT IN TWENTY YEARS.">[Illustration: EVOLUTION OF THE TENEMENT IN TWENTY YEARS.
 
                  Old Style Tenement.
 
-                 Single Lot Tenement of To-day.]
+                 Single Lot Tenement of To-day.]</illustration>
 
 <p><conditions type= "living">Public sentiment has done something also, but very far from enough.
 As a rule, it has slumbered peacefully until some flagrant outrage
