@@ -10,7 +10,7 @@
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes"/>
     <xsl:variable name="riis" select="document('../xml/currentriis.xml')"/>
     
-    <xsl:template match="$negTrans">
+    <xsl:template match="riis">
         <xsl:result-document method="xhtml" indent="yes" href="../docs/testreadingview.html">
         <html>
             
