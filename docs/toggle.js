@@ -73,15 +73,9 @@ function toggle() {
         };
         break;
         
-         case "tabletoggle": {
-            var ref = document.getElementsByClassName("table");
-            for (var i = 0; i < ref.length; i++) {
-                ref[i].classList.toggle("on")
-            }
-        };
-        break;
+       
         
-         case "childrentoggle": {
+        case "childrentoggle": {
             var ref = document.getElementsByClassName("children");
             for (var i = 0; i < ref.length; i++) {
                 ref[i].classList.toggle("on")
