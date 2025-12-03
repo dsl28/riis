@@ -63,10 +63,10 @@
      
                     
                     <!-- universal variables-->
-                    <xsl:variable name="xspacer" select="30"/>
+                    <xsl:variable name="xspacer" select="0.1"/>
                     <xsl:variable name="yspacer" select="15"/>
-                    <svg viewBox="0 0 1000 650">
-                        <g transform="translate(250,10)">
+                    <svg viewBox="0 0 1000 1000">
+                        <g transform="translate(25,10)">
                             <xsl:for-each select=".//chapter">
 
                                 <!--slc: these are local variables-->
@@ -83,16 +83,31 @@
                                     y1="{$yspacer * $chapNum}" y2="{$yspacer * $chapNum}"
                                     stroke-width="10" stroke="red"/>
                                 <!--slc: this creates the next bar down-->
-                                <line x1="$xspacer * conditions" x2="{$xspacer * $crime+$conditions}" 
+                                <line x1="{$xspacer * $conditions}" x2="{$xspacer * ($crime+$conditions)}" 
                                     y1="{$yspacer * $chapNum}" y2="{$yspacer * $chapNum}"
-                                    stroke-width="10" stroke="red"/>
+                                    stroke-width="10" stroke="blue"/>
+                                <!--slc:this continues till end-->
+                                <line x1="{$xspacer * ($conditions + $crime)}" x2="{$xspacer * ($vice+$crime+$conditions)}" 
+                                    y1="{$yspacer * $chapNum}" y2="{$yspacer * $chapNum}"
+                                    stroke-width="10" stroke="green"/>
+                                <line x1="{$xspacer * ($conditions + $crime + $vice)}" x2="{$xspacer * ($immigrants+$vice+$crime+$conditions)}" 
+                                    y1="{$yspacer * $chapNum}" y2="{$yspacer * $chapNum}"
+                                    stroke-width="10" stroke="yellow"/>
+                                <line x1="{$xspacer * ($conditions + $crime + $vice + $immigrants)}" x2="{$xspacer * ($disease+$immigrants+$vice+$crime+$conditions)}" 
+                                    y1="{$yspacer * $chapNum}" y2="{$yspacer * $chapNum}"
+                                    stroke-width="10" stroke="orange"/>
+                                <line x1="{$xspacer * ($conditions + $crime + $vice + $immigrants + $disease)}" x2="{$xspacer * ($work+$disease+$immigrants+$vice+$crime+$conditions)}" 
+                                    y1="{$yspacer * $chapNum}" y2="{$yspacer * $chapNum}"
+                                    stroke-width="10" stroke="pink"/>
+                                <line x1="{$xspacer * ($conditions + $crime + $vice + $immigrants + $disease + $work)}" x2="{$xspacer * ($death+$work+$disease+$immigrants+$vice+$crime+$conditions)}" 
+                                    y1="{$yspacer * $chapNum}" y2="{$yspacer * $chapNum}"
+                                    stroke-width="10" stroke="purple"/>
                                 <!--slc: ignore this for now
                                 <text x="-10" y="{$yspacer * $conditions}" text-anchor="end">
                                     <xsl:value-of select="$conditions"/><xsl:text>: </xsl:text>
                                     <xsl:apply-templates select="string()[1]"/></text>
-                                -->
-                                <!--whc: this places the count number after the end of each bar-->
-                              <!--
+                                
+                              <!
                                 <text x="{$xspacer * $chapter + 10}" y="{$yspacer * $conditions}" text-anchor="right">
                                     <xsl:value-of select="$conditions"/></text>
                                 -->
