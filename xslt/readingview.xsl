@@ -31,6 +31,26 @@
         <table><xsl:apply-templates select="@*|node()"/></table>
         </xsl:template>
     
+    <xsl:template match="tbody">
+        <tbody><xsl:apply-templates select="@*|node()"/></tbody>
+    </xsl:template>
+    
+    <xsl:template match="tr">
+        <tr><xsl:apply-templates select="@*|node()"/></tr>
+    </xsl:template>
+    
+    <xsl:template match="td">
+        <td><xsl:apply-templates select="@*|node()"/></td>
+    </xsl:template>
+    
+    <xsl:template match="a">
+        <a><xsl:apply-templates select="@*|node()"/></a>
+    </xsl:template>
+    
+    <xsl:template match="p">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
+    
     <xsl:template match="immigrants">
         <span class="immigrants"><xsl:apply-templates/></span>
     </xsl:template>
