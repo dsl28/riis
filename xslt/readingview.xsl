@@ -14,13 +14,38 @@
         <html>
             
             <head><title>How The Other Half Lives</title>
-                <link rel="stylesheet" type="text/css" href="style.css"/></head> 
+                <link rel="stylesheet" type="text/css" href="style.css"/>
+                <script type="text/javascript" src="../docs/toggle.js">/**/</script>
+            </head>
+            
             
             <body>
                 <div id="menu">
                     <a href="index.html">Home</a> | <a href="about.html">About:</a> | <a href="readingview.html">Augmented Reading View:</a> | <a href="charts.html">Charts and Data:</a> | <a href="team.html">Meet Our Team!</a> 
                 </div>
                 
+                <h1><i>How the Other Half Lives</i> by Jacob A. Riis</h1>
+                <h1>Transcribed by Project Gutenberg from the original text</h1>
+                
+                <h2><i>Language contained within the text may be considered offensive to some, in regards to how Riis refers to 
+                    various ethnic groups. These views are part of a historic publication and do not represent the beliefs of
+                    Project Riis, its contributors, or the University of Pittsburgh.</i> </h2>
+                
+                
+                <div id="fieldset">
+                    <fieldset>
+                        <legend>Click to Highlight:</legend><input type="checkbox" id="immigrantstoggle" style="cursor:pointer" /><span class="immigrants">Immigrants</span><br /><input type="checkbox" id="conditionstoggle" style="cursor:pointer" /><span class="conditions">Conditions</span><br /><input type="checkbox" id="deathtoggle" style="cursor:pointer" /><span class="death">Death</span><br /><input type="checkbox" id="vicetoggle" style="cursor:pointer" /><span class="vice">Vice</span><br /><input type="checkbox" id="diseasetoggle" style="cursor:pointer" /><span class="disease">Disease</span><br /><input type="checkbox" id="crimetoggle" style="cursor:pointer" /><span class="crime">Crime</span><br />
+                        <input type="checkbox" id="worktoggle" style="cursor:pointer" /><span class="work">Work</span><br /> <input type="checkbox" id="policingtoggle" style="cursor:pointer" /><span class="policing">Policing</span><br /> <input type="checkbox" id="childrentoggle" style="cursor:pointer" /><span class="children">Children</span><br /> <input type="checkbox" id="charitytoggle" style="cursor:pointer" /><span class="charity">Charity</span><br />  
+                    </fieldset>
+                    </div>
+                
+                <h2>Table of Contents</h2>
+                
+               <ol><xsl:apply-templates select = "descendant::tableofcontents" mode ="toc"/>
+                </ol>
+                <hr/>
+                
+                <xsl:apply-templates select="descendant::tableofcontents"/>
                 
                 
                 <!--whc: OK, now for the page content. Because you have a mix of elements in the XML, you won't want to use an xsl:for-each. Instead, use <xsl:apply-templates/>, without a select attribute, to say "pass over the whole text of the input document". Below that, maybe put an <hr/> element (horizontal rule, to separate parts of the page), add a footer to the page, and then you're at the end of your top-level template rule: that should be followed by the closing tags for body and html. Everything thereafter will be separate template rules that say, for example, match on <p> in the input and re-tag it with <p> in the output. You'll need to decide what heading sizes to use for things like chapter titles. The template rules you have below to tag bits of text with span/class look good and should start to work right away at that point. This is also where Hunter should be adding the special template rules to handle the tables. These will look a little different because they will say, in effect, "anything inside a table element should be passed over including all elements, attributes, and attribute values". -->
