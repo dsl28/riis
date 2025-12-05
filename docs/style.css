@@ -109,14 +109,14 @@ width: 100%;
     padding-right: 1em
     }
 .bb {
-    border-bottom: solid black 1px
-    }
+/*    border-bottom: solid black 1px
+*/    }
 .br {
-    border-right: solid black 1px
-    }
+/*    border-right: solid black 1px
+*/    }
 .bt {
-    border-top: solid black 1px
-    }
+/*    border-top: solid black 1px
+*/    }
 .hng {
     padding-left: 0.25in;
     text-indent: -0.25in;
