@@ -56,6 +56,10 @@
     </xsl:template>
     
     <xsl:template match="table">
+    <xsl:copy-of select="."/>
+    </xsl:template>
+    
+    <!--<xsl:template match="table">
         <table><xsl:apply-templates/></table>
         </xsl:template>
     
@@ -79,7 +83,7 @@
     
     <xsl:template match="a">
         <a><xsl:apply-templates/></a>
-    </xsl:template>
+    </xsl:template>-->
     
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>
