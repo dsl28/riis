@@ -45,7 +45,7 @@
                 </ol>
                 <hr/>
                 
-                <xsl:apply-templates select="descendant::tableofcontents"/>
+                
                 
                 
                 <!--whc: OK, now for the page content. Because you have a mix of elements in the XML, you won't want to use an xsl:for-each. Instead, use <xsl:apply-templates/>, without a select attribute, to say "pass over the whole text of the input document". Below that, maybe put an <hr/> element (horizontal rule, to separate parts of the page), add a footer to the page, and then you're at the end of your top-level template rule: that should be followed by the closing tags for body and html. Everything thereafter will be separate template rules that say, for example, match on <p> in the input and re-tag it with <p> in the output. You'll need to decide what heading sizes to use for things like chapter titles. The template rules you have below to tag bits of text with span/class look good and should start to work right away at that point. This is also where Hunter should be adding the special template rules to handle the tables. These will look a little different because they will say, in effect, "anything inside a table element should be passed over including all elements, attributes, and attribute values". -->
@@ -54,6 +54,10 @@
         </html>
         </xsl:result-document>
     </xsl:template>
+    
+    <xsl:template match="descendant::tableofcontents"/>
+    
+    
     
     <xsl:template match="table">
     <xsl:copy-of select="."/>
