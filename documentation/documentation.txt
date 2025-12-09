@@ -1,0 +1,29 @@
+﻿2025 How The Other Half Lives Research Project
+Team Members
+* Dylan Leonard
+* Hunter Johnson
+* Sam Capasso
+
+
+Special thanks:
+Thank you Dr. Campbell and Avi Zilberman for attending our meetings and providing guidance as we worked through this project.
+
+
+Original Research Question: How does the other half live?
+
+
+Source Document:
+* How The Other Half Lives Project Gutenberg 
+   * for our project we downloaded this as HTML
+
+
+Our Process:
+When we first began this project we knew we wanted to work with this text, but we were unsure of exactly what it was we wanted to do with it. After meeting a few times to discuss this we decided that the answer was pretty obvious. We wanted to figure out how the other half lived, and make it easier for readers to figure that out as well.
+We began by all reading the text and creating a list of XML tags that we could use to categorize each of the things that Riis talks about so that we could eventually implement a feature that would allow readers to check a box and have our reading view highlight each mention of that subject. For example the reader could check the “crime” box and every mention of crime from the book would then be highlighted.
+The full non-formatting tag list that we decided on is as follows: Immigrants, Conditions, Death, Vice, Disease, Crime, Work, Policing, Children, Charity, Footnote, Illustration.
+As we worked through our XML markup we encountered several issues and had to adjust our structure. During our initial tagging we did not mark any of our paragraphs with the <p> tags which would have caused us to be unable to use our text in an html reading view. Additionally we had a chaptitle and chapnum tag that came before our chapter tags which would have caused the chapters to be difficult to identify and left the chaptitle and chapnum tags floating between paragraphs. Lastly we had a few of our attribute values mistyped, for example we had some of our “working” values labeled as “work”. A second pass of the text allowed us to fix all of those issues and get our XML working. 
+Once we finished up our XML we began serious planning of our website. We decided that a dark muted/pastel color scheme would be appropriate due to the nature of the text and subject matter. We want our main page to be a reading view with a standard navigation bar at the top of the page that will allow the viewer to navigate between our various graphs and side pages and a floating box that will stick to the left of the screen with the check boxes to highlight the text. Below is our (excellent) concept drawing.  
+We also decided that it would be important for us to have a disclaimer stating that the views Riis expresses, especially the ones he shares of the various immigrants, are entirely his own and do not represent the views of the website creators.
+        Dylan created the main website as well as the augmented reading view. The main reading view was created with HTML and formatted using CSS. The click to check boxes for the reading view were created using javascript that ties back into the CSS to change the color of the text attached to the boxes and to highlight the appropriate text. The team decided on a muted pastel color scheme to go with the gray/black/white main website colors and to try to better match the tone of the text.
+        The text that we based our project on, provided by Project Gutenberg, had an HTML download that included pre-formatted tables from the text. Hunter went through those, downloaded them and then adjusted our schema to accommodate them. Hunter then wrote the XSLT necessary to display the tables in the reading view.
+        Sam wrote a program that counted the length of the text in each element per chapter and then created a segmented bar graph that could be used to see the data at a glance, this was then added to the charts and data tab of our website.
