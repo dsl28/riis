@@ -17,7 +17,8 @@
             <html>
                 <head>
                     <title>Cause and Frequency</title>
-                    <link/>
+                    <link rel="stylesheet" type="text/css" href="style.css"></link>
+                    <div id="menu"><a href="index.html">Home</a> | <a href="about.html">About:</a> | <a href="testreadingview.html">Augmented Reading View:</a> | <a href="johnsongraphs.html">Graphs:</a> | <a href="SLC_excerciseE.html">Charts and Data:</a> | <a href="team.html">Meet Our Team!</a> | <a href="links.html">Links:</a></div>
                 </head>
                     <body>
                         <h1>Total Causes of Death</h1>
@@ -30,11 +31,11 @@
                             </tr>                                                                                       
                         </xsl:for-each-group>  
                         </table> 
-                        
-                        
-                        <h1></h1>
+                                                
+                        <h1>Graph of the Total Causes of Death</h1>
+                        This graph represents how many causes of death there were throughout the book and also the number of deaths associated with said cause.
                         <svg viewBox="0 0 500 500">
-                            <g transform="translate(200,50)">
+                            <g transform="translate(200,10)">
                                 <xsl:for-each-group select=".//death" group-by="@cause">
                                     <xsl:sort select="count(current-group())" order="descending"/>
                                     
@@ -43,8 +44,8 @@
                                     <xsl:variable name="cause" select="@cause"/>
                                     
                                     <line x1="0" x2="{$xspacer * $cause-count}" y1="{$yspacer * position()}" y2="{$yspacer * position()}" stroke-width="10" stroke="red"/>
-                                    <text x="-25" y="{$yspacer * position() + 5}" text-anchor="end"><xsl:value-of select="@cause"/></text>
-                                    <text x="{$xspacer * $cause-count + 10}" y="{$yspacer * position() + 5}" text-anchor="right"><xsl:value-of select="$cause-count"/></text>
+                                    <text x="-25" y="{$yspacer * position() + 5}" text-anchor="end" stroke="white"><xsl:value-of select="@cause"/></text>
+                                    <text x="{$xspacer * $cause-count + 10}" y="{$yspacer * position() + 5}" text-anchor="right" stroke="white"><xsl:value-of select="$cause-count"/></text>
                                 </xsl:for-each-group>   
                                 
                                 <line x1="0" y1="0" x2="0" y2="{count(//div) * $yspacer}" stoke="blue" stroke-width="1"/>
@@ -52,7 +53,7 @@
                             </g>                                                                                                                                       
                         </svg>
                         
-                      <!-- add sentence or two to describe graph, copy in the nav bar in head above h1 and css goes in link, stroke white in text elements, may need to move graph over in transform/translate, if not add the font element  -->  
+                      <!-- may need to move graph over in transform/translate, if not add the font element  -->  
                         
                         
                         <h1>Causes of Death by Chapter</h1>
