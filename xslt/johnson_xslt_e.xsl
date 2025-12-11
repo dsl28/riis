@@ -48,8 +48,7 @@
                                     <text x="{$xspacer * $cause-count + 10}" y="{$yspacer * position() + 5}" text-anchor="right" stroke="white"><xsl:value-of select="$cause-count"/></text>
                                 </xsl:for-each-group>   
                                 
-                                <line x1="0" y1="0" x2="0" y2="{count(//div) * $yspacer}" stoke="blue" stroke-width="1"/>
-                                
+                                <line x1="0" y1="0" x2="0" y2="{count(//div) * $yspacer}" stoke="blue" stroke-width="1"/>                                
                             </g>                                                                                                                                       
                         </svg>
                         
